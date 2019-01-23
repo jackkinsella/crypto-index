@@ -1,0 +1,90 @@
+<section class="section features">
+  <div class="container">
+    <div class="hero">
+      <div class="hero-body has-text-centered">
+        <h1 class="title">Introducing the Market10</h1>
+      </div>
+    </div>
+
+    <div class="columns">
+      <div class="column is-6" style="display: flex; justify-content: center; align-items: center;">
+        <%= render_component 'FinancialChart',
+          labels: @data.map { |time, _value| time },
+          values: @data.map { |_time, value| value },
+          settings: {
+            currencySymbol: '',
+            displayScales: false,
+            theme: 'light'
+          }
+        %>
+      </div>
+
+      <div class="column is-5 is-offset-1">
+        <div class="columns is-mobile">
+          <div class="column is-3" style="margin-bottom: 0">
+            <div class="icon is-large has-text-info">
+              <i class="fas fa-fw fa-2x fa-signal"></i>
+            </div>
+          </div>
+
+          <div class="column is-9" style="margin-bottom: 0">
+            <div class="content">
+              <p>
+                Tracks the top 10 cryptocurrencies by market cap (adjusted for coin inflation).
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="columns is-mobile">
+          <div class="column is-3" style="margin: 0 0">
+            <div class="icon is-large has-text-info">
+              <i class="fas fa-fw fa-2x fa-balance-scale"></i>
+            </div>
+          </div>
+
+          <div class="column is-9" style="margin: 0 0">
+            <div class="content">
+              <p>
+                Excludes stablecoins and scam coins.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="columns is-mobile">
+          <div class="column is-3" style="margin: 0 0">
+            <div class="icon is-large has-text-info">
+              <i class="fas fa-fw fa-2x fa-calendar-check"></i>
+            </div>
+          </div>
+
+          <div class="column is-9" style="margin: 0 0">
+            <div class="content">
+              <p>
+                Rebalances monthly.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="columns is-mobile">
+          <div class="column is-3" style="margin: 0 0 0 0">
+            <div class="icon is-large has-text-info">
+              <i class="fas fa-fw fa-2x fa-chart-pie"></i>
+            </div>
+          </div>
+
+          <div class="column is-9" style="margin: 0 0 0 0">
+            <div class="content">
+              <p>
+                Minimum component weight: <%= @index.minimum_component_weight.as_percent %>%.<br>
+                Maximum component weight: <%= @index.maximum_component_weight.as_percent %>%.<br>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,15 @@
+<%= render_component 'Navbar',
+  brand: 'Admin',
+  items: {
+    'Users' => admin_users_path,
+    'Currencies' => admin_currencies_path,
+    'Valuations' => admin_valuations_path
+  },
+  assets: {
+    logo: 'images/logos/crypto_index-admin.svg'
+  },
+  paths: {
+    current: request.fullpath,
+    home: admin_path
+  }
+%>

@@ -1,0 +1,4 @@
+email,password,phone,first_name,last_name,street_line_1,street_line_2,zip_code,city,region,country_alpha2_code
+signed-up@example.com,password,+16135550172,Bill,Gates,1 Edward Street,,M5G 1C9,Toronto,Ontario,CA
+deposited@example.com,password,+16135550178,Tom,Swift,Slezská 857/45,,130 00,Praha 3-Vinohrady,,CZ
+rebalanced@example.com,password,+16135550179,Tom,Collins,2 Edward Street,,M5G 1C9,Toronto,Ontario,CA

@@ -1,0 +1,27 @@
+.transactions {
+  .box {
+    @extend .is-size-6;
+
+    max-width: 70vw;
+    white-space: normal;
+    word-wrap: break-word;
+  }
+
+  .table td,
+  .table th {
+    background-color: $gray-lightest;
+    vertical-align: middle;
+
+    &:first-of-type {
+      width: 48px;
+    }
+
+    &:nth-of-type(2) {
+      font-weight: bold;
+    }
+
+    > .icon {
+      vertical-align: middle;
+    }
+  }
+}

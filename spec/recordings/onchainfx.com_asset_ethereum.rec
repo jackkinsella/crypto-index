@@ -1,0 +1,838 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ethereum price, network value, market cap, supply details | Onchain Finance</title>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107303493-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments)};
+      gtag('js', new Date());
+
+      gtag('config', 'UA-107303493-1');
+    </script>
+
+
+    <script src="/js/dependencies/sails.io.js"
+      autoConnect="false"
+      environment="production"
+      headers='{ "x-csrf-token": "null" }'
+    ></script>
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
+    <meta property="og:title" content="Cryptoasset rankings and metrics | OnChainFX" />
+    <meta property="og:image" content="http://onchainfx.com/images/logo_hor_std.png" />
+    <meta property="og:typte" content="website" />
+
+    <link id="core_theme" rel="stylesheet" href="/page_specific/styles/main.css?v=2.9.6" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!--<script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>-->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  
+
+    <script src="https://use.fontawesome.com/178d91a0a2.js"></script>
+   
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.15/r-2.1.1/datatables.min.css"/>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.15/r-2.1.1/datatables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.16/sorting/natural.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.16/sorting/numeric-comma.js"></script>
+
+    <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:653415,hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+
+    <!--STYLES-->
+    <link rel="stylesheet" href="/min/production.min.css?v=1526096425">
+    <!--STYLES END-->
+  </head>
+
+  <body>
+    <script type="text/javascript" src="/page_specific/js/asset.js?v=2.9.6"></script>
+<script type="text/javascript" src="/page_specific/js/asset_common.js?v=2.9.6"></script>
+<link id="page_theme" rel="stylesheet" href="/page_specific/styles/asset.css?v=2.9.6" />
+
+<script type="text/javascript">
+    
+    // Common stuff
+    var pagename = "asset";
+    var server_base = "https://onchainfx.com";
+    var new_token = "b5cc802ae73a24fe82f3c245925d411df65b8f21491e4931e9fa9d5568f6484b";
+    var asset = {"name":"Ethereum","symbol":"ETH","slug":"ethereum","sectors":[20],"meta":{"status":"production","price_history":{"oldest":{"year":2015,"month":8,"day":7},"ath":{"USD":{"price":1431.77,"timestamp":1515877149,"currency":"USD"}},"roi":{"2016":{"start_price":0.96158,"end_price":8.23864,"roi":7.567815470371681},"2017":{"start_price":8.16096,"end_price":757.394,"roi":91.80697368936988,"start_mcap":720735075,"end_current_mcap":73233578613.668,"end_y2050_mcap":111318628980.41182},"html":"","data":[{"tf_slug":"2yr","tf":"2 years","ts":1463230591,"price_usd":10.1447},{"tf_slug":"1yr","tf":"1 year","ts":1494766591,"price_usd":93.0359},{"tf_slug":"ytd","tf":"Year-to-date","ts":1514764800,"price_usd":764.0343141762447},{"tf_slug":"3mo","tf":"3 months","ts":1518526591,"price_usd":847.1256565656568},{"tf_slug":"1mo","tf":"1 month","ts":1523710591,"price_usd":500.32383333333337},{"tf_slug":"1wk","tf":"1 week","ts":1525697791,"price_usd":745.2427719298247}]}}},"key_metrics":{"marketcap_current":69928971349.87099,"marketcap_24hr_percent_change":0.003062132241183998,"price_usd":703.302150730931,"price_btc":0.08376890005454388,"vol_last24":2754740000,"tx_last24":"?","age":88032623,"supply_issued":99429486,"supply_authorized":110000000,"supply_y2050":146975852.70072356,"supply_y2050_percent_issued":0.6765021884408534,"marketcap_y2050_implied":103368433309.93138,"marketcap_full_implied":"","vladimir_club_cost":10336843.330993138,"daily_energy_cost":null,"github_activity":null,"marketcap_24hr_percent_change_btc":0.0228246068373717,"ath_usd":1431.77,"ath_usd_ts":1515877149,"ath_usd_perc":0.5087883174455876,"tx_vol_24hr":1598711976.12,"tx_count_24hr":826099,"generated_coins_24hr":14532969.708127327,"fees_24hr":507609.1447571284,"nvt_24hr":42.752592696993965,"roi_2011":"","roi_2012":"","roi_2013":"","roi_2014":"","roi_2015":"","roi_2016":7.567815470371681,"roi_2017":91.80697368936988,"price_btc_normalized_supply":4105.514589167505,"price_btc_normalized_supply_y2050":4926.177995951453,"price_usd_roi_7d":-0.056277796684008674,"price_usd_roi_30d":0.4056938803919946,"price_usd_roi_90d":-0.16977824331021038,"price_usd_roi_1yr":6.559470599316296,"gh_stars":17505,"gh_watchers":1791,"gh_commits_90d":218,"gh_commits_365d":852,"gh_additions_90d":41605,"gh_additions_365d":362570,"gh_deletions_90d":25979,"gh_deletions_365d":2604828},"history":{"release_date":1438269973,"initial_distribution_method":"ico"},"summary":{"descr":"Ethereum is a decentralized 'smart contract' platform, and is said to be the first Turing Complete<sup>1</sup> blockchain. In addition to executing payment-style transactions like Bitcoin, arbitrary code (programs) can be run on Ethereum. This opens the possibility for decentralized applications and organizations and offers a rich programming environment for developers when compared to earlier blockchains. Key trade-offs include a larger 'attack surface', and more difficult long-term scaling considerations."},"structure":{"consensus_mechanism":"Proof-of-Work","supply":{"type":"low_inflation","max":null,"tail_emission":{"type":"percentage","amount":1.25,"duration":"perpetual","descr":"probably ~1%","status":"design-phase"},"eventual":{"key_data":{"Type":"Low inflation","Max":"Switch to PoS expected at ~100m coins; 0.5-2% PoS emission thereafter.","Distribution method":"Proof-of-Work initally, Proof-of-Stake ultimately","Estimated supply at PoS introduction":100000000,"Estimated date of PoS introduction":"~2019. See details.","Eventual PoS issuance":"0.5%-2.00%, see details.","Ongoing emission type":"Proof-of-Stake","Mechanics":"Decaying emission, then PoS constant inflation"},"details":"To date, the Ethereum community has prioritized various system properties over producing a concrete monetary policy, but there's nevertheless some rough consensus on what eventual monetary policy will look like. Further, it is expected that with upcoming system upgrades, various aspects of monetary policy will be finalized.<br /><br />The consensus today is that Ethereum will move to Proof-of-Stake issuance in the next 2 years<sup>1</sup> or so, at which point roughly 100 million ETH<sup>2</sup> will have been mined. It is not well-defined what the issuance rate will be after the switchover to Proof-of-Stake, but the range of 0.5%-2% has been targeted<sup>3</sup>. Note that this perpetual inflation will accrue proportionally to existing ETH holders who decide to let their ETH participate in new-block 'validation'. Critically, from an investment perspective, this means that existing holders can prevent dilution without having to explicitly purchase new coins.","footnotes":[{"num":1,"name":"comments on Casper & sharding timeline","path":"https://answers.thenextweb.com/s/vitalik-buterin-13gxQB","descr":"Vitalik Buterin states that sharding is roughly 3-5 years away, and that Casper (full proof-of-stake) will be released well before sharding. OnChain Finance therefore estimates Casper release at roughly mid 2019."},{"num":2,"name":"proof of work issuance table","path":"https://np.reddit.com/r/ethereum/comments/5izcf5/lets_talk_about_the_projected_coin_supply_over/dbc66rd/","descr":"From this table, it's clear that Ethereum's proof-of-work generated supply will likely be around 97million when proof-of-stake is released."},{"num":3,"name":"Vitalik Buterin on Casper inflation rate","path":"https://twitter.com/VitalikButerin/status/879858608091144193"}]},"references":[{"name":"Bitcoin Wiki - Controlled Supply","path":"https://en.bitcoin.it/wiki/Controlled_supply"}]}},"chain_data":{},"social":{"github":{"owner":"ethereum","repos":[{"name":"go-ethereum","descr":"Official Go implementation of the Ethereum protocol"}]}},"resources":{"misc":[{"name":"Casper research","path":"https://github.com/ethereum/research/tree/master/casper4/papers"},{"name":"Mauve Paper","path":"https://cdn.hackaday.io/files/10879465447136/Mauve%20Paper%20Vitalik.pdf"}]},"trading":{},"createdAt":"2017-10-01T02:02:38.564Z","updatedAt":"2018-05-14T12:56:36.715Z","categories":[20],"id":"59d04cbe68ae96b853a987a4"};
+    var btc_asset = {"name":"Bitcoin","symbol":"BTC","slug":"bitcoin","sectors":[10],"meta":{"status":"production","price_history":{"oldest":{"year":2013,"month":4,"day":28},"ath":{"USD":{"price":20089,"timestamp":1513513154,"currency":"USD"}},"roi":{"2011":{"start_price":0.296,"end_price":4.5,"roi":14.2027027},"2012":{"start_price":4.9,"end_price":13.47,"roi":1.748979},"2013":{"start_price":13.35,"end_price":729,"roi":53.60674},"2014":{"start_price":745,"end_price":315,"roi":-0.57718},"2015":{"start_price":316,"end_price":428,"roi":0.3544},"2016":{"start_price":433,"end_price":821.69,"roi":0.897667},"2017":{"start_price":826.108,"end_price":14132.8,"roi":16.107690519883597,"start_mcap":15641622845,"end_current_mcap":237069593640,"end_y2050_mcap":296555543767.0375},"html":"<div id='asset_roi_wrapper'><div class='asset_roi_item row'>\t<div class='col-xs-6'>\t\t<p class='asset_roi_tf'>1 week</p>\t</div>\t<div class='col-xs-3'>\t\t<p class='asset_roi_value'>-3%</p>\t</div>\t<div class='col-xs-3'></div></div><div class='asset_roi_item row'>\t<div class='col-xs-6'>\t\t<p class='asset_roi_tf'>1 month</p>\t</div>\t<div class='col-xs-3'>\t\t<p class='asset_roi_value'>29%</p>\t</div>\t<div class='col-xs-3'></div></div><div class='asset_roi_item row'>\t<div class='col-xs-6'>\t\t<p class='asset_roi_tf'>3 months</p>\t</div>\t<div class='col-xs-3'>\t\t<p class='asset_roi_value'>201%</p>\t</div>\t<div class='col-xs-3'></div></div><div class='asset_roi_item row'>\t<div class='col-xs-6'>\t\t<p class='asset_roi_tf'>1 year</p>\t</div>\t<div class='col-xs-3'>\t\t<p class='asset_roi_value'>1,520%</p>\t</div>\t<div class='col-xs-3'></div></div><div class='asset_roi_item row'>\t<div class='col-xs-6'>\t\t<p class='asset_roi_tf'>3 years</p>\t</div>\t<div class='col-xs-3'>\t\t<p class='asset_roi_value'>4,868%</p>\t</div>\t<div class='col-xs-3'></div></div></div>","data":[{"tf_slug":"5yr","tf":"5 years","ts":1368622592,"price_usd":114.156},{"tf_slug":"1yr","tf":"1 year","ts":1494766592,"price_usd":2183.63},{"tf_slug":"ytd","tf":"Year-to-date","ts":1514764800,"price_usd":13673.91762452108},{"tf_slug":"3mo","tf":"3 months","ts":1518526592,"price_usd":8672.53212121212},{"tf_slug":"1mo","tf":"1 month","ts":1523710592,"price_usd":7996.002807017546},{"tf_slug":"1wk","tf":"1 week","ts":1525697792,"price_usd":9372.105877192986}]}}},"key_metrics":{"marketcap_current":143004160464.8557,"marketcap_24hr_percent_change":-0.019321469647953136,"price_usd":8395.74293410794,"price_btc":1,"vol_last24":6508570000,"tx_last24":"?","age":295296096,"supply_issued":17032937,"supply_y2050":20983495.3984375,"supply_y2050_percent_issued":0.8117302039806166,"marketcap_y2050_implied":176172033224.3181,"vladimir_club_cost":17617203.322431814,"daily_energy_cost":null,"github_activity":null,"marketcap_24hr_percent_change_btc":0,"ath_usd":20089,"ath_usd_ts":1513513154,"ath_usd_perc":0.5820726300906993,"tx_vol_24hr":8447266642.54,"tx_count_24hr":213497,"generated_coins_24hr":13328241.907896355,"fees_24hr":324177.29723010527,"nvt_24hr":21.63816362317352,"roi_2011":14.2027027,"roi_2012":1.748979,"roi_2013":53.60674,"roi_2014":-0.57718,"roi_2015":0.3544,"roi_2016":0.897667,"roi_2017":16.107690519883597,"price_btc_normalized_supply":8395.74293410794,"price_btc_normalized_supply_y2050":8395.74293410794,"price_usd_roi_7d":-0.10417754087275345,"price_usd_roi_30d":0.04999249459236934,"price_usd_roi_90d":-0.03191561394476493,"price_usd_roi_1yr":2.8448560122859368,"gh_stars":31408,"gh_watchers":3266,"gh_commits_90d":422,"gh_commits_365d":1795,"gh_additions_90d":14078,"gh_additions_365d":127757,"gh_deletions_90d":9216,"gh_deletions_365d":74732},"summary":{"descr":"Bitcoin is the first decentralized digital currency. It was made possible by a breakthrough in computer science which brought together decades worth of research into decentralized systems and digital cash. Bitcoin made it possible for digital goods to be scarce (uncopyable) without any centralized institution controlling it. Bitcoin is used as electronic cash and digital gold.","launch_date":"Jan 3, 2009","whitepaper":{"name":"Bitcoin: A Peer-to-Peer Electronic Cash System","author":"Satoshi Nakamoto","path":"https://bitcoin.org/bitcoin.pdf"},"applications":"Bitcoin was developed and released as a 'peer-to-peer electronic cash system' and has grown to be considered 'digital gold'. See 'analysis' below."},"history":{"release_date":1231006500,"initial_distribution_method":"Proof-of-Work"},"structure":{"consensus_mechanism":"Proof-of-Work","mining_alg":"SHA256","blocktime":600,"current reward per block":12.5,"supply":{"type":"fixed","max":21000000,"tail_emission":null,"decay":{"type":"halving","period":210000},"eventual":{"key_data":{"Type":"Capped supply","Max":21000000,"Ongoing emission type":"Proof-of-Work","Mechanics":"Decaying emission","Final coin date":"2140","Halving period":"Every 210,000 blocks"},"details":"The rate at which new bitcoins are created is algorithmically cut in half roughly every 4 years (210,000 blocks). Bitcoin has gone through two halvings to date; in November 2012, and again in July 2016. Since blocks are generated every 10 minutes on average, and starting at 50 new bitcoins per block when the system was launched in 2009, this creates a very well-defined supply curve. The stability of Bitcoin's monetary policy a key differentiator versus other crypto assets."},"references":[{"name":"Bitcoin Wiki - Controlled Supply","path":"https://en.bitcoin.it/wiki/Controlled_supply"}]},"scaling_detail":{"descr":"Bitcoin is scheduled to activate an upgrade 'segregated witness' in August 2017. This upgrade will enable a theoretical transaction capacity of about 25 transactions per second, with a maximum-possible data-size of 4mb per block."}},"chain_data":{"Average Block Size":"1mb","Hashrate":"6.5 ExaHashes/s","Difficulty":"804,525,194,568","Next Difficulty Estimate":"+9.08%","Blockchain Size":"~130GB"},"social":{"subreddits":[{"name":"/r/bitcoin","path":"https://www.reddit.com/r/bitcoin","descr":">250,000 subscribers"},{"name":"/r/btc","path":"https://www.reddit.com/r/btc","descr":">45,000 subscribers"},{"name":"/r/bitcoinmarkets","path":"https://www.reddit.com/r/bitcoinmarkets","descr":">35,000 subscribers"}],"fora":[{"name":"BitcoinTalk","path":"https://bitcointalk.com","descr":"The original Bitcoin forum"},{"name":"Bitcoin.com Forum","path":"https://forum.bitcoin.com/","descr":""}],"github":{"owner":"bitcoin","repos":[{"name":"bitcoin","path":"https://github.com/bitcoin/bitcoin","descr":"The primary C++ Bitcoin full-node client"},{"name":"bitcoinj","path":"https://github.com/bitcoinj/bitcoinj","descr":"A Java implementation of Bitcoin"},{"name":"bcoin","path":"https://github.com/bcoin-org/bcoin","descr":"A Javascript/NodeJS implementation of Bitcoin"},{"name":"btcd","path":"https://github.com/btcsuite/btcd","descr":"A Go implementation of Bitcoin"}]},"other":[{"name":"Dev Mailing List","path":"https://lists.linuxfoundation.org/pipermail/bitcoin-dev/","descr":""},{"name":"bitcoin-dev IRC","path":"https://webchat.freenode.net/?channels=bitcoin-dev&uio=d4","descr":""}]},"resources":{"websites":[{"name":"bitcoin.org","path":"https://bitcoin.org","descr":"A wealth of general information, ranging from a comprehensive FAQ for beginners, to reviews of wallet software and bitcoin-exchanges."},{"name":"bitcoin.com","path":"https://bitcoin.com","descr":"General information about Bitcoin, wallets, exchanges, plus news and a community forum."},{"name":"WeUseCoins","path":"https://weusecoins.com","descr":"Designed to be a visual and easy-to-understand guide for begiinners."},{"name":"Bitcoin Wiki","path":"https://en.bitcoin.it/wiki/Main_Page","descr":"Extensive information ranging from history to technical protocol details."},{"name":"Bitcoin StackExchange","path":"https://bitcoin.stackexchange.com/","descr":"Technical Q/A resource for developers."}],"explorers":[{"name":"blockchain.info","path":"https://blockchain.info/"},{"name":"btc.com","path":"https://btc.com"},{"name":"Bitpay Insight","path":"https://insight.bitpay.com/"}],"team":"","misc":[{"name":"Blockchain.info Charts","path":"https://blockchain.info/charts"},{"name":"MetaStable","path":"http://fortune.com/2017/07/26/bitcoin-cryptocurrency-hedge-fund-sequoia-andreessen-horowitz-metastable/"}]},"valuation_analysis":{"resources":[]},"trading":{"exchanges":[{"name":"GDAX","path":"https://gdax.com"},{"name":"Bitstamp","path":"https://bitstamp.net"},{"name":"Bitfinex","path":"https://www.bitfinex.com"}]},"createdAt":"2017-10-01T02:02:38.561Z","updatedAt":"2018-05-14T12:56:36.635Z","categories":[10],"id":"59d04cbe68ae96b853a987a3"};
+    var user_obj = {};
+    var generic_table_data = null;
+    var agg = {}; // aggregate data; ie, top gainers, losers, etc.     
+    var client_assets = null;    
+    var sector_list = []; 
+    var asset_viz = null; // the treemap
+    var asset_chart_options = null;
+    var asset_chart = null;
+    var asset_chart_config = {
+        "series_ids": [], 
+        "axis_ids": [],
+        "primary_series_color": "#03396C",
+        "secondary_series_color": "#D93240",
+        "s1_data":null,
+        "s2_data":null,
+        "last_render_ts":0, // in millis
+        "waiting_after_render": false // whether we're waiting following a render event (eg, to recalc correlation after user moves timerange)
+    };
+
+</script>
+
+
+
+<div id="main_asset_wrap" class="container-fluid">
+
+    <div class='row' id='main-header'>
+        <div id='' style=''>
+    <div id='heading_row_wrap' class='row no_margin' style='z-index: 10;'>
+        <div class='col-xs-6 col-sm-4 col-md-3' style='z-index: 90;'>
+            
+            <div id='intro_block_image_area' style='z-index: 100;'>
+                <a id='intro_block_logo_a' href="/"><!-- <img src="/images/logo_hor_ocfx_white.png" width="120px" alt="OnChainFX" />--></a>
+                <p id='intro_tagline' style='z-index: 110;'>Cryptoasset rankings<br />&amp; metrics</p>
+            </div>
+
+        </div>
+
+        
+
+        <div class='hidden-xs col-sm-2 col-md-2' id=''>
+            <div class='row'>
+                <div class='col-md-10 col-md-offset-1' id='permalink_wrap'>
+                    <div id="pubview_wrap"><p id="publish_view_btn" >Publish View</p></div> <!-- data-featherlight="#publish_view" -->
+                </div>
+            </div>
+        </div>
+
+
+        <div class='col-xs-6 col-sm-6 col-md-7' style='z-index: 20;'>
+            
+
+
+            <nav class="navbar navbar-default hidden-sm hidden-xs" id="main_navbar" style='z-index: 30;'>
+              <div class="container-fluid" style='z-index: 320;'>
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header" style='z-index: 34;'>
+                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false" style='z-index: 36;'>
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+                  <!--
+                  <a class="navbar-brand" href="#"></a>
+                    -->
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-collapse-1">
+
+                  <ul class="nav navbar-nav navbar-right">
+                    <li class=""><a href="/faq">FAQ</a></li>
+                    
+                  </ul>
+                  
+                  <ul class="nav navbar-nav navbar-right">
+                    <li class=""><a href="/metrics">Metrics</a></li>
+                  </ul>
+
+                  <ul class="nav navbar-nav navbar-right">
+                    <li class=""><a href="/categories">Asset Categories &amp; Sectors<span class="sr-only">(current)</span></a></li>
+                  </ul>
+
+                  <ul class="nav navbar-nav navbar-right">
+                    <li class=""><a href="/">Home</a></li>
+                    
+                  </ul>
+
+                </div><!-- /.navbar-collapse -->
+              </div><!-- /.container-fluid -->
+            </nav>
+
+
+
+
+            <nav class="navbar navbar-default visible-sm visible-xs" id="main_navbar" style='z-index: 30;'>
+              <div class="container-fluid" style='z-index: 320;'>
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header" style='z-index: 34;'>
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mobile-navbar-collapse-1" aria-expanded="false" style='z-index: 36;'>
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                <!--
+                <a class="navbar-brand" href="#"></a>
+                -->
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="mobile-navbar-collapse-1">
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class=""><a href="/">Home</a></li>
+                    </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#watchlist">My Flagged Assets</a></li>
+                    </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#movers">Gainers &amp; Losers</a></li>
+                    </ul>                    
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class=""><a href="/categories">Asset Categories &amp; Sectors<span class="sr-only">(current)</span></a></li>
+                    </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class=""><a href="/metrics">Metrics</a></li>
+                    </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class=""><a href="/faq">FAQ</a></li>
+                    </ul>
+
+                </div><!-- /.navbar-collapse -->
+              </div><!-- /.container-fluid -->
+            </nav>
+
+
+
+        </div>
+    </div>
+
+    <!--<p style='margin-top: 0px; padding: 2px 2px 2px 2px; font-size: 0.8em; color: #11152E'>beta</p>-->
+
+
+    <div class='row no_margin' style='background-color: #11152E;'>
+
+        <div class='col-md-4 col-md-offset-1'>
+        
+            <p class='gen_stat'>
+                <span class='gen_stat_label'>Total Y2050 Marketcap:
+                <span class='gen_stat_content' id="meta_total_y2050_marketcap"><img width="12px" src="/images/loading_basic.gif" alt="loading data..." /></span>
+            </p>    
+    
+        </div>
+
+        
+        <div class='col-md-4'>
+            <p class='gen_stat'>
+                <span class='gen_stat_label'>Total Current Marketcap:
+                <span class='gen_stat_content' id="meta_total_marketcap"><img width="12px" src="/images/loading_basic.gif" alt="loading data..." /></span>
+            </p>    
+        </div>
+    
+        <div class='col-md-3'>
+            <p class='gen_stat' style='float: left;'>
+                <span class='gen_stat_label'>Bitcoin Dominance:
+                <span class='gen_stat_content' id="meta_bitcoin_dominance"><img width="12px" src="/images/loading_basic.gif" alt="loading data..." /></span>
+            </p>    
+
+            <div style='float: right;' id='view_mode_toggle_wrap'>
+                <div id='view_mode_toggle'></div>
+            </div>
+            <br style='clear: both;' />
+        </div>
+
+    </div>
+    
+
+</div>
+
+
+    </div>
+
+    
+    <div class="row">
+
+        <div class='col-md-10 col-md-push-2' id='main_content_wrapper'>
+
+            <div class='row'>
+
+                <div class='col-md-12'>
+
+                    <div class='row' id='asset_heading_row'>
+                        <div class='col-md-4' id="asset_name_bar" style='z-index: 200; position: relative;'>
+                            <div id="asset_name_and_logo" style='position: absolute; top: 0px; left: 0px; z-index: 300; width: 150%;'>
+                                <h1>
+                                    <img src="/images/asset_logos/ethereum.png" width="40px" alt="Ethereum Logo" /> &nbsp; Ethereum (ETH)
+                                </h1>
+                                <div id="asset_meta">
+                                    <p id="sector_links_wrap">Sector(s): <a class='asset_sector_link' href='/sector/general_platform'>General Purpose Platform</a></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='col-md-8' id='asset_mcb_area' style='z-index: 100;'>
+                            <div class='row'> 
+                                <div class='col-md-2'>
+                                </div>
+
+                                <div class='col-md-2 metric_callout_wrap'>
+                                    <div class='metric_callout_box'>
+                                        <div class='mcb_content_double'>
+                                            <p class='mcb_two_item_spacing'>
+                                                $703.30<br />
+                                                <span class='mcb_perc_change'>(<span class='up_change_lite'>+0.31%</span>)</span>
+                                            </p>
+                                        </div>
+                                        <div class='mcb_title'><p>Price (USD)</p></div>
+                                    </div>
+                                </div>
+                                
+                                <div class='col-md-2 metric_callout_wrap'>
+                                    <div class='metric_callout_box'>
+                                        <div class='mcb_content_double'>
+                                            <p class='mcb_two_item_spacing'>
+                                                0.0838฿<br />
+                                                <span class='mcb_perc_change'>(<span class='up_change_lite'>+2.28%</span>)</span>    
+                                            </p>
+                                        </div>
+                                        <div class='mcb_title'><p>Price (BTC)</p></div>
+                                    </div>
+                                </div>
+                            
+                                <div class='col-md-2 metric_callout_wrap'>
+                                    <div class='metric_callout_box'>
+                                        <div class='mcb_content'><p class='mcb_one_item_spacing'>$2.8B</p></div>
+                                        <div class='mcb_title'><p>Trade Volume (24hrs)</p></div>
+                                    </div>
+                                </div>
+                           
+                                <div class='col-md-2 metric_callout_wrap'>
+                                    <div class='metric_callout_box'>
+                                        <div class='mcb_content'><p class='mcb_one_item_spacing'>$103.4B</p></div>
+                                        <div class='mcb_title'><p>Y2050 Implied Marketcap</p></div>
+                                    </div>
+                                </div>
+                            
+                                <div class='col-md-2 metric_callout_wrap'>
+                                    <div class='metric_callout_box'>
+                                        <div class='mcb_content'><p class='mcb_one_item_spacing'>67.65%</p></div>
+                                        <div class='mcb_title'><p>Y2050 Supply % Issued</p></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div id='main_content_row' class='row'>    
+                        
+                        <div class='col-md-12'>
+
+                            <div class='row'>
+
+
+                                <div class='col-md-4'>
+                                    
+                                    <div class='row aps_row' >
+                                        <div class='col-md-12'>       
+
+                                            <div class='asset_propset'>
+                                                <div class='aps_heading_wrap'><p class='aps_heading'>Snapshot</p></div>
+                                                <div class='aps_content_wrap'><div class='row km_item_row'>	<div class='col-xs-6 km_item_label_col'><p class='km_item_label'>Age</p></div>	<div class='col-xs-6 km_item_content_col'><p class='km_item_content'>2yrs 9mos</p></div></div><div class='row km_item_row'>	<div class='col-xs-6 km_item_label_col'><p class='km_item_label'>Marketcap (current)</p></div>	<div class='col-xs-6 km_item_content_col'><p class='km_item_content'>$69.9B</p></div></div><div class='row km_item_row'>	<div class='col-xs-6 km_item_label_col'><p class='km_item_label'>Marketcap (Y2050)</p></div>	<div class='col-xs-6 km_item_content_col'><p class='km_item_content'>$103.4B</p></div></div><div class='row km_item_row'>	<div class='col-xs-6 km_item_label_col'><p class='km_item_label'>Price (USD)</p></div>	<div class='col-xs-6 km_item_content_col'><p class='km_item_content'>$703.30</p></div></div><div class='row km_item_row'>	<div class='col-xs-6 km_item_label_col'><p class='km_item_label'>Price (BTC)</p></div>	<div class='col-xs-6 km_item_content_col'><p class='km_item_content'>0.0838฿</p></div></div><div class='row km_item_row'>	<div class='col-xs-6 km_item_label_col'><p class='km_item_label'>24hr Change (%)</p></div>	<div class='col-xs-6 km_item_content_col'><p class='km_item_content'><span class='up_change'>+0.31%</span></p></div></div><div class='row km_item_row'>	<div class='col-xs-6 km_item_label_col'><p class='km_item_label'>24hr Trade Volume</p></div>	<div class='col-xs-6 km_item_content_col'><p class='km_item_content'>$2.8B</p></div></div><div class='row km_item_row'>	<div class='col-xs-6 km_item_label_col'><p class='km_item_label'>All Time High</p></div>	<div class='col-xs-6 km_item_content_col'><p class='km_item_content'>$1,432</p></div></div><div class='row km_item_row'>	<div class='col-xs-6 km_item_label_col'><p class='km_item_label'>All Time High Date</p></div>	<div class='col-xs-6 km_item_content_col'><p class='km_item_content'>2018-1-13</p></div></div><div class='row km_item_row'>	<div class='col-xs-6 km_item_label_col'><p class='km_item_label'>% down from ATH</p></div>	<div class='col-xs-6 km_item_content_col'><p class='km_item_content'>50.88%</p></div></div><div class='row km_item_row'>	<div class='col-xs-6 km_item_label_col'><p class='km_item_label'>Vladimir Club Cost</p></div>	<div class='col-xs-6 km_item_content_col'><p class='km_item_content'>$10.34M</p></div></div><div class='row km_item_row'>	<div class='col-xs-6 km_item_label_col'><p class='km_item_label'>Primary Github Repo</p></div>	<div class='col-xs-6 km_item_content_col'><p class='km_item_content'><a href='https://github.com/ethereum/go-ethereum' target='_blank'>ethereum/go-ethereum</a></p></div></div></div>
+                                            </div>
+             
+                                        </div>
+                                    </div>
+
+                                    <div class='row aps_row' >
+                                        <div class='col-md-12'>
+                                            <div class='asset_propset'>
+                                                <div class='aps_heading_wrap'><p class='aps_heading'>What is Ethereum?</p></div>
+                                                <div class='aps_content_wrap'>Ethereum is a decentralized 'smart contract' platform, and is said to be the first Turing Complete<sup>1</sup> blockchain. In addition to executing payment-style transactions like Bitcoin, arbitrary code (programs) can be run on Ethereum. This opens the possibility for decentralized applications and organizations and offers a rich programming environment for developers when compared to earlier blockchains. Key trade-offs include a larger 'attack surface', and more difficult long-term scaling considerations.</div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                
+                                
+                                <div class='col-md-8'>
+
+                                    <div class='row aps_row' >
+                                        <div class='col-md-6'>
+                                            <div class='asset_propset'>
+                                                <div class='aps_heading_wrap'><p class='aps_heading'>Ethereum Historical Price Lookup</p></div>
+                                                <div id="price_lookup" class='aps_content_wrap'>
+                                                    <p style='padding-bottom: 10px;'>Check the price of Ethereum on:</p>
+                                                    <div class='row' id='pl_row_wrap'><div class='pl_sel_wrap col-md-4' id='pl_year_sel_wrap'><select class='pl_sel_item' id='pl_year_sel'><option value='0'>--year--</option><option value='2018'>2018</option><option value='2017'>2017</option><option value='2016'>2016</option><option value='2015'>2015</option></select></div><div class='pl_sel_wrap col-md-4' id='pl_month_sel_wrap'><select class='pl_sel_item' id='pl_month_sel'><option value='0'>--month--</option><option value='12'>Dec</option><option value='11'>Nov</option><option value='10'>Oct</option><option value='9'>Sept</option><option value='8'>Aug</option><option value='7'>July</option><option value='6'>June</option><option value='5'>May</option><option value='4'>April</option><option value='3'>March</option><option value='2'>Feb</option><option value='1'>Jan</option></select></div><div class='pl_sel_wrap col-md-4' id='pl_day_sel_wrap'><select class='pl_sel_item' id='pl_day_sel'><option value='0'>--day--</option><option value='31'>31</option><option value='30'>30</option><option value='29'>29</option><option value='28'>28</option><option value='27'>27</option><option value='26'>26</option><option value='25'>25</option><option value='24'>24</option><option value='23'>23</option><option value='22'>22</option><option value='21'>21</option><option value='20'>20</option><option value='19'>19</option><option value='18'>18</option><option value='17'>17</option><option value='16'>16</option><option value='15'>15</option><option value='14'>14</option><option value='13'>13</option><option value='12'>12</option><option value='11'>11</option><option value='10'>10</option><option value='9'>9</option><option value='8'>8</option><option value='7'>7</option><option value='6'>6</option><option value='5'>5</option><option value='4'>4</option><option value='3'>3</option><option value='2'>2</option><option value='1'>1</option></select></div></div>
+                                                    <div id="price_lookup_result">
+
+                                                    </div>
+                                                    <p id="lookup_in_progress" style="display: none;">Getting price...</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class='col-md-6'>
+                                            <div class='asset_propset'>
+                                                <div class='aps_heading_wrap'><p class='aps_heading'>Ethereum ROI</p></div>
+                                                <div id="roi_wrap" class='aps_content_wrap' style='padding-bottom: 0px;'>
+                                                    <div class='asset_roi_wrapper'><div class='asset_roi_item row'>	<div class='col-xs-6'>		<p class='asset_roi_tf'>1 week</p>	</div>	<div class='col-xs-3'>		<p class='asset_roi_value down_change'>-6%</p>	</div>	<div class='col-xs-3'></div></div><div class='asset_roi_item row'>	<div class='col-xs-6'>		<p class='asset_roi_tf'>1 month</p>	</div>	<div class='col-xs-3'>		<p class='asset_roi_value up_change'>41%</p>	</div>	<div class='col-xs-3'></div></div><div class='asset_roi_item row'>	<div class='col-xs-6'>		<p class='asset_roi_tf'>3 months</p>	</div>	<div class='col-xs-3'>		<p class='asset_roi_value down_change'>-17%</p>	</div>	<div class='col-xs-3'></div></div><div class='asset_roi_item row'>	<div class='col-xs-6'>		<p class='asset_roi_tf'>1 year</p>	</div>	<div class='col-xs-3'>		<p class='asset_roi_value up_change'>656%</p>	</div>	<div class='col-xs-3'></div></div><div class='asset_roi_item row'>	<div class='col-xs-6'>		<p class='asset_roi_tf'>2 years</p>	</div>	<div class='col-xs-3'>		<p class='asset_roi_value up_change'>6,833%</p>	</div>	<div class='col-xs-3'></div></div></div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+
+                                    <div class='row aps_row' style='padding-left: 15px; padding-right: 15px;'>
+
+                                        <div class-'col-md-12'>
+
+                                            <div class='asset_propset' style='min-height: 400px;'>
+                                                <div class='aps_heading_wrap'>
+                                                    <p style='float: left;' class='aps_heading'>Ethereum Price Chart &nbsp;<span id='view_large_chart_wrap'>(<a href='/chart/ethereum'>view larger</a>)</span></p>
+                                                    <!--<p id='bigchart_link_wrap'><a href='/bigchart/asset/ethereum'>big chart</a></p>-->
+                                                </div>
+                                                
+                                                <div class='aps_content_wrap'>
+                                            
+                                                    <div class='row' id='asset_chart_controls'>
+                                                        <div id='overlay_options_wrap' class='col-md-8' style='padding-bottom: 15px;'>
+                                                           
+                                                            <p id='overlay_text'>Overlay Another Asset:&nbsp;&nbsp;</p>
+                                                            <div id="compare_select_wrap"><select id="compare_asset_select"></select></div>
+                                                            <!--<div id="scale_link_wrap" style="float: right"><a style='cursor: pointer;' onclick="set_chart_scale('same')">same scale</a></div>-->
+                                                        </div>
+
+                                                        <div id='corr_wrap' class='col-md-4'>
+                                                            <p id='pcorr' style='text-align: right; margin-top: -10px;'></p>
+                                                        </div>
+                                                            
+                                                    </div>
+                                                    <div class='row'>
+                                                        <div class='col-md-12'>
+                                                            <div id="asset_chart_wrap">
+                                                                <p id='chart_loading' style='width: 100%; text-align: center; font-size: 1.4em;'>Loading chart...</p>
+                                                                <div id="asset_chart_container" style="width:100%;"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    
+
+                                </div>
+
+
+                                
+
+                                
+
+                            </div><!-- /row.first -->
+
+                            <div class='row aps_row' style='margin-bottom: 30px;'>
+
+                                <div class='col-md-4'>
+                                    <div class='row aps_row' >
+                                        <div class='col-md-12'>
+                                            <div class='asset_propset'>
+                                                <div class='aps_heading_wrap'><p class='aps_heading'>Ethereum Supply Snapshot</p></div>
+                                                <div class='aps_content_wrap'><div class='row'><div class='col-md-12'><div class='row supply_item_row no_border'>	<div class='col-xs-5' style='padding-left: 0px !important;'><p class='si_item_label'>Current supply</p></div>	<div class='col-xs-7' style='padding-right: 0px !important;''><p class='si_item_content'>99,429,486</p></div></div><div class='row supply_item_row '>	<div class='col-xs-5' style='padding-left: 0px !important;'><p class='si_item_label'>Y2050 supply (est.)</p></div>	<div class='col-xs-7' style='padding-right: 0px !important;''><p class='si_item_content'>146,975,853</p></div></div><div class='row supply_item_row '>	<div class='col-xs-5' style='padding-left: 0px !important;'><p class='si_item_label'>% Y2050 Issued</p></div>	<div class='col-xs-7' style='padding-right: 0px !important;''><p class='si_item_content'>67.65%</p></div></div><div class='row supply_item_row '>	<div class='col-xs-5' style='padding-left: 0px !important;'><p class='si_item_label'>Type</p></div>	<div class='col-xs-7' style='padding-right: 0px !important;''><p class='si_item_content'>Low inflation</p></div></div><div class='row supply_item_row '>	<div class='col-xs-5' style='padding-left: 0px !important;'><p class='si_item_label'>Max</p></div>	<div class='col-xs-7' style='padding-right: 0px !important;''><p class='si_item_content'>Switch to PoS expected at ~100m coins; 0.5-2% PoS emission thereafter.</p></div></div><div class='row supply_item_row '>	<div class='col-xs-5' style='padding-left: 0px !important;'><p class='si_item_label'>Distribution method</p></div>	<div class='col-xs-7' style='padding-right: 0px !important;''><p class='si_item_content'>Proof-of-Work initally, Proof-of-Stake ultimately</p></div></div><div class='row supply_item_row '>	<div class='col-xs-5' style='padding-left: 0px !important;'><p class='si_item_label'>Estimated supply at PoS introduction</p></div>	<div class='col-xs-7' style='padding-right: 0px !important;''><p class='si_item_content'>100000000</p></div></div><div class='row supply_item_row '>	<div class='col-xs-5' style='padding-left: 0px !important;'><p class='si_item_label'>Estimated date of PoS introduction</p></div>	<div class='col-xs-7' style='padding-right: 0px !important;''><p class='si_item_content'>~2019. See details.</p></div></div><div class='row supply_item_row '>	<div class='col-xs-5' style='padding-left: 0px !important;'><p class='si_item_label'>Eventual PoS issuance</p></div>	<div class='col-xs-7' style='padding-right: 0px !important;''><p class='si_item_content'>0.5%-2.00%, see details.</p></div></div><div class='row supply_item_row '>	<div class='col-xs-5' style='padding-left: 0px !important;'><p class='si_item_label'>Ongoing emission type</p></div>	<div class='col-xs-7' style='padding-right: 0px !important;''><p class='si_item_content'>Proof-of-Stake</p></div></div><div class='row supply_item_row '>	<div class='col-xs-5' style='padding-left: 0px !important;'><p class='si_item_label'>Mechanics</p></div>	<div class='col-xs-7' style='padding-right: 0px !important;''><p class='si_item_content'>Decaying emission, then PoS constant inflation</p></div></div></div></div></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class='col-md-4'>
+                                    <div class='row aps_row' >
+                                        <div class='col-md-12'>
+                                            <div class='asset_propset'>
+                                                <div class='aps_heading_wrap'><p class='aps_heading'>Supply Details</p></div>
+                                                <div class='aps_content_wrap'><div class='row supply_row'><div class='col-md-12'><p class='asset_supply_details_content'>To date, the Ethereum community has prioritized various system properties over producing a concrete monetary policy, but there's nevertheless some rough consensus on what eventual monetary policy will look like. Further, it is expected that with upcoming system upgrades, various aspects of monetary policy will be finalized.<br /><br />The consensus today is that Ethereum will move to Proof-of-Stake issuance in the next 2 years<sup>1</sup> or so, at which point roughly 100 million ETH<sup>2</sup> will have been mined. It is not well-defined what the issuance rate will be after the switchover to Proof-of-Stake, but the range of 0.5%-2% has been targeted<sup>3</sup>. Note that this perpetual inflation will accrue proportionally to existing ETH holders who decide to let their ETH participate in new-block 'validation'. Critically, from an investment perspective, this means that existing holders can prevent dilution without having to explicitly purchase new coins.</p><div class='asd_footnotes'><p class='asdfn_title'>References:</p><p class='asd_footnote'><span class='asdfn_num'>1:</span> <a class='asdfn_link' target='_blank' href='https://answers.thenextweb.com/s/vitalik-buterin-13gxQB'>comments on Casper & sharding timeline</a><br /><span class='asdfn_descr'>Vitalik Buterin states that sharding is roughly 3-5 years away, and that Casper (full proof-of-stake) will be released well before sharding. OnChain Finance therefore estimates Casper release at roughly mid 2019.</span></p><p class='asd_footnote'><span class='asdfn_num'>2:</span> <a class='asdfn_link' target='_blank' href='https://np.reddit.com/r/ethereum/comments/5izcf5/lets_talk_about_the_projected_coin_supply_over/dbc66rd/'>proof of work issuance table</a><br /><span class='asdfn_descr'>From this table, it's clear that Ethereum's proof-of-work generated supply will likely be around 97million when proof-of-stake is released.</span></p><p class='asd_footnote'><span class='asdfn_num'>3:</span> <a class='asdfn_link' target='_blank' href='https://twitter.com/VitalikButerin/status/879858608091144193'>Vitalik Buterin on Casper inflation rate</a></p></div></div></div></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class='col-md-4'>
+                                    
+                                    <div class='row aps_row' id='asset_news_row'>
+                                        <div class='col-md-12'>
+                                            <div class='asset_propset'>
+                                                <div class='aps_heading_wrap'><p class='aps_heading'>Ethereum &amp; Related News</p></div>
+                                                <div id="newsfeed" class='aps_content_wrap'>Loading...</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div><!-- /row.second -->
+                            
+                        </div><!-- end col-md-12 -->
+
+                    </div><!-- end main_content_row -->
+
+                </div><!-- end col-md-12 -->
+
+                <!--
+                <div class='col-md-2' id='sec_sidebar_wrap' style='margin-top: 15px;'>
+                    
+                    <div id='table_treemap_widget' class='row sidebar_widget'>
+    <div class='col-xs-12'>
+        <div class='row pri_sidebar_heading_wrap'>
+            <div class='col-xs-12 pri_sidebar_heading_title'>
+                <p>Relative Sizes</p>
+            </div>
+        </div>
+           
+        <div class='row sidebar_widget_content_area'>
+            <div class='col-xs-12'>
+
+                <div>
+                    <p style='float: left; margin-bottom: 2px;' class='subheading'>Show relative sizes by:</p>
+                    <div id='treemap_select_wrapper'></div>
+                    <br class='clear: both;' />
+                </div>
+                <div id="assets_treemap"></div>        
+            </div>
+        </div>
+    </div>
+</div>
+
+                </div>
+                --><!-- end sec_sidebar_wrap -->
+            </div><!-- end row -->
+
+            
+        </div><!-- end #main_content_wrapper -->
+
+
+        <div class='col-md-2 col-md-pull-10' id='pri_sidebar_wrap'>
+
+            <div id='recent_quotes_widget' class='row sidebar_widget'>
+    <div class='col-xs-12'>
+        <div class='row pri_sidebar_heading_wrap'>
+            <div class='col-xs-7 pri_sidebar_heading_title'>
+                <p>Flagged Assets</p>
+            </div>
+
+            <div class='col-xs-5 sidebar_currency_toggle'>
+                <p style="font-size: 0.8em; text-align: right;">
+                    <span id="show_vs_label"></span>
+                    <span class='favs_currency_select_link currency_select_link_active' id="quotes_vs_usd" data-currency='usd'>USD</span> <span class='currency_select_separator'>|</span> 
+                    <span class='favs_currency_select_link currency_select_link_inactive' id="quotes_vs_btc" data-currency='btc'>BTC</span>
+                </p>
+            </div>
+        </div>
+           
+        <div class='row sidebar_widget_content_area'>
+            <div class='col-xs-12'>
+                <div id="favorites_list">loading...</div>
+            </div>
+        </div>
+    </div>
+</div>            
+
+            <div id='recent_quotes_widget' class='row sidebar_widget'>
+    <div class='col-xs-12'>
+        <div class='row pri_sidebar_heading_wrap'>
+            <div class='col-xs-7 pri_sidebar_heading_title'>
+                <p>Recent Quotes</p>
+            </div>
+
+            <div class='col-xs-5 sidebar_currency_toggle'>
+                <p style="font-size: 0.8em; text-align: right;">
+                    <span id="show_vs_label"></span>
+                    <span class='recent_currency_select_link currency_select_link_active' id="quotes_vs_usd" data-currency='usd'>USD</span> <span class='currency_select_separator'>|</span> 
+                    <span class='recent_currency_select_link currency_select_link_inactive' id="quotes_vs_btc" data-currency='btc'>BTC</span>
+                </p>
+            </div>
+        </div>
+           
+        <div class='row sidebar_widget_content_area'>
+            <div class='col-xs-12'>
+                <div id="last_assets_viewed_list">loading...</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            <div id='daily_movers_widget' class='row sidebar_widget'>
+    <div class='col-xs-12'>
+        <div class='row pri_sidebar_heading_wrap'>
+            <div class='col-xs-7 pri_sidebar_heading_title'>
+                <p>Daily Movers</p>
+            </div>
+
+            <div class='col-xs-5 sidebar_currency_toggle'>
+                <p style="font-size: 0.8em; text-align: right;">
+                    <span id="show_vs_label"></span>
+                    <span class='movers_currency_select_link currency_select_link_active' id="movers_vs_usd" data-currency='usd'>USD</span> <span class='currency_select_separator'>|</span> 
+                    <span class='movers_currency_select_link currency_select_link_inactive' id="movers_vs_btc" data-currency='btc'>BTC</span>
+                </p>
+            </div>
+        </div>
+           
+        <div class='row sidebar_widget_content_area'>
+            <div class='col-xs-12'>
+                <div id="daily_movers_blocks">
+                    <div class='row cancel_row_margin'>
+                        <div class='col-xs-12'>
+                            <div class='row sidebar_widget_subheading'>
+                                <p>Top Gainers</p>
+                            </div>
+                            <div id="top_gainers_wrapper"></div>
+                        </div>
+                    </div>
+
+
+                    <div class='row cancel_row_margin'>
+                        <div class='col-xs-12'>
+                            <div class='row sidebar_widget_subheading'>
+                                <p >Top Losers</p>
+                            </div>
+                            <div id="top_losers_wrapper"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    
+
+            <div id='daily_movers_widget' class='row sidebar_widget'>
+    <div class='col-xs-12'>
+        <div class='row pri_sidebar_heading_wrap'>
+            <div class='col-xs-12 pri_sidebar_heading_title'>
+                <p>Cryptoasset Indexes</p>
+            </div>
+
+            <!--
+            <div class='col-xs-5 sidebar_currency_toggle'>
+                <p style="font-size: 0.8em; text-align: right;">
+                    <span id="show_vs_label"></span>
+                    <span class='movers_currency_select_link currency_select_link_active' id="movers_vs_usd" data-currency='usd'>USD</span> <span class='currency_select_separator'>|</span> 
+                    <span class='movers_currency_select_link currency_select_link_inactive' id="movers_vs_btc" data-currency='btc'>BTC</span>
+                </p>
+            </div>
+            -->
+        </div>
+           
+        <div class='row sidebar_widget_content_area'>
+            <div class='col-xs-12' id='indexes_wrap'>
+               
+                <!--
+                <div class='row'>
+                    <div class='col-xs-12'>
+                        <p>Bletchley 10</p>
+                    </div>
+                </div>
+
+                <div class='row'>
+                    <div class='col-xs-12'>
+                        <p>Bletchley 20</p>
+                    </div>
+                </div>
+                -->
+            <!--
+                <div id="indexes_blocks">
+
+                    <div class='row cancel_row_margin'>
+                        <div class='col-xs-12'>
+                            <div class='row sidebar_widget_subheading'>
+                                <p>Top Gainers</p>
+                            </div>
+                            <div id="top_gainers_wrapper"></div>
+                        </div>
+                    </div>
+
+
+                    <div class='row cancel_row_margin'>
+                        <div class='col-xs-12'>
+                            <div class='row sidebar_widget_subheading'>
+                                <p >Top Losers</p>
+                            </div>
+                            <div id="top_losers_wrapper"></div>
+                        </div>
+                    </div>
+                </div>
+
+            -->
+            </div>
+        </div>
+    </div>
+</div>    
+
+            <div id='sector_movers_widget' class='row sidebar_widget'>
+    <div class='col-xs-12'>
+        <div class='row pri_sidebar_heading_wrap'>
+            <div class='col-xs-7 pri_sidebar_heading_title'>
+                <p>Sector Watch</p>
+            </div>
+
+            <div class='col-xs-5 sidebar_currency_toggle'>
+                <p style="font-size: 0.8em; text-align: right;">
+                    <span id="show_vs_label"></span>
+                    <span class='sectorwatch_currency_select_link currency_select_link_active' id="sectorwatch_vs_usd" data-currency='usd'>USD</span> <span class='currency_select_separator'>|</span> 
+                    <span class='sectorwatch_currency_select_link currency_select_link_inactive' id="sectorwatch_vs_btc" data-currency='btc'>BTC</span>
+                </p>
+            </div>
+        </div>
+           
+        <div class='row sidebar_widget_content_area'>
+            <div class='col-xs-12'>
+                <div id="sector_movers_blocks">
+                    <div class='row cancel_row_margin'>
+                        <div class='col-xs-12'>
+                            <div class='row sidebar_widget_subheading'>
+                                <p>Daily Winners</p>
+                            </div>
+                            <div id="top_gaining_sectors_wrapper"></div>
+                        </div>
+                    </div>
+
+
+                    <div class='row cancel_row_margin'>
+                        <div class='col-xs-12'>
+                            <div class='row sidebar_widget_subheading'>
+                                <p>Daily Losers</p>
+                            </div>
+                            <div id="top_losing_sectors_wrapper"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 
+
+        </div><!-- end pri_sidebar_wrap -->
+
+    </div><!-- end row -->
+
+
+    <div class='row'>
+        <div class='col-md-12'>
+            <style type='text/css'>
+	.footer_std_text {
+		width: 100%; color: #DDD; text-align: center;
+		padding: 25px 0px 10px 0px;
+		font-size: 0.9em;
+	}
+</style>
+<div class='row' id='footer_bar'>
+    <div class='col-md-4'>
+      <p class="footer_std_text">See an error, or have a suggestion? Email info at onchainfx dot com.</p>            
+    </div>
+    <div class='col-md-4'>
+      <p style="width: 100%; color: white; text-align: center;">
+        <a href='/'>
+          <img style="margin-top: 15px;" src="/images/logo_square_64_white.png" height="32px;" alt="logo square" />
+        </a>
+      </p>            
+    </div>
+    <div class='col-md-4'>
+      <p class="footer_std_text">OnChainFX is a research tool, and should not be considered investment advice.</p>            
+    </div>
+</div>
+        </div>
+    </div>
+
+
+    
+    <div style="display: none;" id="lightbox_items">
+        <div class='' id='pcorr_help'>
+            <p class='col_help_title'>Correlation</p>
+            <p class='col_help_content'>
+                This is a number ranging from -1 to 1, which represents the degree to which movements in the two assets are historically correlated. Specifically, OCFX is calculating the <a href='https://www.investopedia.com/terms/p/pearsoncoefficient.asp' target='_blank'>Pearson Coefficient</a> over the <strong>daily returns</strong> of the two assets. This is calculated over the time-range the chart is set to, and will be re-calculated if the chart's time-range is changed.
+                <br /><br />
+                A <span class='neg_corr'>negative number</span> indicates that if asset A moves in one direction, asset B has historically most likely moved in the opposite direction. Similarly, <span class='pos_corr'>positive values</span> indicate prevelance of same-direction moves.
+                
+                <br /><br />
+            </p>
+        </div>
+        <div style="" class='index_help' id="help_index_bletchley">
+        <p class='col_help_title'>Bletchley Indexes</p>
+        <div class='col_help_content'>
+            Bletchley provides a number of indexes which we feel are consistent and well-constructed. We list three Bletchley indexes today: the daily versions of the Bletchley 10, Bletchley 20, and Bletchley 40. These indexes track large-cap, mid-cap, and small-cap cryptoassets, respectively. These indexes together provide easy to understand insight into the day's cryptoasset price movements:
+            <br /><br />
+            
+            <strong>Bletchly 10</strong>
+            <br />
+            <p>
+                The Bletchley 10 is composed of 10 of the largest cryptoassets, weighted by marketcap. As such, it tends to track the 'large-caps'.
+            </p>
+            <br />
+            <strong>Bletchly 20</strong>
+            <br />
+            <p>
+                The Bletchley 20 is composed of 20 medium-capitalization cryptoassets.
+            </p>
+            <br />
+            <strong>Bletchly 40</strong>
+            <br />
+            <p>
+                The Bletchley 40 is composed of 40 small-capitalization cryptoassets.
+            </p>
+            <br />
+            Together, these indexes give good at-a-glance understanding of how large-caps are performing relative to medium/small-caps over the past 24 hours.
+            <br /><br />
+            For further detail on Bletchley index construction, asset eligibility, rebalancing, and weightings, see the Bletchley Indexes <a target='_blank' href='https://www.bletchleyindexes.com/methodology'>methodology detail page</a>.
+            
+        </div>
+    </div>
+    </div>
+
+
+</div><!-- end container fluid -->
+    <!--TEMPLATES-->
+    
+    <!--TEMPLATES END-->
+
+
+    <!--SCRIPTS-->
+    <script src="/min/production.min.js?v=1526096425"></script>
+    <!--SCRIPTS END-->
+    <script src="//d3plus.org/js/d3.js"></script>
+    <!-- load D3plus after D3js -->
+    <script src="//d3plus.org/js/d3plus.js"></script>
+    <script type="text/javascript">
+      adroll_adv_id = "RCEW5XKXXRBCHDAE55CYKZ";
+      adroll_pix_id = "FQH3MBMQ3ZG2HBRHBYX3AY";
+      /* OPTIONAL: provide email to improve user identification */
+      /* adroll_email = "username@example.com"; */
+      (function () {
+        var _onload = function(){
+        if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+        if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+          var scr = document.createElement("script");
+          var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+          scr.setAttribute('async', 'true');
+          scr.type = "text/javascript";
+          scr.src = host + "/j/roundtrip.js";
+          ((document.getElementsByTagName('head') || [null])[0] ||
+          document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
+      }());
+    </script>
+  </body>
+</html>
+

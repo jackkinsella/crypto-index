@@ -1,0 +1,2201 @@
+---
+user_portfolio_composition_for_deposited_at_1515542400:
+  id: 1
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.3217548311462425e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799996956219e1
+  value_eth: !ruby/object:BigDecimal 36:0.99001486506536e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.60912924e-4
+  tracking_error: !ruby/object:BigDecimal 27:0.579857194e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515546000:
+  id: 2
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.321774290094591038e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799981796454e1
+  value_eth: !ruby/object:BigDecimal 36:0.99001381482552e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.121394172e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.57978123e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 01:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515549600:
+  id: 3
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.321793749042939576e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799966638602e1
+  value_eth: !ruby/object:BigDecimal 36:0.99001276471493e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.18187542e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579708544e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 02:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515553200:
+  id: 4
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.321813207991288114e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799951482663e1
+  value_eth: !ruby/object:BigDecimal 36:0.99001171473355e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.242356667e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579639119e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 03:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515556800:
+  id: 5
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.321832666939636652e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799936328635e1
+  value_eth: !ruby/object:BigDecimal 36:0.99001066488137e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.302837915e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.57957298e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 04:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515560400:
+  id: 6
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.32185212588798519e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799921176519e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000961515837e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.363319163e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579510111e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 05:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515564000:
+  id: 7
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.321871584836333728e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799906026314e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000856556451e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.423800411e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579450512e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 06:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515567600:
+  id: 8
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.321891043784682266e6
+  value_btc: !ruby/object:BigDecimal 36:0.579989087802e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000751609978e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.484281658e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579394196e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 07:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515571200:
+  id: 9
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.321910502733030804e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799875731637e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000646676415e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.544762906e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579341158e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 08:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515574800:
+  id: 10
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.321929961681379342e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799860587163e1
+  value_eth: !ruby/object:BigDecimal 36:0.9900054175576e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.605244154e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579291379e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 09:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515578400:
+  id: 11
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.32194942062972788e6
+  value_btc: !ruby/object:BigDecimal 36:0.57998454446e1
+  value_eth: !ruby/object:BigDecimal 36:0.9900043684801e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.665725402e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579244873e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 10:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515582000:
+  id: 12
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.321968879578076418e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799830303945e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000331953163e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.726206649e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.57920165e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 11:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515585600:
+  id: 13
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.321988338526424956e6
+  value_btc: !ruby/object:BigDecimal 36:0.57998151652e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000227071217e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.786687897e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579161692e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 12:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515589200:
+  id: 14
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322007797474773494e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799800028364e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000122202169e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.847169145e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579124998e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 13:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515592800:
+  id: 15
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322027256423122032e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799784893436e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000017346016e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.907650392e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579091584e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 14:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515596400:
+  id: 16
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.32204671537147057e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799769760415e1
+  value_eth: !ruby/object:BigDecimal 36:0.98999912502758e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.96813164e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579061432e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 15:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515600000:
+  id: 17
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322066174319819108e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799754629303e1
+  value_eth: !ruby/object:BigDecimal 36:0.9899980767239e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1028612888e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579034559e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 16:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515603600:
+  id: 18
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322085633268167646e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799739500098e1
+  value_eth: !ruby/object:BigDecimal 36:0.98999702854911e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1089094136e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579010961e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 17:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515607200:
+  id: 19
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322105092216516184e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799724372799e1
+  value_eth: !ruby/object:BigDecimal 36:0.98999598050318e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1149575383e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578990622e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 18:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515610800:
+  id: 20
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322124551164864722e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799709247407e1
+  value_eth: !ruby/object:BigDecimal 36:0.9899949325861e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1210056631e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578973549e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 19:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515614400:
+  id: 21
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.32214401011321326e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799694123921e1
+  value_eth: !ruby/object:BigDecimal 36:0.98999388479783e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1270537879e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578959747e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 20:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515618000:
+  id: 22
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322163469061561798e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799679002341e1
+  value_eth: !ruby/object:BigDecimal 36:0.98999283713835e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1331019127e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578949206e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 21:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515621600:
+  id: 23
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322182928009910336e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799663882667e1
+  value_eth: !ruby/object:BigDecimal 36:0.98999178960764e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1391500374e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578941932e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 22:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515625200:
+  id: 24
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322202386958258874e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799648764897e1
+  value_eth: !ruby/object:BigDecimal 36:0.98999074220567e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1451981622e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578937912e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 23:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515628800:
+  id: 25
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322221845906607412e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799633649033e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998969493243e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.151246287e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578937163e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 00:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515632400:
+  id: 26
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.32224130485495595e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799618535072e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998864778788e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1572944117e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578939684e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 01:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515636000:
+  id: 27
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322260763803304488e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799603423016e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998760077201e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1633425365e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578945437e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 02:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515639600:
+  id: 28
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322280222751653026e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799588312863e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998655388479e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1693906613e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578954473e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 03:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515643200:
+  id: 29
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322299681700001564e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799573204614e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998550712619e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1754387861e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578966764e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 04:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515646800:
+  id: 30
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322319140648350102e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799558098267e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998446049619e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1814869108e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578982308e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 05:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515650400:
+  id: 31
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.32233859959669864e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799542993823e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998341399477e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1875350356e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579001095e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 06:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515654000:
+  id: 32
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322358058545047178e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799527891282e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998236762191e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1935831604e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579023151e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 07:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515657600:
+  id: 33
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322377517493395716e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799512790642e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998132137758e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1996312852e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579048453e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 08:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515661200:
+  id: 34
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322396976441744254e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799497691903e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998027526176e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2056794099e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579077005e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 09:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515664800:
+  id: 35
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322416435390092792e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799482595066e1
+  value_eth: !ruby/object:BigDecimal 36:0.98997922927442e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2117275347e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579108802e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 10:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515668400:
+  id: 36
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.32243589433844133e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799467500129e1
+  value_eth: !ruby/object:BigDecimal 36:0.98997818341554e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2177756595e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579143853e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 11:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515672000:
+  id: 37
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322455353286789868e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799452407093e1
+  value_eth: !ruby/object:BigDecimal 36:0.9899771376851e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2238237842e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579182149e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 12:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515675600:
+  id: 38
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322474812235138406e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799437315957e1
+  value_eth: !ruby/object:BigDecimal 36:0.98997609208307e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.229871909e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579223667e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 13:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515679200:
+  id: 39
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322494271183486944e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799422226721e1
+  value_eth: !ruby/object:BigDecimal 36:0.98997504660943e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2359200338e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579268442e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 14:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515682800:
+  id: 40
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322513730131835482e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799407139384e1
+  value_eth: !ruby/object:BigDecimal 36:0.98997400126415e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2419681586e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579316467e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 15:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515686400:
+  id: 41
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.32253318908018402e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799392053946e1
+  value_eth: !ruby/object:BigDecimal 36:0.98997295604722e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2480162833e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579367699e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 16:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515690000:
+  id: 42
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322552648028532558e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799376970406e1
+  value_eth: !ruby/object:BigDecimal 36:0.9899719109586e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2540644081e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.57942219e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 17:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515693600:
+  id: 43
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322572106976881096e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799361888765e1
+  value_eth: !ruby/object:BigDecimal 36:0.98997086599828e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2601125329e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579479911e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 18:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515697200:
+  id: 44
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322591565925229634e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799346809022e1
+  value_eth: !ruby/object:BigDecimal 36:0.98996982116624e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2661606577e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579540857e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 19:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515700800:
+  id: 45
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322611024873578172e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799331731176e1
+  value_eth: !ruby/object:BigDecimal 36:0.98996877646243e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2722087824e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579605024e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 20:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515704400:
+  id: 46
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.32263048382192671e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799316655227e1
+  value_eth: !ruby/object:BigDecimal 36:0.98996773188686e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2782569072e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579672422e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 21:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515708000:
+  id: 47
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322649942770275248e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799301581175e1
+  value_eth: !ruby/object:BigDecimal 36:0.98996668743948e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.284305032e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579743057e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 22:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515711600:
+  id: 48
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322669401718623786e6
+  value_btc: !ruby/object:BigDecimal 36:0.579928650902e1
+  value_eth: !ruby/object:BigDecimal 36:0.98996564312028e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2903531567e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579816912e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 23:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1515715200:
+  id: 49
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.322688860666972324e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799271438761e1
+  value_eth: !ruby/object:BigDecimal 36:0.98996459892923e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2964012815e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579893972e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-12 00:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_deposited_at_1517569200:
+  id: 50
+  portfolio_id: 2
+  value_usd: !ruby/object:BigDecimal 36:0.332710219066469394e6
+  value_btc: !ruby/object:BigDecimal 36:0.5791754255189e1
+  value_eth: !ruby/object:BigDecimal 36:0.98944334463353e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.34111855395e-1
+  tracking_error: !ruby/object:BigDecimal 27:0.922043271e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-02-02 11:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515542400:
+  id: 51
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.3217548311462425e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799996956219e1
+  value_eth: !ruby/object:BigDecimal 36:0.99001486506536e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.60912924e-4
+  tracking_error: !ruby/object:BigDecimal 27:0.579857194e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515546000:
+  id: 52
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.321774290094591038e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799981796454e1
+  value_eth: !ruby/object:BigDecimal 36:0.99001381482552e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.121394172e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.57978123e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 01:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515549600:
+  id: 53
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.321793749042939576e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799966638602e1
+  value_eth: !ruby/object:BigDecimal 36:0.99001276471493e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.18187542e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579708544e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 02:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515553200:
+  id: 54
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.321813207991288114e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799951482663e1
+  value_eth: !ruby/object:BigDecimal 36:0.99001171473355e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.242356667e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579639119e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 03:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515556800:
+  id: 55
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.321832666939636652e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799936328635e1
+  value_eth: !ruby/object:BigDecimal 36:0.99001066488137e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.302837915e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.57957298e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 04:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515560400:
+  id: 56
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.32185212588798519e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799921176519e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000961515837e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.363319163e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579510111e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 05:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515564000:
+  id: 57
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.321871584836333728e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799906026314e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000856556451e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.423800411e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579450512e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 06:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515567600:
+  id: 58
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.321891043784682266e6
+  value_btc: !ruby/object:BigDecimal 36:0.579989087802e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000751609978e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.484281658e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579394196e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 07:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515571200:
+  id: 59
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.321910502733030804e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799875731637e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000646676415e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.544762906e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579341158e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 08:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515574800:
+  id: 60
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.321929961681379342e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799860587163e1
+  value_eth: !ruby/object:BigDecimal 36:0.9900054175576e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.605244154e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579291379e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 09:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515578400:
+  id: 61
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.32194942062972788e6
+  value_btc: !ruby/object:BigDecimal 36:0.57998454446e1
+  value_eth: !ruby/object:BigDecimal 36:0.9900043684801e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.665725402e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579244873e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 10:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515582000:
+  id: 62
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.321968879578076418e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799830303945e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000331953163e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.726206649e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.57920165e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 11:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515585600:
+  id: 63
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.321988338526424956e6
+  value_btc: !ruby/object:BigDecimal 36:0.57998151652e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000227071217e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.786687897e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579161692e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 12:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515589200:
+  id: 64
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322007797474773494e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799800028364e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000122202169e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.847169145e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579124998e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 13:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515592800:
+  id: 65
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322027256423122032e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799784893436e1
+  value_eth: !ruby/object:BigDecimal 36:0.99000017346016e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.907650392e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579091584e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 14:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515596400:
+  id: 66
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.32204671537147057e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799769760415e1
+  value_eth: !ruby/object:BigDecimal 36:0.98999912502758e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.96813164e-3
+  tracking_error: !ruby/object:BigDecimal 27:0.579061432e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 15:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515600000:
+  id: 67
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322066174319819108e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799754629303e1
+  value_eth: !ruby/object:BigDecimal 36:0.9899980767239e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1028612888e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579034559e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 16:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515603600:
+  id: 68
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322085633268167646e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799739500098e1
+  value_eth: !ruby/object:BigDecimal 36:0.98999702854911e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1089094136e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579010961e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 17:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515607200:
+  id: 69
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322105092216516184e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799724372799e1
+  value_eth: !ruby/object:BigDecimal 36:0.98999598050318e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1149575383e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578990622e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 18:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515610800:
+  id: 70
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322124551164864722e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799709247407e1
+  value_eth: !ruby/object:BigDecimal 36:0.9899949325861e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1210056631e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578973549e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 19:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515614400:
+  id: 71
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.32214401011321326e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799694123921e1
+  value_eth: !ruby/object:BigDecimal 36:0.98999388479783e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1270537879e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578959747e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 20:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515618000:
+  id: 72
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322163469061561798e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799679002341e1
+  value_eth: !ruby/object:BigDecimal 36:0.98999283713835e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1331019127e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578949206e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 21:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515621600:
+  id: 73
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322182928009910336e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799663882667e1
+  value_eth: !ruby/object:BigDecimal 36:0.98999178960764e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1391500374e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578941932e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 22:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515625200:
+  id: 74
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322202386958258874e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799648764897e1
+  value_eth: !ruby/object:BigDecimal 36:0.98999074220567e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1451981622e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578937912e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-10 23:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515628800:
+  id: 75
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322221845906607412e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799633649033e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998969493243e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.151246287e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578937163e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 00:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515632400:
+  id: 76
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.32224130485495595e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799618535072e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998864778788e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1572944117e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578939684e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 01:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515636000:
+  id: 77
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322260763803304488e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799603423016e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998760077201e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1633425365e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578945437e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 02:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515639600:
+  id: 78
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322280222751653026e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799588312863e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998655388479e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1693906613e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578954473e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 03:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515643200:
+  id: 79
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322299681700001564e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799573204614e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998550712619e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1754387861e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578966764e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 04:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515646800:
+  id: 80
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322319140648350102e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799558098267e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998446049619e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1814869108e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.578982308e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 05:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515650400:
+  id: 81
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.32233859959669864e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799542993823e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998341399477e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1875350356e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579001095e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 06:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515654000:
+  id: 82
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322358058545047178e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799527891282e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998236762191e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1935831604e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579023151e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 07:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515657600:
+  id: 83
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322377517493395716e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799512790642e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998132137758e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.1996312852e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579048453e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 08:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515661200:
+  id: 84
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322396976441744254e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799497691903e1
+  value_eth: !ruby/object:BigDecimal 36:0.98998027526176e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2056794099e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579077005e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 09:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515664800:
+  id: 85
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322416435390092792e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799482595066e1
+  value_eth: !ruby/object:BigDecimal 36:0.98997922927442e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2117275347e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579108802e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 10:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515668400:
+  id: 86
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.32243589433844133e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799467500129e1
+  value_eth: !ruby/object:BigDecimal 36:0.98997818341554e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2177756595e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579143853e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 11:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515672000:
+  id: 87
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322455353286789868e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799452407093e1
+  value_eth: !ruby/object:BigDecimal 36:0.9899771376851e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2238237842e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579182149e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 12:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515675600:
+  id: 88
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322474812235138406e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799437315957e1
+  value_eth: !ruby/object:BigDecimal 36:0.98997609208307e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.229871909e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579223667e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 13:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515679200:
+  id: 89
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322494271183486944e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799422226721e1
+  value_eth: !ruby/object:BigDecimal 36:0.98997504660943e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2359200338e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579268442e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 14:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515682800:
+  id: 90
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322513730131835482e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799407139384e1
+  value_eth: !ruby/object:BigDecimal 36:0.98997400126415e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2419681586e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579316467e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 15:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515686400:
+  id: 91
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.32253318908018402e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799392053946e1
+  value_eth: !ruby/object:BigDecimal 36:0.98997295604722e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2480162833e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579367699e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 16:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515690000:
+  id: 92
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322552648028532558e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799376970406e1
+  value_eth: !ruby/object:BigDecimal 36:0.9899719109586e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2540644081e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.57942219e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 17:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515693600:
+  id: 93
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322572106976881096e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799361888765e1
+  value_eth: !ruby/object:BigDecimal 36:0.98997086599828e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2601125329e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579479911e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 18:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515697200:
+  id: 94
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322591565925229634e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799346809022e1
+  value_eth: !ruby/object:BigDecimal 36:0.98996982116624e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2661606577e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579540857e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 19:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515700800:
+  id: 95
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322611024873578172e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799331731176e1
+  value_eth: !ruby/object:BigDecimal 36:0.98996877646243e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2722087824e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579605024e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 20:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515704400:
+  id: 96
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.32263048382192671e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799316655227e1
+  value_eth: !ruby/object:BigDecimal 36:0.98996773188686e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2782569072e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579672422e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 21:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515708000:
+  id: 97
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322649942770275248e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799301581175e1
+  value_eth: !ruby/object:BigDecimal 36:0.98996668743948e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.284305032e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579743057e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 22:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515711600:
+  id: 98
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322669401718623786e6
+  value_btc: !ruby/object:BigDecimal 36:0.579928650902e1
+  value_eth: !ruby/object:BigDecimal 36:0.98996564312028e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2903531567e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579816912e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-11 23:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1515715200:
+  id: 99
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.322688860666972324e6
+  value_btc: !ruby/object:BigDecimal 36:0.5799271438761e1
+  value_eth: !ruby/object:BigDecimal 36:0.98996459892923e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.2964012815e-2
+  tracking_error: !ruby/object:BigDecimal 27:0.579893972e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-01-12 00:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+user_portfolio_composition_for_rebalanced_at_1517569200:
+  id: 100
+  portfolio_id: 3
+  value_usd: !ruby/object:BigDecimal 36:0.332710219066469394e6
+  value_btc: !ruby/object:BigDecimal 36:0.5791754255189e1
+  value_eth: !ruby/object:BigDecimal 36:0.98944334463353e2
+  return_on_investment: !ruby/object:BigDecimal 27:0.34111855395e-1
+  tracking_error: !ruby/object:BigDecimal 27:0.922043271e-3
+  constituents:
+    ADA: '5403.0'
+    BCH: '3.242'
+    BTC: '1.4499775125'
+    ETH: '21.63033527394'
+    LTC: '10.808'
+    TRX: '14052.0'
+    XEM: '1945.0'
+    XLM: '3242.0'
+    XRP: '7660.0'
+    MIOTA: '600.0'
+  timestamp: 2018-02-02 11:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z

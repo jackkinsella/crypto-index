@@ -1,0 +1,8 @@
+---
+market10:
+  id: 1
+  symbol: M10
+  name: market10
+  title: Market10
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z

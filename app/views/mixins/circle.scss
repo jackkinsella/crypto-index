@@ -1,0 +1,35 @@
+@mixin circle($item-count, $circle-size, $item-size) {
+  border-radius: 50%;
+  height: $circle-size;
+  list-style: none;
+  overflow: hidden;
+  padding: 0;
+  position: relative;
+  width: $circle-size;
+
+  > * {
+    align-items: center;
+    display: flex;
+    height: $item-size;
+    justify-content: center;
+    left: 50%;
+    margin: -($item-size / 2);
+    position: absolute;
+    top: 50%;
+    width: $item-size;
+
+    $angle: (360 / $item-count);
+    $rotation: 0;
+
+    @for $i from 1 through $item-count {
+      &:nth-of-type(#{$i}) {
+        transform:
+          rotate($rotation * 1deg)
+          translate($circle-size / 2)
+          rotate($rotation * -1deg);
+      }
+
+      $rotation: $rotation + $angle;
+    }
+  }
+}

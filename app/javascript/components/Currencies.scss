@@ -1,0 +1,56 @@
+.currencies {
+  margin-left: $gap-quarter;
+  margin-right: $gap-quarter;
+
+  .table {
+    th {
+      cursor: pointer;
+      user-select: none;
+
+      &:hover {
+        color: $link;
+      }
+
+      i {
+        padding-left: $gap-quarter * 0.5;
+      }
+    }
+
+    th,
+    td {
+      padding: $gap-quarter 0;
+      vertical-align: middle;
+
+      &:first-of-type {
+        padding-left: 0;
+        width: 48px;
+      }
+
+      &:last-of-type {
+        padding-right: 0;
+      }
+
+      &:nth-of-type(4),
+      &:nth-of-type(5),
+      &:nth-of-type(6) {
+        @extend .is-hidden-mobile;
+      }
+
+      &:nth-of-type(5) {
+        @extend .is-hidden-tablet-only;
+      }
+
+      &[data-sign="+"] {
+        color: $green;
+      }
+
+      &[data-sign="-"] {
+        color: $red;
+      }
+
+      > .icon {
+        vertical-align: middle;
+      }
+    }
+  }
+}

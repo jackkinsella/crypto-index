@@ -1,0 +1,19 @@
+<% Current.title = 'Indexes' %>
+
+<% cache do %>
+  <%= render 'shared/navbar' %>
+
+  <%= render_component 'Indexes',
+    title: 'Indexes',
+    items: @indexes,
+    assets: @indexes.each_with_object({icon: {}}) { |index, assets|
+      assets[:icon][index.symbol] =
+        "images/icons/indexes/#{index.symbol.downcase}.svg"
+    },
+    paths: @indexes.each_with_object({show: {}}) { |index, paths|
+      paths[:show][index.symbol] = index_path(index)
+    }
+  %>
+
+  <%= render 'shared/footer' %>
+<% end %>

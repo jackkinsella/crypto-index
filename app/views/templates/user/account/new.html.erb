@@ -1,0 +1,20 @@
+<%= render_component 'screens/user/account/Setup',
+  initialStep:
+    if current_user.postal_address?
+      5
+    elsif current_user.phone_confirmed?
+      4
+    elsif current_user.phone?
+      3
+    elsif current_user.password?
+      2
+    else
+      1
+    end,
+  phone: current_user.phone,
+  phoneCountryCodes: @phone_country_codes,
+  countries: KYC::CountryPolicy::COUNTRY_NAME_TO_ALPHA2_MAPPING,
+  defaultCountryCode: [
+    KYC::CountryDetection.country(request.remote_ip).country_code2
+  ].compact.reject { |country_code| country_code == '--' }.first
+%>

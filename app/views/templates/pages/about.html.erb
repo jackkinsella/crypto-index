@@ -1,0 +1,62 @@
+<% cache do %>
+  <%= render_component 'Hero',
+    title: 'About CryptoIndex',
+    modifiers: 'is-dark',
+    assets: {
+      backgroundImage: 'images/backgrounds/pages/headers/about.jpg'
+    },
+    effects: {rain: true},
+    children: {
+      navbar: 'props/navbar/full',
+    }
+  %>
+<% end %>
+
+<section class="section about" style="margin-top: 8em">
+  <div class="container content">
+    <div class="columns">
+      <div class="column is-10 is-offset-1">
+        <%= render_markdown('docs/about.md').html_safe %>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="hero is-light is-small" style="padding-top: 6em">
+  <div class="hero-body has-text-centered">
+    <div class="container">
+      <h1 class="title">
+        Trusted around the world
+      </h1>
+
+      <h2 class="subtitle">
+        Make crypto indexing great again!
+      </h2>
+    </div>
+  </div>
+</section>
+
+<section class="hero is-light is-large has-background-image" style="background-image: linear-gradient(rgba(245, 245, 245, 0.85), rgba(245, 245, 245, 0.95)), url('/assets/images/backgrounds/pages/around-the-world.svg'); background-size: 75%; background-repeat: no-repeat;">
+  <div class="hero-body has-text-centered">
+  </div>
+</section>
+
+<section class="section about team" style="margin-bottom: 0">
+  <div class="container content">
+    <div class="columns">
+      <div class="column is-10 is-offset-1">
+        <h2 class="has-text-centered">Management team</h2>
+
+        <p class="has-text-centered">
+          The team consists of experienced entrepreneurs and technologists keen
+          to bring the benefits of simple and secure wealth management to the
+          cryptocurrency world.
+        </p>
+
+        <%= render_markdown('docs/team.md').html_safe %>
+      </div>
+    </div>
+  </div>
+</section>
+
+<%= render 'modules/footer/index' %>

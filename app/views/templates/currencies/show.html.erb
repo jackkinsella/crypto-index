@@ -1,0 +1,20 @@
+<% Current.title = @currency.title %>
+
+<% cache do %>
+  <%= render_component 'Hero',
+    title: "#{@currency.title} (#{@currency.symbol})",
+    subtitle: number_to_currency(@currency.price_usd),
+    modifiers: 'is-small is-floating',
+    subtitleModifiers: 'has-text-info',
+    children: {
+      navbar: 'props/navbar/full'
+    }
+  %>
+
+  <%= render_component 'FinancialChart',
+    labels: @data.map { |time, _price| time },
+    values: @data.map { |_time, price| price }
+  %>
+
+  <%= render 'shared/footer' %>
+<% end %>

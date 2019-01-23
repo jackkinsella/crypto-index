@@ -1,0 +1,37 @@
+.with-menu {
+  border-radius: $radius;
+
+  .column {
+    &:last-of-type {
+      @extend .box;
+
+      background-color: $white;
+
+      .title {
+        @extend .is-size-6;
+
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+
+        .tag {
+          letter-spacing: 0;
+          text-transform: none;
+        }
+      }
+
+      .subtitle {
+        @extend .is-size-7;
+
+        letter-spacing: 0.1em;
+        margin-bottom: $gap-half;
+        margin-left: 0;
+        text-transform: uppercase;
+
+        .tag {
+          letter-spacing: 0;
+          text-transform: none;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+<section class="section" style="background-color: rgb(32, 156, 238); background-image: linear-gradient(141deg, #04a6d7 0%, #209cee 71%, #3287f5 100%);">
+  <div class="container">
+    <nav class="level">
+      <div class="level-item has-text-centered has-text-white">
+        <div>
+          <p class="heading">Market10 increase since Jan 1, 2017</p>
+          <p class="title is-2 has-text-white">
+            +<%= number_with_delimiter((@index.value - 100).round) %>%
+          </p>
+        </div>
+      </div>
+
+      <div class="level-item has-text-centered has-text-white">
+        <div>
+          <p class="heading">Losses from hacking / intrusion</p>
+          <p class="title is-2 has-text-white">
+            $0.00
+          </p>
+        </div>
+      </div>
+
+      <div class="level-item has-text-centered has-text-white">
+        <div>
+          <p class="heading">Countries supported</p>
+          <p class="title is-2 has-text-white">
+            <%= KYC::CountryPolicy::WHITELISTED_COUNTRY_CODES.count %>
+          </p>
+        </div>
+      </div>
+    </nav>
+  </div>
+</section>

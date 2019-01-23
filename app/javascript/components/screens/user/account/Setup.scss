@@ -1,0 +1,46 @@
+.setup {
+  a {
+    text-decoration: underline;
+  }
+
+  .column {
+    &:first-of-type {
+      .subtitle {
+        max-width: 16em;
+
+        i {
+          padding-right: $gap-quarter;
+        }
+      }
+    }
+  }
+
+  .box {
+    padding: $gap;
+    text-align: left;
+
+    .form {
+      .field.is-grouped {
+        .control {
+          max-width: 154px;
+        }
+      }
+
+      ul {
+        margin-bottom: $gap-quarter;
+
+        li {
+          .icon {
+            color: $success;
+            margin-right: $gap-quarter * 0.5;
+          }
+        }
+      }
+
+      button[type='submit'],
+      .is-back-button {
+        margin-top: $gap-quarter;
+      }
+    }
+  }
+}

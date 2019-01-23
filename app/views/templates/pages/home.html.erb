@@ -1,0 +1,253 @@
+<% cache do %>
+  <%= render_component 'Hero',
+    title: CryptoIndex::TAGLINE,
+    subtitle: <<~TEXT,
+      The simplest way to invest in a diverse range of
+      dynamically rebalanced cryptocurrencies
+    TEXT
+    modifiers: 'is-small is-info is-bold',
+    effects: {rain: true},
+    children: {
+      navbar: 'props/navbar/full',
+      signup: 'props/signup'
+    }
+  %>
+
+  <%= render 'modules/features/index' %>
+
+  <%= render 'modules/level/index' %>
+
+  <%= render 'modules/features/introducing' %>
+
+  <section class="section is-preview">
+    <div class="container">
+      <div class="hero">
+        <div class="hero-body has-text-centered" style="padding-top: 0">
+          <h2 class="subtitle">Current allocation</h1>
+        </div>
+      </div>
+
+      <div class="columns">
+        <div class="column is-6 is-offset-3">
+          <%= render_component 'Currencies',
+            headers: {
+              title: 'Name',
+              weightPercent: 'Weighting'
+            },
+            items: @currencies,
+            sortColumn: 'weightPercent',
+            sortOrder: 'desc',
+            assets: @currencies.each_with_object({icon: {}}) { |currency, assets|
+              assets[:icon][currency.symbol] =
+                "images/icons/currencies/#{currency.symbol.downcase}.svg"
+            },
+            paths: @currencies.each_with_object({show: {}}) { |currency, paths|
+              paths[:show][currency.symbol] = currency_path(currency)
+            }
+          %>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr style="margin-top: 6em">
+
+  <div class="circle-container wow rotateInDownLeft" data-wow-duration="2.5s">
+    <div class="tile-container">
+      <div class="tile is-square">
+        <ul class="circle is-rotating">
+          <li>
+            <%= image_tag asset_pack_path('images/icons/currencies/btc.svg') %>
+          </li>
+
+          <li>
+            <%= image_tag asset_pack_path('images/icons/currencies/eth.svg') %>
+          </li>
+
+          <li>
+            <%= image_tag asset_pack_path('images/icons/currencies/xrp.svg') %>
+          </li>
+
+          <li>
+            <%= image_tag asset_pack_path('images/icons/currencies/bch.svg') %>
+          </li>
+
+          <li>
+            <%= image_tag asset_pack_path('images/icons/currencies/ada.svg') %>
+          </li>
+
+          <li>
+            <%= image_tag asset_pack_path('images/icons/currencies/ltc.svg') %>
+          </li>
+
+          <li>
+            <%= image_tag asset_pack_path('images/icons/currencies/neo.svg') %>
+          </li>
+
+          <li>
+            <%= image_tag asset_pack_path('images/icons/currencies/xem.svg') %>
+          </li>
+
+          <li>
+            <%= image_tag asset_pack_path('images/icons/currencies/xlm.svg') %>
+          </li>
+
+          <li>
+            <%= image_tag asset_pack_path('images/icons/currencies/miota.svg') %>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="hero is-small" style="margin-top: 5em">
+    <div class="hero-body has-text-centered">
+      <h1 class="title">How it works</h1>
+    </div>
+  </div>
+
+  <section class="section" style="margin-bottom: 4em">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-5 is-offset-4">
+          <div class="columns is-mobile">
+            <div class="column is-2">
+              <div class="icon is-large has-text-info">
+                <i class="fas fa-fw fa-2x fa-user-check"></i>
+              </div>
+            </div>
+
+            <div class="column is-10" style="display: flex; align-items: center;">
+              <div class="content">
+                <p class="is-size-5">
+                  <span class="tag is-light" style="position: relative; top: -2px;">1</span> &nbsp;
+                  <a href="#signup">Sign up</a> to CryptoIndex, verifying your email address and phone number.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns" style="margin-top: 2em">
+        <div class="column is-5 is-offset-4">
+          <div class="columns is-mobile">
+            <div class="column is-2">
+              <div class="icon is-large has-text-info">
+                <i class="fas fa-fw fa-2x fa-chart-bar"></i>
+              </div>
+            </div>
+
+            <div class="column is-10" style="display: flex; align-items: center;">
+              <div class="content">
+                <p class="is-size-5">
+                  <span class="tag is-light" style="position: relative; top: -2px;">2</span> &nbsp;
+                  Choose an index to track.
+                </p>
+
+                <p><em>Currently, only the Market10 is available.</em></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns" style="margin-top: 2em">
+        <div class="column is-5 is-offset-4">
+          <div class="columns is-mobile">
+            <div class="column is-2">
+              <div class="icon is-large has-text-info">
+                <i class="fab fa-fw fa-2x fa-ethereum"></i>
+              </div>
+            </div>
+
+            <div class="column is-10" style="display: flex; align-items: center;">
+              <div class="content">
+                <p class="is-size-5">
+                  <span class="tag is-light" style="position: relative; top: -2px;">3</span> &nbsp;
+                  Send Ether to your deposit address.
+                </p>
+
+                <p><em>The minimum deposit is 1 ETH.</em></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns" style="margin-top: 2em">
+        <div class="column is-5 is-offset-4">
+          <div class="columns is-mobile">
+            <div class="column is-2">
+              <div class="icon is-large has-text-info">
+                <i class="fas fa-fw fa-2x fa-wrench"></i>
+              </div>
+            </div>
+
+            <div class="column is-10" style="display: flex; align-items: center;">
+              <div class="content">
+                <p class="is-size-5">
+                  <span class="tag is-light" style="position: relative; top: -2px;">4</span> &nbsp;
+                  Let our algorithms deploy your funds to assemble a matching portfolio of digital assets in your account.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns" style="margin-top: 2em">
+        <div class="column is-5 is-offset-4">
+          <div class="columns is-mobile">
+            <div class="column is-2">
+              <div class="icon is-large has-text-info">
+                <i class="fas fa-fw fa-2x fa-chart-line"></i>
+              </div>
+            </div>
+
+            <div class="column is-10" style="display: flex; align-items: center;">
+              <div class="content">
+                <p class="is-size-5">
+                  <span class="tag is-light" style="position: relative; top: -2px;">5</span> &nbsp;
+                  Sit back and track your portfolio's performance as it gets automatically rebalanced over time.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns" style="margin-top: 2em">
+        <div class="column is-5 is-offset-4">
+          <div class="columns is-mobile">
+            <div class="column is-2">
+              <div class="icon is-large has-text-info">
+                <i class="fas fa-fw fa-2x fa-arrow-circle-down"></i>
+              </div>
+            </div>
+
+            <div class="column is-10" style="display: flex; align-items: center;">
+              <div class="content">
+                <p class="is-size-5">
+                  <span class="tag is-light" style="position: relative; top: -2px;">6</span> &nbsp;
+                  Withdraw—some or all—of your funds whenever you like.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div id="signup">
+    <%= render_component 'Hero',
+      title: 'Become a cryptocurrency investor today',
+      modifiers: 'is-medium is-dark is-bold',
+      children: {
+        signup: 'props/signup'
+      }
+    %>
+  </div>
+
+  <%= render 'modules/footer/index' %>
+<% end %>

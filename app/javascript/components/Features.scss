@@ -1,0 +1,18 @@
+.features {
+  .column {
+    margin: $gap-half 0;
+
+    .icon {
+      display: block;
+      margin: 0 auto $gap-half auto;
+    }
+
+    h2 {
+      @extend .is-size-4;
+    }
+
+    p {
+      @extend .is-size-6;
+    }
+  }
+}

@@ -1,0 +1,40 @@
+---
+signed_up:
+  id: 1
+  email: signed-up@example.com
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+  password_digest: "$2a$04$3oDHSsP59noVISiCTfd1xOlXMbsMB0TLOxlFOq0JbJeZftJowKFxe"
+  email_confirmed_at: 2018-02-02 12:30:00.000000000 Z
+  phone: "+16135550172"
+  phone_confirmed_at: 2018-02-02 12:30:00.000000000 Z
+  first_name_enc: "+uYpLG14tvnmhXGXEzA9--qPZfAKtfxz7A8scQ--12c/lMuLjrbCaZSuwj7hXQ=="
+  last_name_enc: bycn71NOvKYotnJbHgc=--ZMZ9Ej2YdYQ07+IH--W9vKYcbFI88Awhs85ZtjcQ==
+  banned_at:
+  ip_address: 127.0.01
+deposited:
+  id: 2
+  email: deposited@example.com
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+  password_digest: "$2a$04$5p8iRDAPWNapsY08Wp8BWOEwJGaKJzPNzOaft2O2tba3n1jvmj59u"
+  email_confirmed_at: 2018-02-02 12:30:00.000000000 Z
+  phone: "+16135550178"
+  phone_confirmed_at: 2018-02-02 12:30:00.000000000 Z
+  first_name_enc: Bgm3znhJNaz3wjwkHVc=--P/tRNshQHQFJI1bq--gypBfjQM0BehL2LZeMbrCg==
+  last_name_enc: TN0Gn0LDw9R3ZcVEoxj3v0e8--NqNMLdHserwdS2gm--BWVWLuDMG9/TWMQZHVBoeA==
+  banned_at:
+  ip_address: 127.0.01
+rebalanced:
+  id: 3
+  email: rebalanced@example.com
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+  password_digest: "$2a$04$KD2BhHuxG.pY2yqzou8UMOssSi9G9TkhQaKs3u1IRqnPU38K70ze6"
+  email_confirmed_at: 2018-02-02 12:30:00.000000000 Z
+  phone: "+16135550179"
+  phone_confirmed_at: 2018-02-02 12:30:00.000000000 Z
+  first_name_enc: 78zDtiGRXQumJ4NP6A==--on7JygPv4ufzcL+g--LGGUnbPA8gL6Qf9lSM61ug==
+  last_name_enc: 9w6H+GEbijpQaqPxFaJD6+k=--3ff8Znd0vJfgKYgB--1tUj/3+vzWWibpOzGc/38Q==
+  banned_at:
+  ip_address: 127.0.01

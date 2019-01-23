@@ -1,0 +1,68 @@
+#!/usr/bin/env bash
+[[ -s $HOME/.rvm/scripts/rvm ]] && . "$HOME"/.rvm/scripts/rvm
+[[ -s $HOME/.nvm/nvm.sh ]] && . "$HOME"/.nvm/nvm.sh && nvm use
+
+exit_if_last_command_failed() {
+# shellcheck disable=SC2181
+  if [ $? != 0 ]; then
+    echo "Failed: $1" >&2
+    exit 1
+  fi
+}
+
+check_if_ag_is_installed() {
+  command -v ag > /dev/null 2>&1
+  exit_if_last_command_failed "Could not run ag. Is it installed?"
+}
+check_if_ag_is_installed
+
+echo -e ">>>> Pre-push checks for Git"
+BRANCH_NAME_LENGTH=$(
+  git rev-parse --abbrev-ref HEAD | grep -E '^(bug/)?[a-z0-9-]+$' | wc -c
+)
+if [ "$BRANCH_NAME_LENGTH" -eq 0 ]; then
+  echo "The branch name needs to be in dash case: \`valid-branch-name\`."
+  echo "Please add the \`bug/\` prefix for bugfixes: \`bug/branch-name\`."
+  exit 1
+fi
+
+echo -e ">>>> Pre-push checks for the Rails app"
+echo -e "\\nRunning RSpec (excluding system tests)"
+bin/rspec --exclude-pattern "spec/system/**/*_spec.rb" --tag ~qa
+exit_if_last_command_failed "RSpec returned errors"
+
+echo -e "\\nRunning Brakeman"
+brakeman -q -z > /dev/null
+exit_if_last_command_failed "Brakeman returned errors"
+
+echo -e "\\nRunning RuboCop"
+bin/rubocop
+exit_if_last_command_failed "RuboCop returned errors"
+
+echo -e "\\nRunning ESLint"
+bin/eslint
+exit_if_last_command_failed "ESLint returned errors"
+
+echo -e "\\nRunning Stylelint"
+bin/stylelint
+exit_if_last_command_failed "Stylelint returned errors"
+
+echo -e "\\nRunning Shellcheck"
+bin/shellcheck
+exit_if_last_command_failed "Shellcheck returned errors"
+
+echo -e "\\nScanning for debugger statements..."
+DEBUGGER_STATEMENTS=('byebug' 'debugger' 'binding.pry' 'NOPUSH')
+for debugger_statement in "${DEBUGGER_STATEMENTS[@]}"
+do
+  if ag "$debugger_statement" --ignore Gemfile.lock \
+    --ignore Gemfile --ignore git-hooks; then
+    echo "Failed: Found ${debugger_statement}" >&2
+    exit 1
+  fi
+done
+
+echo -e "\\nAll pre-push checks passed!"
+echo -e "\\nPushing...\\n"
+
+exit 0

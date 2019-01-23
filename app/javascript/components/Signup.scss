@@ -1,0 +1,32 @@
+.signup {
+  .box {
+    background-color: $white-transparent-half;
+    margin: $gap auto 0 auto;
+    max-width: $phone;
+
+    .form {
+      > .field {
+        justify-content: center;
+      }
+    }
+
+    .thank-you {
+      @extend .is-size-5;
+
+      color: $white;
+
+      .icon {
+        margin-right: $gap-quarter;
+      }
+    }
+  }
+
+  small {
+    display: inline-block;
+    margin-top: $gap-quarter;
+
+    a {
+      border-bottom: 1px dotted;
+    }
+  }
+}

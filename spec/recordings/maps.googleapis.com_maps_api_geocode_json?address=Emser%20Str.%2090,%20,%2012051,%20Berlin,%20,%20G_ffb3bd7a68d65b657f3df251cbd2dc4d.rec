@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "90",
+               "short_name" : "90",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Emser Straße",
+               "short_name" : "Emser Str.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bezirk Neukölln",
+               "short_name" : "Bezirk Neukölln",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12051",
+               "short_name" : "12051",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Emser Str. 90, 12051 Berlin, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4678564,
+                  "lng" : 13.4262991
+               },
+               "southwest" : {
+                  "lat" : 52.4676977,
+                  "lng" : 13.426003
+               }
+            },
+            "location" : {
+               "lat" : 52.4677995,
+               "lng" : 13.426137
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4691260302915,
+                  "lng" : 13.4275000302915
+               },
+               "southwest" : {
+                  "lat" : 52.4664280697085,
+                  "lng" : 13.4248020697085
+               }
+            }
+         },
+         "place_id" : "ChIJY3g_hJBPqEcRcwYrMNACv2I",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

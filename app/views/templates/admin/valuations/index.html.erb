@@ -1,0 +1,12 @@
+<%= render 'admin/shared/navbar' %>
+
+<%= render_component 'Dropdown',
+  items: @dates.each_with_object({}) { |date, items|
+    items[date] = admin_valuations_path(date: date)
+  },
+  title: @date
+%>
+
+<%= render_component 'DataTable',
+  items: @valuations
+%>

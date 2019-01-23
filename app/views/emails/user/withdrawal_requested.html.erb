@@ -1,0 +1,23 @@
+<%# FIXME: Connect the withdrawal currency address once it is available through the data model %>
+<p>A withdrawal of <%= @withdrawal.fraction * 100 %>% of your portfolio was requested at
+  <%= @withdrawal.requested_at %> to the address FILL_IN_ADDRESS.
+</p>
+
+<p>
+  In order for us to execute this withdrawal, we need you to confirm that you
+  did, in fact, request it, by clicking this confirmation link:
+</p>
+
+<p>
+<%= link_to "I confirm that I requested a withdrawal to #{'FILL_IN_ADDRESS AND ADDRESS CURRENCY'}",
+  confirm_withdrawal_by_email_url(@withdrawal, token: @withdrawal.email_confirmation_token)
+%>
+</p>
+
+<p>
+  <b>IMPORTANT:</b>
+  If you <u>did not</u> request a withdrawal, please contact our customer
+  support immediately.
+</p>
+
+<%= render 'emails/shared/footer' %>

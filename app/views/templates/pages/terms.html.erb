@@ -1,0 +1,21 @@
+<% cache do %>
+  <%= render_component 'Hero',
+    title: 'Terms & Conditions',
+    modifiers: 'is-small is-dark is-bold',
+    children: {
+      navbar: 'props/navbar/full',
+    }
+  %>
+<% end %>
+
+<section class="section legal">
+  <div class="container content">
+    <div class="columns">
+      <div class="column is-10 is-offset-1">
+        <%= render_markdown('docs/terms/2018-08-01.md').html_safe %>
+      </div>
+    </div>
+  </div>
+</section>
+
+<%= render 'modules/footer/index' %>

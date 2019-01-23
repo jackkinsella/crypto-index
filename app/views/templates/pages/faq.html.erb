@@ -1,0 +1,21 @@
+<% cache do %>
+  <%= render_component 'Hero',
+    title: 'Frequently Asked Questions',
+    modifiers: 'is-small is-info is-bold',
+    children: {
+      navbar: 'props/navbar/full',
+    }
+  %>
+<% end %>
+
+<section class="section faq">
+  <div class="container content">
+    <div class="columns">
+      <div class="column is-10 is-offset-1">
+        <%= render_markdown('docs/faq.md').html_safe %>
+      </div>
+    </div>
+  </div>
+</section>
+
+<%= render 'modules/footer/index' %>

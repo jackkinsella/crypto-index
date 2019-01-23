@@ -1,0 +1,23 @@
+---
+user/account/deposits_001:
+  id: 1
+  account_id: 2
+  currency_id: 9
+  amount: !ruby/object:BigDecimal 18:0.1e3
+  crypto_index_fee: !ruby/object:BigDecimal 27:0.1046814e5
+  received_at: 2018-01-09 23:59:59.000000000 Z
+  relayed_at: 2018-01-10 00:00:00.000000000 Z
+  finalized_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+user/account/deposits_002:
+  id: 2
+  account_id: 3
+  currency_id: 9
+  amount: !ruby/object:BigDecimal 18:0.1e3
+  crypto_index_fee: !ruby/object:BigDecimal 27:0.1046814e5
+  received_at: 2018-01-09 23:59:59.000000000 Z
+  relayed_at: 2018-01-10 00:00:00.000000000 Z
+  finalized_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z

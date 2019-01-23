@@ -1,0 +1,9 @@
+:concurrency: <%= ENV.fetch('SIDEKIQ_CONCURRENCY') { 5 } %>
+:queues:
+  - traders
+  - trackers
+  - default
+  - mailers
+:limits:
+  traders: 1
+  trackers: 2

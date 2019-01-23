@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.sanctions.io/xmlrpc.php">
+
+<title>Search &#8211; sanctions.io</title>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="sanctions.io &raquo; Feed" href="https://www.sanctions.io/feed/" />
+<link rel="alternate" type="application/rss+xml" title="sanctions.io &raquo; Comments Feed" href="https://www.sanctions.io/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.sanctions.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.sanctions.io/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sanctions-style-css'  href='https://www.sanctions.io/wp-content/plugins/sanctions-search/css/style.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='https://www.sanctions.io/wp-content/plugins/sanctions-search/css/select2.min.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://www.sanctions.io/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://www.sanctions.io/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.2.5' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://www.sanctions.io/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-memberships-frontend-css'  href='https://www.sanctions.io/wp-content/plugins/woocommerce-memberships/assets/css/frontend/wc-memberships-frontend.min.css?ver=1.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='shapely-bootstrap-css'  href='https://www.sanctions.io/wp-content/themes/shapely/inc/css/bootstrap.min.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='shapely-icons-css'  href='https://www.sanctions.io/wp-content/themes/shapely/inc/css/font-awesome.min.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='shapely-fonts-css'  href='//fonts.googleapis.com/css?family=Raleway%3A100%2C300%2C400%2C500%2C600%2C700%7COpen+Sans%3A400%2C500%2C600&#038;ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css-css'  href='https://www.sanctions.io/wp-content/themes/shapely/inc/css/flexslider.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='shapely-style-css'  href='https://www.sanctions.io/wp-content/themes/shapely/style.css?ver=4.9.6' type='text/css' media='all' />
+<!-- `jetpack_social_media_icons_widget` is included in the concatenated jetpack.css -->
+<link rel='stylesheet' id='jetpack_css-css'  href='https://www.sanctions.io/wp-content/plugins/jetpack/css/jetpack.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.sanctions.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.sanctions.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.sanctions.io/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.sanctions.io/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.sanctions.io/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+<meta name="generator" content="WooCommerce 3.2.5" />
+<link rel="canonical" href="https://www.sanctions.io/search/" />
+<link rel='shortlink' href='https://wp.me/P80gil-4c' />
+<link rel="alternate" type="application/json+oembed" href="https://www.sanctions.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sanctions.io%2Fsearch%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.sanctions.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sanctions.io%2Fsearch%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><style type="text/css">a {color:#82c000}.btn-filled, .btn-filled:visited, .woocommerce #respond input#submit.alt,
+          .woocommerce a.button.alt, .woocommerce button.button.alt,
+          .woocommerce input.button.alt, .woocommerce #respond input#submit,
+          .woocommerce a.button, .woocommerce button.button,
+          .woocommerce input.button { background:#82c000 !important; border: 2px solid#82c000 !important;}</style>    <style type="text/css">
+        #social { background: transparent; float: right; }
+        #social li{
+            display: inline-block;
+        }
+        #social li,
+        #social ul {
+            border: 0!important;
+            list-style: none;
+            padding-left: 0;
+            text-align: center;
+        }
+        #social .social_icon span { display: none; }
+        #social li a[href*="twitter.com"] .fa:before,
+        .fa-twitter:before {
+            content: "\f099"
+        }
+        #social li a[href*="facebook.com"] .fa:before,
+        .fa-facebook-f:before,
+        .fa-facebook:before {
+            content: "\f09a"
+        }
+        #social li a[href*="github.com"] .fa:before,
+        .fa-github:before {
+            content: "\f09b"
+        }
+        #social li a[href*="/feed"] .fa:before,
+        .fa-rss:before {
+            content: "\f09e"
+        }
+        #social li a[href*="pinterest.com"] .fa:before,
+        .fa-pinterest:before {
+            content: "\f0d2"
+        }
+        #social li a[href*="plus.google.com"] .fa:before,
+        .fa-google-plus:before {
+            content: "\f0d5"
+        }
+        #social li a[href*="linkedin.com"] .fa:before,
+        .fa-linkedin:before {
+            content: "\f0e1"
+        }
+        #social li a[href*="youtube.com"] .fa:before,
+        .fa-youtube:before {
+            content: "\f167"
+        }
+        #social li a[href*="instagram.com"] .fa:before,
+        .fa-instagram:before {
+            content: "\f16d"
+        }
+        #social li a[href*="flickr.com"] .fa:before,
+        .fa-flickr:before {
+            content: "\f16e"
+        }
+        #social li a[href*="tumblr.com"] .fa:before,
+        .fa-tumblr:before {
+            content: "\f173"
+        }
+        #social li a[href*="dribbble.com"] .fa:before,
+        .fa-dribbble:before {
+            content: "\f17d"
+        }
+        #social li a[href*="skype.com"] .fa:before,
+        .fa-skype:before {
+            content: "\f17e"
+        }
+        #social li a[href*="foursquare.com"] .fa:before,
+        .fa-foursquare:before {
+            content: "\f180"
+        }
+        #social li a[href*="vimeo.com"] .fa:before,
+        .fa-vimeo-square:before {
+            content: "\f194"
+        }
+        #social li a[href*="spotify.com"] .fa:before,
+        .fa-spotify:before {
+            content: "\f1bc"
+        }
+        #social li a[href*="soundcloud.com"] .fa:before,
+        .fa-soundcloud:before {
+            content: "\f1be"
+        }
+    </style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Search" />
+<meta property="og:url" content="https://www.sanctions.io/search/" />
+<meta property="og:description" content="Results:" />
+<meta property="article:published_time" content="2016-10-11T10:42:56+00:00" />
+<meta property="article:modified_time" content="2018-03-21T08:19:32+00:00" />
+<meta property="og:site_name" content="sanctions.io" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="Search" />
+<meta name="twitter:card" content="summary" />
+			<style type="text/css" id="wp-custom-css">
+				/*
+Welcome to Custom CSS!
+
+To learn how this works, see http://wp.me/PEmnE-Bt
+*/
+h1 {
+	font-size: 30px;
+}
+
+h2 {
+	font-size: 30px;
+}			</style>
+		</head>
+
+<body class="page-template-default page page-id-260 has-full-width">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+        <div class="nav-container">
+            <nav id="site-navigation" class="main-navigation" role="navigation">
+                <div class="container nav-bar">
+                        <div class="row">
+                            <div class="module left site-title-container">
+                                
+  <a href="https://www.sanctions.io/">    <img src="https://www.sanctions.io/wp-content/uploads/2016/09/sanctions.io_transparent_small.png" class="logo" alt="sanctions.io">  </a>                            </div>
+                            <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
+                                <i class="fa fa-bars"></i>
+                            </div>
+                            <div class="module-group right">
+                                <div class="module left">
+                                    <div class="collapse navbar-collapse navbar-ex1-collapse"><ul id="menu" class="menu"><li id="menu-item-467" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-260 current_page_item menu-item-467 active"><a title="Search" href="https://www.sanctions.io/search/">Search</a></li>
+<li id="menu-item-487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-487"><a title="Data" href="https://www.sanctions.io/data/">Data</a></li>
+<li id="menu-item-313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313"><a title="API" href="https://www.sanctions.io/api/">API</a></li>
+<li class="menu-item"><a class="woo-menu-cart" href="https://www.sanctions.io/shop/" title="Start shopping"><i class="fa fa-shopping-cart"></i> 0 items - <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&euro;</span>0,00</span></a></li></ul></div>                                </div>
+                                <!--end of menu module-->
+                                <div class="module widget-handle search-widget-handle left hidden-xs hidden-sm">
+                                    <div class="search">
+                                        <i class="fa fa-search"></i>
+                                        <span class="title">Site Search</span>
+                                    </div>
+                                    <div class="function"><form role="search" method="get" id="searchform" class="search-form" action="https://www.sanctions.io/" >
+    <label class="screen-reader-text" for="s">Search for:</label>
+    <input type="text" placeholder="Type Here" type="text" value="" name="s" id="s" />
+    <input type="submit" class="btn btn-fillded searchsubmit" id="searchsubmit" value="Search" />
+
+    </form>                                    </div>
+                                </div>
+                            </div>
+                            <!--end of module group-->
+                        </div>
+                </div>
+            </nav><!-- #site-navigation -->
+        </div>
+	</header><!-- #masthead -->
+    
+	<div id="content" class="main-container">
+            <section class="page-title-section bg-secondary">
+      <div class="container">
+          <div class="row">
+              <div class="col-md-6 col-sm-6 col-xs-12">
+                  <h3 class="page-title">
+                      Search                  </h3>
+              </div>
+              <div class="col-md-6 col-sm-6 col-xs-12 text-right">
+                            </div>
+          </div>
+          <!--end of row-->
+      </div>
+      <!--end of container-->
+    </section>        <section class="content-area ">
+          <div id="main" class="container" role="main">
+                <div class="row">
+
+	  
+    <div id="primary" class="col-md-9 mb-xs-24 full-width">
+		<main id="main" class="site-main" role="main">
+
+			
+<article id="post-260" class="post-260 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">Search</h1>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		        <div id="sanctions-container">
+            <form id="sanctions-search-form" name="search-form" method="get" action="/search" style="margin: 50px auto;">
+                <p class="error">This field is required!</p>
+                <input class="input-text" type="text" name="sname" placeholder="Name.." id="id_sname" value="John Doe" />
+                <div id="search-additional">
+                    <input type="text" name="saddress" placeholder="Address.." value="" /><br />
+
+                    <select name="scountry[]" title="Country" id="id_scountry" multiple="multiple">
+                                                <option value="AF">Afghanistan</option>
+                                                <option value="AX">Åland Islands</option>
+                                                <option value="AL">Albania</option>
+                                                <option value="DZ">Algeria</option>
+                                                <option value="AS">American Samoa</option>
+                                                <option value="AD">Andorra</option>
+                                                <option value="AO">Angola</option>
+                                                <option value="AI">Anguilla</option>
+                                                <option value="AQ">Antarctica</option>
+                                                <option value="AG">Antigua and Barbuda</option>
+                                                <option value="AR">Argentina</option>
+                                                <option value="AM">Armenia</option>
+                                                <option value="AW">Aruba</option>
+                                                <option value="AU">Australia</option>
+                                                <option value="AT">Austria</option>
+                                                <option value="AZ">Azerbaijan</option>
+                                                <option value="BS">Bahamas</option>
+                                                <option value="BH">Bahrain</option>
+                                                <option value="BD">Bangladesh</option>
+                                                <option value="BB">Barbados</option>
+                                                <option value="BY">Belarus</option>
+                                                <option value="BE">Belgium</option>
+                                                <option value="BZ">Belize</option>
+                                                <option value="BJ">Benin</option>
+                                                <option value="BM">Bermuda</option>
+                                                <option value="BT">Bhutan</option>
+                                                <option value="BO">Bolivia</option>
+                                                <option value="BA">Bosnia and Herzegovina</option>
+                                                <option value="BW">Botswana</option>
+                                                <option value="BV">Bouvet Island</option>
+                                                <option value="BR">Brazil</option>
+                                                <option value="IO">British Indian Ocean Territory</option>
+                                                <option value="BN">Brunei Darussalam</option>
+                                                <option value="BG">Bulgaria</option>
+                                                <option value="BF">Burkina Faso</option>
+                                                <option value="BI">Burundi</option>
+                                                <option value="KH">Cambodia</option>
+                                                <option value="CM">Cameroon</option>
+                                                <option value="CA">Canada</option>
+                                                <option value="CV">Cape Verde</option>
+                                                <option value="KY">Cayman Islands</option>
+                                                <option value="CF">Central African Republic</option>
+                                                <option value="TD">Chad</option>
+                                                <option value="CL">Chile</option>
+                                                <option value="CN">China</option>
+                                                <option value="CX">Christmas Island</option>
+                                                <option value="CC">Cocos (Keeling) Islands</option>
+                                                <option value="CO">Colombia</option>
+                                                <option value="KM">Comoros</option>
+                                                <option value="CG">Congo</option>
+                                                <option value="CD">Congo, The Democratic Republic of The</option>
+                                                <option value="CK">Cook Islands</option>
+                                                <option value="CR">Costa Rica</option>
+                                                <option value="CI">Cote D'ivoire</option>
+                                                <option value="HR">Croatia</option>
+                                                <option value="CU">Cuba</option>
+                                                <option value="CY">Cyprus</option>
+                                                <option value="CZ">Czech Republic</option>
+                                                <option value="DK">Denmark</option>
+                                                <option value="DJ">Djibouti</option>
+                                                <option value="DM">Dominica</option>
+                                                <option value="DO">Dominican Republic</option>
+                                                <option value="EC">Ecuador</option>
+                                                <option value="EG">Egypt</option>
+                                                <option value="SV">El Salvador</option>
+                                                <option value="GQ">Equatorial Guinea</option>
+                                                <option value="ER">Eritrea</option>
+                                                <option value="EE">Estonia</option>
+                                                <option value="ET">Ethiopia</option>
+                                                <option value="FK">Falkland Islands (Malvinas)</option>
+                                                <option value="FO">Faroe Islands</option>
+                                                <option value="FJ">Fiji</option>
+                                                <option value="FI">Finland</option>
+                                                <option value="FR">France</option>
+                                                <option value="GF">French Guiana</option>
+                                                <option value="PF">French Polynesia</option>
+                                                <option value="TF">French Southern Territories</option>
+                                                <option value="GA">Gabon</option>
+                                                <option value="GM">Gambia</option>
+                                                <option value="GE">Georgia</option>
+                                                <option value="DE">Germany</option>
+                                                <option value="GH">Ghana</option>
+                                                <option value="GI">Gibraltar</option>
+                                                <option value="GR">Greece</option>
+                                                <option value="GL">Greenland</option>
+                                                <option value="GD">Grenada</option>
+                                                <option value="GP">Guadeloupe</option>
+                                                <option value="GU">Guam</option>
+                                                <option value="GT">Guatemala</option>
+                                                <option value="GG">Guernsey</option>
+                                                <option value="GN">Guinea</option>
+                                                <option value="GW">Guinea-bissau</option>
+                                                <option value="GY">Guyana</option>
+                                                <option value="HT">Haiti</option>
+                                                <option value="HM">Heard Island and Mcdonald Islands</option>
+                                                <option value="VA">Holy See (Vatican City State)</option>
+                                                <option value="HN">Honduras</option>
+                                                <option value="HK">Hong Kong</option>
+                                                <option value="HU">Hungary</option>
+                                                <option value="IS">Iceland</option>
+                                                <option value="IN">India</option>
+                                                <option value="ID">Indonesia</option>
+                                                <option value="IR">Iran, Islamic Republic of</option>
+                                                <option value="IQ">Iraq</option>
+                                                <option value="IE">Ireland</option>
+                                                <option value="IM">Isle of Man</option>
+                                                <option value="IL">Israel</option>
+                                                <option value="IT">Italy</option>
+                                                <option value="JM">Jamaica</option>
+                                                <option value="JP">Japan</option>
+                                                <option value="JE">Jersey</option>
+                                                <option value="JO">Jordan</option>
+                                                <option value="KZ">Kazakhstan</option>
+                                                <option value="KE">Kenya</option>
+                                                <option value="KI">Kiribati</option>
+                                                <option value="KP">Korea, Democratic People's Republic of</option>
+                                                <option value="KR">Korea, Republic of</option>
+                                                <option value="KW">Kuwait</option>
+                                                <option value="KG">Kyrgyzstan</option>
+                                                <option value="LA">Lao People's Democratic Republic</option>
+                                                <option value="LV">Latvia</option>
+                                                <option value="LB">Lebanon</option>
+                                                <option value="LS">Lesotho</option>
+                                                <option value="LR">Liberia</option>
+                                                <option value="LY">Libyan Arab Jamahiriya</option>
+                                                <option value="LI">Liechtenstein</option>
+                                                <option value="LT">Lithuania</option>
+                                                <option value="LU">Luxembourg</option>
+                                                <option value="MO">Macao</option>
+                                                <option value="MK">Macedonia, The Former Yugoslav Republic of</option>
+                                                <option value="MG">Madagascar</option>
+                                                <option value="MW">Malawi</option>
+                                                <option value="MY">Malaysia</option>
+                                                <option value="MV">Maldives</option>
+                                                <option value="ML">Mali</option>
+                                                <option value="MT">Malta</option>
+                                                <option value="MH">Marshall Islands</option>
+                                                <option value="MQ">Martinique</option>
+                                                <option value="MR">Mauritania</option>
+                                                <option value="MU">Mauritius</option>
+                                                <option value="YT">Mayotte</option>
+                                                <option value="MX">Mexico</option>
+                                                <option value="FM">Micronesia, Federated States of</option>
+                                                <option value="MD">Moldova, Republic of</option>
+                                                <option value="MC">Monaco</option>
+                                                <option value="MN">Mongolia</option>
+                                                <option value="ME">Montenegro</option>
+                                                <option value="MS">Montserrat</option>
+                                                <option value="MA">Morocco</option>
+                                                <option value="MZ">Mozambique</option>
+                                                <option value="MM">Myanmar</option>
+                                                <option value="NA">Namibia</option>
+                                                <option value="NR">Nauru</option>
+                                                <option value="NP">Nepal</option>
+                                                <option value="NL">Netherlands</option>
+                                                <option value="AN">Netherlands Antilles</option>
+                                                <option value="NC">New Caledonia</option>
+                                                <option value="NZ">New Zealand</option>
+                                                <option value="NI">Nicaragua</option>
+                                                <option value="NE">Niger</option>
+                                                <option value="NG">Nigeria</option>
+                                                <option value="NU">Niue</option>
+                                                <option value="NF">Norfolk Island</option>
+                                                <option value="MP">Northern Mariana Islands</option>
+                                                <option value="NO">Norway</option>
+                                                <option value="OM">Oman</option>
+                                                <option value="PK">Pakistan</option>
+                                                <option value="PW">Palau</option>
+                                                <option value="PS">Palestinian Territory, Occupied</option>
+                                                <option value="PA">Panama</option>
+                                                <option value="PG">Papua New Guinea</option>
+                                                <option value="PY">Paraguay</option>
+                                                <option value="PE">Peru</option>
+                                                <option value="PH">Philippines</option>
+                                                <option value="PN">Pitcairn</option>
+                                                <option value="PL">Poland</option>
+                                                <option value="PT">Portugal</option>
+                                                <option value="PR">Puerto Rico</option>
+                                                <option value="QA">Qatar</option>
+                                                <option value="RE">Reunion</option>
+                                                <option value="RO">Romania</option>
+                                                <option value="RU">Russian Federation</option>
+                                                <option value="RW">Rwanda</option>
+                                                <option value="SH">Saint Helena</option>
+                                                <option value="KN">Saint Kitts and Nevis</option>
+                                                <option value="LC">Saint Lucia</option>
+                                                <option value="PM">Saint Pierre and Miquelon</option>
+                                                <option value="VC">Saint Vincent and The Grenadines</option>
+                                                <option value="WS">Samoa</option>
+                                                <option value="SM">San Marino</option>
+                                                <option value="ST">Sao Tome and Principe</option>
+                                                <option value="SA">Saudi Arabia</option>
+                                                <option value="SN">Senegal</option>
+                                                <option value="RS">Serbia</option>
+                                                <option value="SC">Seychelles</option>
+                                                <option value="SL">Sierra Leone</option>
+                                                <option value="SG">Singapore</option>
+                                                <option value="SK">Slovakia</option>
+                                                <option value="SI">Slovenia</option>
+                                                <option value="SB">Solomon Islands</option>
+                                                <option value="SO">Somalia</option>
+                                                <option value="ZA">South Africa</option>
+                                                <option value="GS">South Georgia and The South Sandwich Islands</option>
+                                                <option value="ES">Spain</option>
+                                                <option value="LK">Sri Lanka</option>
+                                                <option value="SD">Sudan</option>
+                                                <option value="SR">Suriname</option>
+                                                <option value="SJ">Svalbard and Jan Mayen</option>
+                                                <option value="SZ">Swaziland</option>
+                                                <option value="SE">Sweden</option>
+                                                <option value="CH">Switzerland</option>
+                                                <option value="SY">Syrian Arab Republic</option>
+                                                <option value="TW">Taiwan, Province of China</option>
+                                                <option value="TJ">Tajikistan</option>
+                                                <option value="TZ">Tanzania, United Republic of</option>
+                                                <option value="TH">Thailand</option>
+                                                <option value="TL">Timor-leste</option>
+                                                <option value="TG">Togo</option>
+                                                <option value="TK">Tokelau</option>
+                                                <option value="TO">Tonga</option>
+                                                <option value="TT">Trinidad and Tobago</option>
+                                                <option value="TN">Tunisia</option>
+                                                <option value="TR">Turkey</option>
+                                                <option value="TM">Turkmenistan</option>
+                                                <option value="TC">Turks and Caicos Islands</option>
+                                                <option value="TV">Tuvalu</option>
+                                                <option value="UG">Uganda</option>
+                                                <option value="UA">Ukraine</option>
+                                                <option value="AE">United Arab Emirates</option>
+                                                <option value="GB">United Kingdom</option>
+                                                <option value="US">United States</option>
+                                                <option value="UM">United States Minor Outlying Islands</option>
+                                                <option value="UY">Uruguay</option>
+                                                <option value="UZ">Uzbekistan</option>
+                                                <option value="VU">Vanuatu</option>
+                                                <option value="VE">Venezuela</option>
+                                                <option value="VN">Viet Nam</option>
+                                                <option value="VG">Virgin Islands, British</option>
+                                                <option value="VI">Virgin Islands, U.S.</option>
+                                                <option value="WF">Wallis and Futuna</option>
+                                                <option value="EH">Western Sahara</option>
+                                                <option value="YE">Yemen</option>
+                                                <option value="ZM">Zambia</option>
+                                                <option value="ZW">Zimbabwe</option>
+                                            </select>
+
+                    <br />
+
+                    <select name="slist[]" title="Lists" multiple="multiple" id="id_slist">
+                                                <option value="13599">List of Persons Identified as Blocked Solely Pursuant to Executive Order 13599 (13599) - Treasury Department</option>
+                                                <option value="561">Part 561 List (561) - Treasury Department</option>
+                                                <option value="CFSP">Common Foreign and Security Policy (CFSP)</option>
+                                                <option value="DPL">Denied Persons List (DPL) - Bureau of Industry and Security</option>
+                                                <option value="DTC">ITAR Debarred (DTC) - State Department</option>
+                                                <option value="EL">Entity List (EL) - Bureau of Industry and Security</option>
+                                                <option value="FSE">Foreign Sanctions Evaders (FSE) - Treasury Department</option>
+                                                <option value="HM TREASURY">Her Majesty's Treasury (HM TREASURY)</option>
+                                                <option value="ISN">Nonproliferation Sanctions (ISN) - State Department</option>
+                                                <option value="PLC">Palestinian Legislative Council List (PLC) - Treasury Department</option>
+                                                <option value="SDN">Specially Designated Nationals (SDN) - Treasury Department</option>
+                                                <option value="SSI">Sectoral Sanctions Identifications List (SSI) - Treasury Department</option>
+                                                <option value="UVL">Unverified List (UVL) - Bureau of Industry and Security</option>
+                                            </select>
+
+                    <div>
+                        <input type="checkbox" name="smode" value="fuzzy" id="id_smode">
+                        <label for="id_smode">Use Fuzzy search for name value</label>
+                    </div>
+                </div>
+                <input type="submit" value="Search">
+                <div>
+                    <span class="more">
+                                                <a href="#more" data-toggletext="Less options">More options</a>
+                                            </span>
+                </div>
+            </form>
+                    </div>
+
+        <script type="text/javascript">
+            (function($) {
+                var $containerFull = $('#sanctions-container-full');
+                $('body').prepend($containerFull);
+                
+                var $moreOptions = $('a[href=#more]');
+                var $searchAdditional = $('#search-additional');
+                var $searchForm = $('#sanctions-search-form');
+
+                var $selectCountry = $('#id_scountry');
+                var $selectLists = $('#id_slist');
+
+
+                $(function() {
+                    $selectCountry.select2({placeholder: 'Country..'});
+                    $selectLists.select2({placeholder: 'Lists..'});
+
+                    $('a.scroll').click(function(e) {
+                        e.preventDefault();
+                        var $self = $(this);
+
+                        $('html, body').animate({
+                            scrollTop: $($self.attr('href')).offset().top
+                        }, 1500);
+                    });
+
+                    $searchForm.submit(function() {
+                        var $nameField = $('#id_sname');
+
+                        if($nameField.val().trim() == '') {
+                            $nameField.prev().show();
+                            $nameField.addClass('error');
+
+                            return false;
+                        } else {
+                            $nameField.prev().hide();
+                            $nameField.removeClass('error');
+                        }
+
+                        return true;
+                    });
+                });
+
+                $moreOptions.click(function(e) {
+                    e.preventDefault();
+                    $searchAdditional.slideToggle();
+
+                    var tt = $(this).data('toggletext');
+                    $(this).data('toggletext', $(this).text());
+                    $(this).text(tt);
+                });
+            })(jQuery);
+        </script>
+
+        
+<h2>Results:</h2>
+
+                                    <p>No Results found.</p>
+                    
+        <script type="text/javascript">
+            (function($) {
+                var currentPage = 1;
+                var loading = false;
+
+                $(function() {
+                    var $loadingSpinner = $('#sanctions-search-loading-spinner');
+
+                    $("#sanctions-search-result-list").on('click', '> li', function(e) {
+                        e.preventDefault();
+                        $(this).toggleClass('active');
+                        $('.sanctions-search-results-additional', $(this)).slideToggle();
+                    });
+
+                    $(window).scroll(function() {
+                        if(!loading && (($(document).height() - ($(document).scrollTop() + $(window).height())) < ($(window).height() * 0.8))) {
+                            loading = true;
+                            $loadingSpinner.show();
+
+                            $.ajax({
+                                url: 'https://www.sanctions.io/wp-admin/admin-ajax.php',
+                                data: window.location.search.substr(1).replace(/(&spage=\d+|$)/, '&spage=' + (currentPage + 1)) + '&action=sanctions_load_page',
+                                method: 'POST'
+                            }).success(function(data) {
+                                data = JSON.parse(data);
+                                if(data.success) {
+                                    $('ol#sanctions-search-result-list').append(data.resultList);
+                                    currentPage++;
+                                    loading = false;
+                                }
+                                $loadingSpinner.hide();
+                            });
+                        }
+                    });
+                });
+            })(jQuery);
+        </script>
+
+        
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+    
+
+            </div><!-- row -->
+		</div><!-- #main -->
+	</section><!-- section -->
+
+    
+	<footer id="colophon" class="site-footer footer bg-dark" role="contentinfo">
+      <div class="container footer-inner">
+        <div class="row">
+          
+	
+	<div class="footer-widget-area">
+				<div class="col-md-3 col-sm-6 footer-widget" role="complementary">
+			<div id="text-3" class="widget widget_text"><h2 class="widget-title">Imprint</h2>			<div class="textwidget"><p>Remedyne GmbH<br />
+Gaußstraße 5, 60316 Frankfurt/Main<br />
+Germany<br />
+<a href="https://www.remedyne.de">www.remedyne.com</a></p>
+<p>Registered at<br />
+Amtsgericht Frankfurt/Main<br />
+HRB 94971<br />
+Managing Director: Jens Kettler<br />
+VAT ID No.: DE285549495</p>
+<p>T: +49-69-94508054<br />
+F: +49-69-92894123<br />
+E: info@sanctions.io</p>
+</div>
+		</div>		</div><!-- .widget-area .first -->
+		
+				<div class="col-md-3 col-sm-6 footer-widget" role="complementary">
+			<div id="text-7" class="widget widget_text"><h2 class="widget-title">Important Links</h2>			<div class="textwidget"><p><a href="https://www.sanctions.io/terms-of-service/">Terms of Service</a><br />
+<a href="https://www.sanctions.io/privacy-statement/">Privacy Statement</a><br />
+<a href="https://www.sanctions.io/pricing/">Pricing</a></p>
+</div>
+		</div>		</div><!-- .widget-area .second -->
+		
+				<div class="col-md-3 col-sm-6 footer-widget" role="complementary">
+			<div id="wpcom_social_media_icons_widget-3" class="widget widget_wpcom_social_media_icons_widget"><h2 class="widget-title">Follow us</h2><ul><li><a href="https://twitter.com/@sanctions_io/" class="genericon genericon-twitter" target="_blank"><span class="screen-reader-text">View @sanctions_io&#8217;s profile on Twitter</span></a></li></ul></div>		</div><!-- .widget-area .third -->
+		        
+				<div class="col-md-3 col-sm-6 footer-widget" role="complementary">
+			<div id="pages-8" class="widget widget_pages"><h2 class="widget-title">Pages</h2>		<ul>
+			<li class="page_item page-item-310"><a href="https://www.sanctions.io/api/">API</a></li>
+<li class="page_item page-item-470"><a href="https://www.sanctions.io/data/">Data</a></li>
+<li class="page_item page-item-2"><a href="https://www.sanctions.io/">Home</a></li>
+<li class="page_item page-item-358"><a href="https://www.sanctions.io/pricing/">Pricing</a></li>
+<li class="page_item page-item-321"><a href="https://www.sanctions.io/privacy-statement/">Privacy Statement</a></li>
+<li class="page_item page-item-260 current_page_item"><a href="https://www.sanctions.io/search/">Search</a></li>
+<li class="page_item page-item-319"><a href="https://www.sanctions.io/terms-of-service/">Terms of Service</a></li>
+		</ul>
+		</div>		</div><!-- .widget-area .third -->
+			</div>        </div>
+
+        <div class="row">
+          <div class="site-info col-sm-6">
+            <div class="copyright-text"></div>
+            <div class="footer-credits"></div>
+          </div><!-- .site-info -->
+          <div class="col-sm-6 text-right">
+                      </div>
+        </div>
+      </div>
+
+      <a class="btn btn-sm fade-half back-to-top inner-link" href="#top"><i class="fa fa-angle-up"></i></a>
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+  <script type="text/javascript">
+    jQuery( document ).ready( function( $ ){
+      if ( $( window ).width() >= 767 ){
+        $( '.navbar-nav > li.menu-item > a' ).click( function(){
+          window.location = $( this ).attr( 'href' );
+        });
+      }
+    });
+  </script>
+	<div style="display:none">
+	</div>
+<link rel='stylesheet' id='genericons-css'  href='https://www.sanctions.io/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.sanctions.io\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.sanctions.io/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.1'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201822'></script>
+<script type='text/javascript' src='https://www.sanctions.io/wp-content/plugins/sanctions-search/js/select2.min.js?ver=4.9.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/www.sanctions.io\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.sanctions.io\/?page_id=6","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.sanctions.io/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.2.5'></script>
+<script type='text/javascript' src='https://www.sanctions.io/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='https://www.sanctions.io/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/www.sanctions.io\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.sanctions.io/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.2.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/www.sanctions.io\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments_8cebfc052f58abf7cca2ec8265f275d6"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.sanctions.io/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.2.5'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2018Junaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.sanctions.io/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.9.6'></script>
+<script type='text/javascript' src='https://www.sanctions.io/wp-content/themes/shapely/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='https://www.sanctions.io/wp-content/themes/shapely/js/skip-link-focus-fix.js?ver=20160115'></script>
+<script type='text/javascript' src='https://www.sanctions.io/wp-content/themes/shapely/js/flexslider.min.js?ver=20160222'></script>
+<script type='text/javascript' src='https://www.sanctions.io/wp-content/themes/shapely/js/shapely-scripts.js?ver=20160115'></script>
+<script type='text/javascript' src='https://www.sanctions.io/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201822.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.5.1',blog:'118273329',post:'260',tz:'2',srv:'www.sanctions.io'} ]);
+	_stq.push([ 'clickTrackerInit', '118273329', '260' ]);
+</script>
+
+</body>
+</html>

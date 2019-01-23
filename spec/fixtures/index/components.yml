@@ -1,0 +1,3711 @@
+---
+btc_component_for_market10_at_1483228800:
+  id: 1
+  allocation_id: 1
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1483228800:
+  id: 2
+  allocation_id: 1
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1483228800:
+  id: 3
+  allocation_id: 1
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1483228800:
+  id: 4
+  allocation_id: 1
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 18:0.19e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+steem_component_for_market10_at_1483228800:
+  id: 5
+  allocation_id: 1
+  currency_id: 15
+  weight: !ruby/object:BigDecimal 18:0.1e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+dash_component_for_market10_at_1483228800:
+  id: 6
+  allocation_id: 1
+  currency_id: 7
+  weight: !ruby/object:BigDecimal 18:0.1e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+maid_component_for_market10_at_1483228800:
+  id: 7
+  allocation_id: 1
+  currency_id: 11
+  weight: !ruby/object:BigDecimal 18:0.1e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xmr_component_for_market10_at_1483228800:
+  id: 8
+  allocation_id: 1
+  currency_id: 19
+  weight: !ruby/object:BigDecimal 18:0.1e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+rep_component_for_market10_at_1483228800:
+  id: 9
+  allocation_id: 1
+  currency_id: 13
+  weight: !ruby/object:BigDecimal 18:0.1e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+etc_component_for_market10_at_1483228800:
+  id: 10
+  allocation_id: 1
+  currency_id: 8
+  weight: !ruby/object:BigDecimal 18:0.1e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515538800:
+  id: 11
+  allocation_id: 2
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515538800:
+  id: 12
+  allocation_id: 2
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515538800:
+  id: 13
+  allocation_id: 2
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218355671309e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515538800:
+  id: 14
+  allocation_id: 2
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84524582287e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515538800:
+  id: 15
+  allocation_id: 2
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50050346171e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515538800:
+  id: 16
+  allocation_id: 2
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.3571473268e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515538800:
+  id: 17
+  allocation_id: 2
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955065697e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515538800:
+  id: 18
+  allocation_id: 2
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30921112268e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515538800:
+  id: 19
+  allocation_id: 2
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294957639e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515538800:
+  id: 20
+  allocation_id: 2
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17183531949e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515542400:
+  id: 21
+  allocation_id: 3
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515542400:
+  id: 22
+  allocation_id: 3
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515542400:
+  id: 23
+  allocation_id: 3
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218355824936e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515542400:
+  id: 24
+  allocation_id: 3
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84524983361e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515542400:
+  id: 25
+  allocation_id: 3
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50050660878e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515542400:
+  id: 26
+  allocation_id: 3
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35714053451e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515542400:
+  id: 27
+  allocation_id: 3
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.3295507646e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515542400:
+  id: 28
+  allocation_id: 3
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30920977919e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515542400:
+  id: 29
+  allocation_id: 3
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294928644e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515542400:
+  id: 30
+  allocation_id: 3
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17183494351e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515546000:
+  id: 31
+  allocation_id: 4
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515546000:
+  id: 32
+  allocation_id: 4
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515546000:
+  id: 33
+  allocation_id: 4
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218355978543e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515546000:
+  id: 34
+  allocation_id: 4
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84525384385e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515546000:
+  id: 35
+  allocation_id: 4
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50050975548e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515546000:
+  id: 36
+  allocation_id: 4
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35713374305e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515546000:
+  id: 37
+  allocation_id: 4
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955087223e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515546000:
+  id: 38
+  allocation_id: 4
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30920843588e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515546000:
+  id: 39
+  allocation_id: 4
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294899652e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515546000:
+  id: 40
+  allocation_id: 4
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17183456756e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515549600:
+  id: 41
+  allocation_id: 5
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515549600:
+  id: 42
+  allocation_id: 5
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515549600:
+  id: 43
+  allocation_id: 5
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218356132129e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515549600:
+  id: 44
+  allocation_id: 5
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84525785362e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515549600:
+  id: 45
+  allocation_id: 5
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50051290179e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515549600:
+  id: 46
+  allocation_id: 5
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35712695241e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515549600:
+  id: 47
+  allocation_id: 5
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955097984e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515549600:
+  id: 48
+  allocation_id: 5
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30920709272e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515549600:
+  id: 49
+  allocation_id: 5
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294870665e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515549600:
+  id: 50
+  allocation_id: 5
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17183419168e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515553200:
+  id: 51
+  allocation_id: 6
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515553200:
+  id: 52
+  allocation_id: 6
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515553200:
+  id: 53
+  allocation_id: 6
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218356285699e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515553200:
+  id: 54
+  allocation_id: 6
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84526186289e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515553200:
+  id: 55
+  allocation_id: 6
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50051604772e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515553200:
+  id: 56
+  allocation_id: 6
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35712016259e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515553200:
+  id: 57
+  allocation_id: 6
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955108744e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515553200:
+  id: 58
+  allocation_id: 6
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30920574974e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515553200:
+  id: 59
+  allocation_id: 6
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.3029484168e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515553200:
+  id: 60
+  allocation_id: 6
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17183381583e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515556800:
+  id: 61
+  allocation_id: 7
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515556800:
+  id: 62
+  allocation_id: 7
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515556800:
+  id: 63
+  allocation_id: 7
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218356439251e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515556800:
+  id: 64
+  allocation_id: 7
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84526587167e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515556800:
+  id: 65
+  allocation_id: 7
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50051919327e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515556800:
+  id: 66
+  allocation_id: 7
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35711337361e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515556800:
+  id: 67
+  allocation_id: 7
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955119502e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515556800:
+  id: 68
+  allocation_id: 7
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.3092044069e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515556800:
+  id: 69
+  allocation_id: 7
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294812699e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515556800:
+  id: 70
+  allocation_id: 7
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17183344003e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515560400:
+  id: 71
+  allocation_id: 8
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515560400:
+  id: 72
+  allocation_id: 8
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515560400:
+  id: 73
+  allocation_id: 8
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218356592783e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515560400:
+  id: 74
+  allocation_id: 8
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84526987996e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515560400:
+  id: 75
+  allocation_id: 8
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50052233843e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515560400:
+  id: 76
+  allocation_id: 8
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35710658545e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515560400:
+  id: 77
+  allocation_id: 8
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955130259e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515560400:
+  id: 78
+  allocation_id: 8
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30920306424e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515560400:
+  id: 79
+  allocation_id: 8
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294783722e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515560400:
+  id: 80
+  allocation_id: 8
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17183306428e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515564000:
+  id: 81
+  allocation_id: 9
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515564000:
+  id: 82
+  allocation_id: 9
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515564000:
+  id: 83
+  allocation_id: 9
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218356746296e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515564000:
+  id: 84
+  allocation_id: 9
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84527388776e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515564000:
+  id: 85
+  allocation_id: 9
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50052548321e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515564000:
+  id: 86
+  allocation_id: 9
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35709979811e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515564000:
+  id: 87
+  allocation_id: 9
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955141016e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515564000:
+  id: 88
+  allocation_id: 9
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30920172174e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515564000:
+  id: 89
+  allocation_id: 9
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294754749e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515564000:
+  id: 90
+  allocation_id: 9
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17183268857e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515567600:
+  id: 91
+  allocation_id: 10
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515567600:
+  id: 92
+  allocation_id: 10
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515567600:
+  id: 93
+  allocation_id: 10
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.21835689979e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515567600:
+  id: 94
+  allocation_id: 10
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84527789508e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515567600:
+  id: 95
+  allocation_id: 10
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50052862761e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515567600:
+  id: 96
+  allocation_id: 10
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35709301161e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515567600:
+  id: 97
+  allocation_id: 10
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.3295515177e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515567600:
+  id: 98
+  allocation_id: 10
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30920037941e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515567600:
+  id: 99
+  allocation_id: 10
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294725779e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515567600:
+  id: 100
+  allocation_id: 10
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.1718323129e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515571200:
+  id: 101
+  allocation_id: 11
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515571200:
+  id: 102
+  allocation_id: 11
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515571200:
+  id: 103
+  allocation_id: 11
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218357053265e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515571200:
+  id: 104
+  allocation_id: 11
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84528190191e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515571200:
+  id: 105
+  allocation_id: 11
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50053177162e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515571200:
+  id: 106
+  allocation_id: 11
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35708622594e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515571200:
+  id: 107
+  allocation_id: 11
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955162524e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515571200:
+  id: 108
+  allocation_id: 11
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30919903723e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515571200:
+  id: 109
+  allocation_id: 11
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294696812e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515571200:
+  id: 110
+  allocation_id: 11
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17183193729e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515574800:
+  id: 111
+  allocation_id: 12
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515574800:
+  id: 112
+  allocation_id: 12
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515574800:
+  id: 113
+  allocation_id: 12
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218357206723e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515574800:
+  id: 114
+  allocation_id: 12
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84528590826e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515574800:
+  id: 115
+  allocation_id: 12
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50053491526e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515574800:
+  id: 116
+  allocation_id: 12
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35707944108e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515574800:
+  id: 117
+  allocation_id: 12
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955173276e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515574800:
+  id: 118
+  allocation_id: 12
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30919769521e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515574800:
+  id: 119
+  allocation_id: 12
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294667849e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515574800:
+  id: 120
+  allocation_id: 12
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17183156171e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515578400:
+  id: 121
+  allocation_id: 13
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515578400:
+  id: 122
+  allocation_id: 13
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515578400:
+  id: 123
+  allocation_id: 13
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218357360164e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515578400:
+  id: 124
+  allocation_id: 13
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84528991411e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515578400:
+  id: 125
+  allocation_id: 13
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.5005380585e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515578400:
+  id: 126
+  allocation_id: 13
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35707265705e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515578400:
+  id: 127
+  allocation_id: 13
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955184026e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515578400:
+  id: 128
+  allocation_id: 13
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30919635337e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515578400:
+  id: 129
+  allocation_id: 13
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294638889e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515578400:
+  id: 130
+  allocation_id: 13
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17183118618e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515582000:
+  id: 131
+  allocation_id: 14
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515582000:
+  id: 132
+  allocation_id: 14
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515582000:
+  id: 133
+  allocation_id: 14
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218357513583e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515582000:
+  id: 134
+  allocation_id: 14
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84529391948e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515582000:
+  id: 135
+  allocation_id: 14
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50054120137e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515582000:
+  id: 136
+  allocation_id: 14
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35706587385e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515582000:
+  id: 137
+  allocation_id: 14
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955194776e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515582000:
+  id: 138
+  allocation_id: 14
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30919501167e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515582000:
+  id: 139
+  allocation_id: 14
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294609934e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515582000:
+  id: 140
+  allocation_id: 14
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.1718308107e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515585600:
+  id: 141
+  allocation_id: 15
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515585600:
+  id: 142
+  allocation_id: 15
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515585600:
+  id: 143
+  allocation_id: 15
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218357666984e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515585600:
+  id: 144
+  allocation_id: 15
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84529792435e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515585600:
+  id: 145
+  allocation_id: 15
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50054434385e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515585600:
+  id: 146
+  allocation_id: 15
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35705909147e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515585600:
+  id: 147
+  allocation_id: 15
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955205525e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515585600:
+  id: 148
+  allocation_id: 15
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30919367016e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515585600:
+  id: 149
+  allocation_id: 15
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294580981e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515585600:
+  id: 150
+  allocation_id: 15
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17183043527e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515589200:
+  id: 151
+  allocation_id: 16
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515589200:
+  id: 152
+  allocation_id: 16
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515589200:
+  id: 153
+  allocation_id: 16
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218357820368e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515589200:
+  id: 154
+  allocation_id: 16
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84530192875e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515589200:
+  id: 155
+  allocation_id: 16
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50054748597e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515589200:
+  id: 156
+  allocation_id: 16
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35705230991e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515589200:
+  id: 157
+  allocation_id: 16
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.3295521627e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515589200:
+  id: 158
+  allocation_id: 16
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.3091923288e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515589200:
+  id: 159
+  allocation_id: 16
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294552032e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515589200:
+  id: 160
+  allocation_id: 16
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17183005987e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515592800:
+  id: 161
+  allocation_id: 17
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515592800:
+  id: 162
+  allocation_id: 17
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515592800:
+  id: 163
+  allocation_id: 17
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218357973732e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515592800:
+  id: 164
+  allocation_id: 17
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84530593266e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515592800:
+  id: 165
+  allocation_id: 17
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50055062768e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515592800:
+  id: 166
+  allocation_id: 17
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35704552918e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515592800:
+  id: 167
+  allocation_id: 17
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955227016e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515592800:
+  id: 168
+  allocation_id: 17
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.3091909876e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515592800:
+  id: 169
+  allocation_id: 17
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294523086e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515592800:
+  id: 170
+  allocation_id: 17
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182968454e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515596400:
+  id: 171
+  allocation_id: 18
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515596400:
+  id: 172
+  allocation_id: 18
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515596400:
+  id: 173
+  allocation_id: 18
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218358127077e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515596400:
+  id: 174
+  allocation_id: 18
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84530993608e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515596400:
+  id: 175
+  allocation_id: 18
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50055376902e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515596400:
+  id: 176
+  allocation_id: 18
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35703874927e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515596400:
+  id: 177
+  allocation_id: 18
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955237761e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515596400:
+  id: 178
+  allocation_id: 18
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30918964658e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515596400:
+  id: 179
+  allocation_id: 18
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294494143e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515596400:
+  id: 180
+  allocation_id: 18
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182930924e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515600000:
+  id: 181
+  allocation_id: 19
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515600000:
+  id: 182
+  allocation_id: 19
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515600000:
+  id: 183
+  allocation_id: 19
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218358280405e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515600000:
+  id: 184
+  allocation_id: 19
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.845313939e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515600000:
+  id: 185
+  allocation_id: 19
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50055690997e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515600000:
+  id: 186
+  allocation_id: 19
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35703197019e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515600000:
+  id: 187
+  allocation_id: 19
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955248503e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515600000:
+  id: 188
+  allocation_id: 19
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.3091883057e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515600000:
+  id: 189
+  allocation_id: 19
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294465207e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515600000:
+  id: 190
+  allocation_id: 19
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182893399e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515603600:
+  id: 191
+  allocation_id: 20
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515603600:
+  id: 192
+  allocation_id: 20
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515603600:
+  id: 193
+  allocation_id: 20
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218358433712e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515603600:
+  id: 194
+  allocation_id: 20
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84531794145e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515603600:
+  id: 195
+  allocation_id: 20
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50056005055e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515603600:
+  id: 196
+  allocation_id: 20
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35702519195e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515603600:
+  id: 197
+  allocation_id: 20
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955259244e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515603600:
+  id: 198
+  allocation_id: 20
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30918696501e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515603600:
+  id: 199
+  allocation_id: 20
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294436271e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515603600:
+  id: 200
+  allocation_id: 20
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182855877e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515607200:
+  id: 201
+  allocation_id: 21
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515607200:
+  id: 202
+  allocation_id: 21
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515607200:
+  id: 203
+  allocation_id: 21
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218358587002e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515607200:
+  id: 204
+  allocation_id: 21
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84532194341e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515607200:
+  id: 205
+  allocation_id: 21
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50056319074e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515607200:
+  id: 206
+  allocation_id: 21
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35701841452e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515607200:
+  id: 207
+  allocation_id: 21
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955269986e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515607200:
+  id: 208
+  allocation_id: 21
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30918562445e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515607200:
+  id: 209
+  allocation_id: 21
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294407339e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515607200:
+  id: 210
+  allocation_id: 21
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182818361e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515610800:
+  id: 211
+  allocation_id: 22
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515610800:
+  id: 212
+  allocation_id: 22
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515610800:
+  id: 213
+  allocation_id: 22
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218358740272e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515610800:
+  id: 214
+  allocation_id: 22
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84532594489e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515610800:
+  id: 215
+  allocation_id: 22
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50056633055e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515610800:
+  id: 216
+  allocation_id: 22
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35701163791e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515610800:
+  id: 217
+  allocation_id: 22
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955280725e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515610800:
+  id: 218
+  allocation_id: 22
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30918428407e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515610800:
+  id: 219
+  allocation_id: 22
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294378411e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515610800:
+  id: 220
+  allocation_id: 22
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.1718278085e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515614400:
+  id: 221
+  allocation_id: 23
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515614400:
+  id: 222
+  allocation_id: 23
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515614400:
+  id: 223
+  allocation_id: 23
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218358893524e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515614400:
+  id: 224
+  allocation_id: 23
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84532994587e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515614400:
+  id: 225
+  allocation_id: 23
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50056946998e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515614400:
+  id: 226
+  allocation_id: 23
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35700486213e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515614400:
+  id: 227
+  allocation_id: 23
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955291461e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515614400:
+  id: 228
+  allocation_id: 23
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30918294386e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515614400:
+  id: 229
+  allocation_id: 23
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294349488e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515614400:
+  id: 230
+  allocation_id: 23
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182743343e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515618000:
+  id: 231
+  allocation_id: 24
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515618000:
+  id: 232
+  allocation_id: 24
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515618000:
+  id: 233
+  allocation_id: 24
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218359046757e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515618000:
+  id: 234
+  allocation_id: 24
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84533394637e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515618000:
+  id: 235
+  allocation_id: 24
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50057260904e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515618000:
+  id: 236
+  allocation_id: 24
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35699808717e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515618000:
+  id: 237
+  allocation_id: 24
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955302198e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515618000:
+  id: 238
+  allocation_id: 24
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.3091816038e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515618000:
+  id: 239
+  allocation_id: 24
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294320566e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515618000:
+  id: 240
+  allocation_id: 24
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182705841e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515621600:
+  id: 241
+  allocation_id: 25
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515621600:
+  id: 242
+  allocation_id: 25
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515621600:
+  id: 243
+  allocation_id: 25
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218359199974e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515621600:
+  id: 244
+  allocation_id: 25
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84533794637e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515621600:
+  id: 245
+  allocation_id: 25
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50057574768e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515621600:
+  id: 246
+  allocation_id: 25
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35699131304e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515621600:
+  id: 247
+  allocation_id: 25
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955312933e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515621600:
+  id: 248
+  allocation_id: 25
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30918026392e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515621600:
+  id: 249
+  allocation_id: 25
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294291649e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515621600:
+  id: 250
+  allocation_id: 25
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182668343e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515625200:
+  id: 251
+  allocation_id: 26
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515625200:
+  id: 252
+  allocation_id: 26
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515625200:
+  id: 253
+  allocation_id: 26
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.21835935317e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515625200:
+  id: 254
+  allocation_id: 26
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.8453419459e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515625200:
+  id: 255
+  allocation_id: 26
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50057888598e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515625200:
+  id: 256
+  allocation_id: 26
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35698453972e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515625200:
+  id: 257
+  allocation_id: 26
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955323667e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515625200:
+  id: 258
+  allocation_id: 26
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30917892419e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515625200:
+  id: 259
+  allocation_id: 26
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294262735e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515625200:
+  id: 260
+  allocation_id: 26
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182630849e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515628800:
+  id: 261
+  allocation_id: 27
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515628800:
+  id: 262
+  allocation_id: 27
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515628800:
+  id: 263
+  allocation_id: 27
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218359506345e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515628800:
+  id: 264
+  allocation_id: 27
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84534594494e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515628800:
+  id: 265
+  allocation_id: 27
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50058202388e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515628800:
+  id: 266
+  allocation_id: 27
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35697776723e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515628800:
+  id: 267
+  allocation_id: 27
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955334401e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515628800:
+  id: 268
+  allocation_id: 27
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30917758463e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515628800:
+  id: 269
+  allocation_id: 27
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294233825e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515628800:
+  id: 270
+  allocation_id: 27
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182593361e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515632400:
+  id: 271
+  allocation_id: 28
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515632400:
+  id: 272
+  allocation_id: 28
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515632400:
+  id: 273
+  allocation_id: 28
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218359659506e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515632400:
+  id: 274
+  allocation_id: 28
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84534994349e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515632400:
+  id: 275
+  allocation_id: 28
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50058516139e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515632400:
+  id: 276
+  allocation_id: 28
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35697099558e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515632400:
+  id: 277
+  allocation_id: 28
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955345131e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515632400:
+  id: 278
+  allocation_id: 28
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30917624522e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515632400:
+  id: 279
+  allocation_id: 28
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294204918e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515632400:
+  id: 280
+  allocation_id: 28
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182555877e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515636000:
+  id: 281
+  allocation_id: 29
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515636000:
+  id: 282
+  allocation_id: 29
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515636000:
+  id: 283
+  allocation_id: 29
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218359812648e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515636000:
+  id: 284
+  allocation_id: 29
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84535394156e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515636000:
+  id: 285
+  allocation_id: 29
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50058829854e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515636000:
+  id: 286
+  allocation_id: 29
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35696422472e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515636000:
+  id: 287
+  allocation_id: 29
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955355861e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515636000:
+  id: 288
+  allocation_id: 29
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30917490598e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515636000:
+  id: 289
+  allocation_id: 29
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294176014e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515636000:
+  id: 290
+  allocation_id: 29
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182518397e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515639600:
+  id: 291
+  allocation_id: 30
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515639600:
+  id: 292
+  allocation_id: 30
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515639600:
+  id: 293
+  allocation_id: 30
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.21835996577e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515639600:
+  id: 294
+  allocation_id: 30
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84535793914e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515639600:
+  id: 295
+  allocation_id: 30
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50059143529e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515639600:
+  id: 296
+  allocation_id: 30
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35695745471e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515639600:
+  id: 297
+  allocation_id: 30
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955366589e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515639600:
+  id: 298
+  allocation_id: 30
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.3091735669e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515639600:
+  id: 299
+  allocation_id: 30
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294147115e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515639600:
+  id: 300
+  allocation_id: 30
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182480922e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515643200:
+  id: 301
+  allocation_id: 31
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515643200:
+  id: 302
+  allocation_id: 31
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515643200:
+  id: 303
+  allocation_id: 31
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218360118872e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515643200:
+  id: 304
+  allocation_id: 31
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84536193625e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515643200:
+  id: 305
+  allocation_id: 31
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50059457166e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515643200:
+  id: 306
+  allocation_id: 31
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35695068552e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515643200:
+  id: 307
+  allocation_id: 31
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955377316e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515643200:
+  id: 308
+  allocation_id: 31
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30917222799e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515643200:
+  id: 309
+  allocation_id: 31
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294118218e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515643200:
+  id: 310
+  allocation_id: 31
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182443452e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515646800:
+  id: 311
+  allocation_id: 32
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515646800:
+  id: 312
+  allocation_id: 32
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515646800:
+  id: 313
+  allocation_id: 32
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218360271955e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515646800:
+  id: 314
+  allocation_id: 32
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84536593285e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515646800:
+  id: 315
+  allocation_id: 32
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50059770766e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515646800:
+  id: 316
+  allocation_id: 32
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35694391715e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515646800:
+  id: 317
+  allocation_id: 32
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955388043e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515646800:
+  id: 318
+  allocation_id: 32
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30917088925e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515646800:
+  id: 319
+  allocation_id: 32
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294089326e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515646800:
+  id: 320
+  allocation_id: 32
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182405985e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515650400:
+  id: 321
+  allocation_id: 33
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515650400:
+  id: 322
+  allocation_id: 33
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515650400:
+  id: 323
+  allocation_id: 33
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218360425022e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515650400:
+  id: 324
+  allocation_id: 33
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84536992897e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515650400:
+  id: 325
+  allocation_id: 33
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50060084328e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515650400:
+  id: 326
+  allocation_id: 33
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35693714959e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515650400:
+  id: 327
+  allocation_id: 33
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955398768e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515650400:
+  id: 328
+  allocation_id: 33
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30916955066e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515650400:
+  id: 329
+  allocation_id: 33
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294060437e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515650400:
+  id: 330
+  allocation_id: 33
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182368523e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515654000:
+  id: 331
+  allocation_id: 34
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515654000:
+  id: 332
+  allocation_id: 34
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515654000:
+  id: 333
+  allocation_id: 34
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.21836057807e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515654000:
+  id: 334
+  allocation_id: 34
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84537392461e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515654000:
+  id: 335
+  allocation_id: 34
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50060397851e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515654000:
+  id: 336
+  allocation_id: 34
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35693038287e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515654000:
+  id: 337
+  allocation_id: 34
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955409491e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515654000:
+  id: 338
+  allocation_id: 34
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30916821222e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515654000:
+  id: 339
+  allocation_id: 34
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294031551e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515654000:
+  id: 340
+  allocation_id: 34
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182331067e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515657600:
+  id: 341
+  allocation_id: 35
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515657600:
+  id: 342
+  allocation_id: 35
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515657600:
+  id: 343
+  allocation_id: 35
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218360731099e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515657600:
+  id: 344
+  allocation_id: 35
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84537791976e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515657600:
+  id: 345
+  allocation_id: 35
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50060711336e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515657600:
+  id: 346
+  allocation_id: 35
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35692361697e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515657600:
+  id: 347
+  allocation_id: 35
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955420213e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515657600:
+  id: 348
+  allocation_id: 35
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30916687397e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515657600:
+  id: 349
+  allocation_id: 35
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30294002668e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515657600:
+  id: 350
+  allocation_id: 35
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182293614e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515661200:
+  id: 351
+  allocation_id: 36
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515661200:
+  id: 352
+  allocation_id: 36
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515661200:
+  id: 353
+  allocation_id: 36
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218360884109e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515661200:
+  id: 354
+  allocation_id: 36
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84538191443e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515661200:
+  id: 355
+  allocation_id: 36
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50061024783e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515661200:
+  id: 356
+  allocation_id: 36
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35691685189e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515661200:
+  id: 357
+  allocation_id: 36
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955430934e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515661200:
+  id: 358
+  allocation_id: 36
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30916553587e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515661200:
+  id: 359
+  allocation_id: 36
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30293973789e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515661200:
+  id: 360
+  allocation_id: 36
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182256166e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515664800:
+  id: 361
+  allocation_id: 37
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515664800:
+  id: 362
+  allocation_id: 37
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515664800:
+  id: 363
+  allocation_id: 37
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218361037101e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515664800:
+  id: 364
+  allocation_id: 37
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.8453859086e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515664800:
+  id: 365
+  allocation_id: 37
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50061338192e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515664800:
+  id: 366
+  allocation_id: 37
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35691008762e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515664800:
+  id: 367
+  allocation_id: 37
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955441653e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515664800:
+  id: 368
+  allocation_id: 37
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30916419792e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515664800:
+  id: 369
+  allocation_id: 37
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30293944915e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515664800:
+  id: 370
+  allocation_id: 37
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182218725e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515668400:
+  id: 371
+  allocation_id: 38
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515668400:
+  id: 372
+  allocation_id: 38
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515668400:
+  id: 373
+  allocation_id: 38
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218361190074e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515668400:
+  id: 374
+  allocation_id: 38
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.8453899023e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515668400:
+  id: 375
+  allocation_id: 38
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50061651563e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515668400:
+  id: 376
+  allocation_id: 38
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35690332419e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515668400:
+  id: 377
+  allocation_id: 38
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955452371e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515668400:
+  id: 378
+  allocation_id: 38
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30916286014e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515668400:
+  id: 379
+  allocation_id: 38
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30293916043e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515668400:
+  id: 380
+  allocation_id: 38
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182181286e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515672000:
+  id: 381
+  allocation_id: 39
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515672000:
+  id: 382
+  allocation_id: 39
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515672000:
+  id: 383
+  allocation_id: 39
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218361343027e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515672000:
+  id: 384
+  allocation_id: 39
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84539389551e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515672000:
+  id: 385
+  allocation_id: 39
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50061964896e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515672000:
+  id: 386
+  allocation_id: 39
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35689656158e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515672000:
+  id: 387
+  allocation_id: 39
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955463088e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515672000:
+  id: 388
+  allocation_id: 39
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30916152253e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515672000:
+  id: 389
+  allocation_id: 39
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30293887175e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515672000:
+  id: 390
+  allocation_id: 39
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182143852e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515675600:
+  id: 391
+  allocation_id: 40
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515675600:
+  id: 392
+  allocation_id: 40
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515675600:
+  id: 393
+  allocation_id: 40
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218361495964e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515675600:
+  id: 394
+  allocation_id: 40
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84539788824e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515675600:
+  id: 395
+  allocation_id: 40
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.5006227819e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515675600:
+  id: 396
+  allocation_id: 40
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35688979977e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515675600:
+  id: 397
+  allocation_id: 40
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955473803e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515675600:
+  id: 398
+  allocation_id: 40
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.3091601851e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515675600:
+  id: 399
+  allocation_id: 40
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.3029385831e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515675600:
+  id: 400
+  allocation_id: 40
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182106422e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515679200:
+  id: 401
+  allocation_id: 41
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515679200:
+  id: 402
+  allocation_id: 41
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515679200:
+  id: 403
+  allocation_id: 41
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218361648881e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515679200:
+  id: 404
+  allocation_id: 41
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84540188048e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515679200:
+  id: 405
+  allocation_id: 41
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50062591447e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515679200:
+  id: 406
+  allocation_id: 41
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.3568830388e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515679200:
+  id: 407
+  allocation_id: 41
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955484518e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515679200:
+  id: 408
+  allocation_id: 41
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30915884781e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515679200:
+  id: 409
+  allocation_id: 41
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30293829448e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515679200:
+  id: 410
+  allocation_id: 41
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182068997e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515682800:
+  id: 411
+  allocation_id: 42
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515682800:
+  id: 412
+  allocation_id: 42
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515682800:
+  id: 413
+  allocation_id: 42
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218361801778e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515682800:
+  id: 414
+  allocation_id: 42
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84540587224e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515682800:
+  id: 415
+  allocation_id: 42
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50062904665e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515682800:
+  id: 416
+  allocation_id: 42
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35687627866e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515682800:
+  id: 417
+  allocation_id: 42
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955495231e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515682800:
+  id: 418
+  allocation_id: 42
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30915751068e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515682800:
+  id: 419
+  allocation_id: 42
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30293800591e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515682800:
+  id: 420
+  allocation_id: 42
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17182031577e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515686400:
+  id: 421
+  allocation_id: 43
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515686400:
+  id: 422
+  allocation_id: 43
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515686400:
+  id: 423
+  allocation_id: 43
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218361954661e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515686400:
+  id: 424
+  allocation_id: 43
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84540986351e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515686400:
+  id: 425
+  allocation_id: 43
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50063217847e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515686400:
+  id: 426
+  allocation_id: 43
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35686951931e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515686400:
+  id: 427
+  allocation_id: 43
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955505942e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515686400:
+  id: 428
+  allocation_id: 43
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30915617371e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515686400:
+  id: 429
+  allocation_id: 43
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30293771737e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515686400:
+  id: 430
+  allocation_id: 43
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.1718199416e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515690000:
+  id: 431
+  allocation_id: 44
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515690000:
+  id: 432
+  allocation_id: 44
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515690000:
+  id: 433
+  allocation_id: 44
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218362107522e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515690000:
+  id: 434
+  allocation_id: 44
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.8454138543e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515690000:
+  id: 435
+  allocation_id: 44
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50063530989e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515690000:
+  id: 436
+  allocation_id: 44
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35686276081e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515690000:
+  id: 437
+  allocation_id: 44
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955516652e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515690000:
+  id: 438
+  allocation_id: 44
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30915483692e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515690000:
+  id: 439
+  allocation_id: 44
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30293742886e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515690000:
+  id: 440
+  allocation_id: 44
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17181956748e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515693600:
+  id: 441
+  allocation_id: 45
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515693600:
+  id: 442
+  allocation_id: 45
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515693600:
+  id: 443
+  allocation_id: 45
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218362260363e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515693600:
+  id: 444
+  allocation_id: 45
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.8454178446e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515693600:
+  id: 445
+  allocation_id: 45
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50063844094e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515693600:
+  id: 446
+  allocation_id: 45
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35685600312e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515693600:
+  id: 447
+  allocation_id: 45
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955527361e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515693600:
+  id: 448
+  allocation_id: 45
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30915350028e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515693600:
+  id: 449
+  allocation_id: 45
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.3029371404e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515693600:
+  id: 450
+  allocation_id: 45
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17181919342e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515697200:
+  id: 451
+  allocation_id: 46
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515697200:
+  id: 452
+  allocation_id: 46
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515697200:
+  id: 453
+  allocation_id: 46
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218362413189e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515697200:
+  id: 454
+  allocation_id: 46
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84542183442e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515697200:
+  id: 455
+  allocation_id: 46
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.5006415716e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515697200:
+  id: 456
+  allocation_id: 46
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35684924625e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515697200:
+  id: 457
+  allocation_id: 46
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955538069e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515697200:
+  id: 458
+  allocation_id: 46
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30915216379e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515697200:
+  id: 459
+  allocation_id: 46
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30293685196e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515697200:
+  id: 460
+  allocation_id: 46
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.1718188194e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515700800:
+  id: 461
+  allocation_id: 47
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515700800:
+  id: 462
+  allocation_id: 47
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515700800:
+  id: 463
+  allocation_id: 47
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218362565995e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515700800:
+  id: 464
+  allocation_id: 47
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84542582375e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515700800:
+  id: 465
+  allocation_id: 47
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50064470189e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515700800:
+  id: 466
+  allocation_id: 47
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35684249019e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515700800:
+  id: 467
+  allocation_id: 47
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955548775e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515700800:
+  id: 468
+  allocation_id: 47
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30915082749e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515700800:
+  id: 469
+  allocation_id: 47
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30293656356e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515700800:
+  id: 470
+  allocation_id: 47
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17181844542e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515704400:
+  id: 471
+  allocation_id: 48
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515704400:
+  id: 472
+  allocation_id: 48
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515704400:
+  id: 473
+  allocation_id: 48
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218362718784e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515704400:
+  id: 474
+  allocation_id: 48
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.8454298126e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515704400:
+  id: 475
+  allocation_id: 48
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50064783179e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515704400:
+  id: 476
+  allocation_id: 48
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35683573496e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515704400:
+  id: 477
+  allocation_id: 48
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.3295555948e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515704400:
+  id: 478
+  allocation_id: 48
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30914949134e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515704400:
+  id: 479
+  allocation_id: 48
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30293627518e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515704400:
+  id: 480
+  allocation_id: 48
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17181807149e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515708000:
+  id: 481
+  allocation_id: 49
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515708000:
+  id: 482
+  allocation_id: 49
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515708000:
+  id: 483
+  allocation_id: 49
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218362871551e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515708000:
+  id: 484
+  allocation_id: 49
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84543380097e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515708000:
+  id: 485
+  allocation_id: 49
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50065096131e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515708000:
+  id: 486
+  allocation_id: 49
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35682898056e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515708000:
+  id: 487
+  allocation_id: 49
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955570184e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515708000:
+  id: 488
+  allocation_id: 49
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30914815535e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515708000:
+  id: 489
+  allocation_id: 49
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30293598686e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515708000:
+  id: 490
+  allocation_id: 49
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.1718176976e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515711600:
+  id: 491
+  allocation_id: 50
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515711600:
+  id: 492
+  allocation_id: 50
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515711600:
+  id: 493
+  allocation_id: 50
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218363024301e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515711600:
+  id: 494
+  allocation_id: 50
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84543778884e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515711600:
+  id: 495
+  allocation_id: 50
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50065409046e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515711600:
+  id: 496
+  allocation_id: 50
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35682222698e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515711600:
+  id: 497
+  allocation_id: 50
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955580887e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515711600:
+  id: 498
+  allocation_id: 50
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30914681952e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515711600:
+  id: 499
+  allocation_id: 50
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30293569856e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515711600:
+  id: 500
+  allocation_id: 50
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17181732376e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1515715200:
+  id: 501
+  allocation_id: 51
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1515715200:
+  id: 502
+  allocation_id: 51
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1515715200:
+  id: 503
+  allocation_id: 51
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218363177032e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1515715200:
+  id: 504
+  allocation_id: 51
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84544177624e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1515715200:
+  id: 505
+  allocation_id: 51
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50065721923e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1515715200:
+  id: 506
+  allocation_id: 51
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.3568154742e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1515715200:
+  id: 507
+  allocation_id: 51
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32955591588e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1515715200:
+  id: 508
+  allocation_id: 51
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30914548386e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1515715200:
+  id: 509
+  allocation_id: 51
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.3029354103e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1515715200:
+  id: 510
+  allocation_id: 51
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17181694997e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1517569200:
+  id: 511
+  allocation_id: 52
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1517569200:
+  id: 512
+  allocation_id: 52
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1517569200:
+  id: 513
+  allocation_id: 52
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218439444861e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1517569200:
+  id: 514
+  allocation_id: 52
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84743291535e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1517569200:
+  id: 515
+  allocation_id: 52
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50221959392e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1517569200:
+  id: 516
+  allocation_id: 52
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35344342373e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1517569200:
+  id: 517
+  allocation_id: 52
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32960935327e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1517569200:
+  id: 518
+  allocation_id: 52
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.3084785087e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1517569200:
+  id: 519
+  allocation_id: 52
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30279146455e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1517569200:
+  id: 520
+  allocation_id: 52
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17163029187e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+btc_component_for_market10_at_1517572800:
+  id: 521
+  allocation_id: 53
+  currency_id: 5
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xrp_component_for_market10_at_1517572800:
+  id: 522
+  allocation_id: 53
+  currency_id: 20
+  weight: !ruby/object:BigDecimal 18:0.25e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+eth_component_for_market10_at_1517572800:
+  id: 523
+  allocation_id: 53
+  currency_id: 9
+  weight: !ruby/object:BigDecimal 27:0.218439588455e0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+bch_component_for_market10_at_1517572800:
+  id: 524
+  allocation_id: 53
+  currency_id: 2
+  weight: !ruby/object:BigDecimal 27:0.84743666422e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ada_component_for_market10_at_1517572800:
+  id: 525
+  allocation_id: 53
+  currency_id: 1
+  weight: !ruby/object:BigDecimal 27:0.50222253553e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+miota_component_for_market10_at_1517572800:
+  id: 526
+  allocation_id: 53
+  currency_id: 12
+  weight: !ruby/object:BigDecimal 27:0.35343707491e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+ltc_component_for_market10_at_1517572800:
+  id: 527
+  allocation_id: 53
+  currency_id: 10
+  weight: !ruby/object:BigDecimal 27:0.32960945388e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+trx_component_for_market10_at_1517572800:
+  id: 528
+  allocation_id: 53
+  currency_id: 16
+  weight: !ruby/object:BigDecimal 27:0.30847725294e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xem_component_for_market10_at_1517572800:
+  id: 529
+  allocation_id: 53
+  currency_id: 17
+  weight: !ruby/object:BigDecimal 27:0.30279119352e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+xlm_component_for_market10_at_1517572800:
+  id: 530
+  allocation_id: 53
+  currency_id: 18
+  weight: !ruby/object:BigDecimal 27:0.17162994045e-1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z

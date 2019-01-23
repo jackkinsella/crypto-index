@@ -1,0 +1,15 @@
+<p>Your portfolio has been rebalanced!</p>
+
+<p>
+  It now contains the following currency holdings:
+</p>
+
+<%= render(
+  'emails/shared/holdings', holdings: @rebalancing.portfolio.holdings) %>
+
+<p>
+  For more details, visit the <%= link_to(
+    'rebalancings section of your dashboard', transactions_rebalancings_url) %>.
+</p>
+
+<%= render 'emails/shared/footer' %>

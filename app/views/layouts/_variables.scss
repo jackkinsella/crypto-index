@@ -1,0 +1,35 @@
+@import "~bulma/sass/utilities/initial-variables";
+
+$family-sans-serif: "Nunito", $family-sans-serif;
+$family-monospace: "Inconsolata", $family-monospace;
+
+$phone: 320px;
+
+$gap-quarter: 0.25 * $gap;
+$gap-half: 0.5 * $gap;
+$gap-double: 2 * $gap;
+
+$gray-darker: $grey-darker;
+$gray-dark: $grey-dark;
+$gray: $grey;
+$gray-light: $grey-light;
+$gray-lighter: $grey-lighter;
+$gray-lightest: #fafafa;
+
+$white-transparent-one-quarter: rgba(255, 255, 255, 0.75);
+$white-transparent-half: rgba(255, 255, 255, 0.5);
+$white-transparent-three-quarters: rgba(255, 255, 255, 0.25);
+
+$brand: #4bb4f9;
+
+$darker: #080e14;
+$dark: #141d27;
+$dark-lighter: lighten(#141d27, 5%);
+
+$link: $brand;
+$link-hover: darken($link, 20%);
+$link-focus: $link-hover;
+$link-active: $link-hover;
+
+$footer-background-color: #181f2c;
+$progress-bar-background-color: $white-transparent-half;

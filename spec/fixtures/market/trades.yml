@@ -1,0 +1,926 @@
+---
+market/trades_001:
+  id: 1
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 1
+  base_currency_id: 4
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: BNBETH
+  category: service
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 27:0.1046814e5
+  price: !ruby/object:BigDecimal 18:0.9538e-4
+  fee: !ruby/object:BigDecimal 27:0.523407e1
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '10468.14000000'
+      price: '0.00009538'
+      tradeId: 4834521
+      commission: '5.23407000'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: BNBETH
+    orderId: 56206789
+    origQty: '10468.14000000'
+    executedQty: '10468.14000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_a050c48d3164bc8da17d6dff35ec2383
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_002:
+  id: 2
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 1
+  base_currency_id: 1
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: ADAETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.5403e4
+  price: !ruby/object:BigDecimal 18:0.91692e-3
+  fee: !ruby/object:BigDecimal 27:0.2596925806e2
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '5403.00000000'
+      price: '0.00091692'
+      tradeId: 9805083
+      commission: '25.96925806'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: ADAETH
+    orderId: 49635384
+    origQty: '5403.00000000'
+    executedQty: '5403.00000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_d082476b9273a1f54415bfc47e0fa9bd
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_003:
+  id: 3
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 1
+  base_currency_id: 2
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: BCHETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 27:0.3242e1
+  price: !ruby/object:BigDecimal 27:0.258076923e1
+  fee: !ruby/object:BigDecimal 27:0.4385850806e2
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '3.24200000'
+      price: '2.58076923'
+      tradeId: 6852428
+      commission: '43.85850806'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: BCHETH
+    orderId: 34593677
+    origQty: '3.24200000'
+    executedQty: '3.24200000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_7f8209c1c9317fe3139f49def0c6a379
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_004:
+  id: 4
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 1
+  base_currency_id: 9
+  quote_currency_id: 5
+  fee_currency_id: 4
+  symbol: ETHBTC
+  category: user
+  order_side: SELL
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 27:0.2475e2
+  price: !ruby/object:BigDecimal 18:0.5858495e-1
+  fee: !ruby/object:BigDecimal 27:0.12973790323e3
+  details:
+    side: SELL
+    type: MARKET
+    fills:
+    - qty: '24.75000000'
+      price: '0.05858495'
+      tradeId: 4594372
+      commission: '129.73790323'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: ETHBTC
+    orderId: 84508514
+    origQty: '24.75000000'
+    executedQty: '24.75000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_53003dfa1325b66c49d0e611c17c4a13
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_005:
+  id: 5
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 1
+  base_currency_id: 10
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: LTCETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 27:0.10808e2
+  price: !ruby/object:BigDecimal 18:0.30184615e0
+  fee: !ruby/object:BigDecimal 27:0.1710104516e2
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '10.80800000'
+      price: '0.30184615'
+      tradeId: 657840
+      commission: '17.10104516'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: LTCETH
+    orderId: 49085834
+    origQty: '10.80800000'
+    executedQty: '10.80800000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_36186f8c9cbb5cc3476e46324c2b021f
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_006:
+  id: 6
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 1
+  base_currency_id: 12
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: MIOTAETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.6e3
+  price: !ruby/object:BigDecimal 18:0.588308e-2
+  fee: !ruby/object:BigDecimal 27:0.1850322581e2
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '600.00000000'
+      price: '0.00588308'
+      tradeId: 8296911
+      commission: '18.50322581'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: MIOTAETH
+    orderId: 61630841
+    origQty: '600.00000000'
+    executedQty: '600.00000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_069c4a5a672eec8ab3fa983d4facc24c
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_007:
+  id: 7
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 1
+  base_currency_id: 16
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: TRXETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.14052e5
+  price: !ruby/object:BigDecimal 18:0.21785e-3
+  fee: !ruby/object:BigDecimal 27:0.1604647742e2
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '14052.00000000'
+      price: '0.00021785'
+      tradeId: 7859142
+      commission: '16.04647742'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: TRXETH
+    orderId: 3973418
+    origQty: '14052.00000000'
+    executedQty: '14052.00000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_dcffbba7a736f95d87fe37ddb967441e
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_008:
+  id: 8
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 1
+  base_currency_id: 17
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: XEMETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.1945e4
+  price: !ruby/object:BigDecimal 18:0.154154e-2
+  fee: !ruby/object:BigDecimal 27:0.1571685484e2
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '1945.00000000'
+      price: '0.00154154'
+      tradeId: 455840
+      commission: '15.71685484'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: XEMETH
+    orderId: 5682386
+    origQty: '1945.00000000'
+    executedQty: '1945.00000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_5088bff1a3d9cb027d7f085bfd1bb923
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_009:
+  id: 9
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 1
+  base_currency_id: 18
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: XLMETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.3242e4
+  price: !ruby/object:BigDecimal 18:0.52462e-3
+  fee: !ruby/object:BigDecimal 27:0.89155e1
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '3242.00000000'
+      price: '0.00052462'
+      tradeId: 4739236
+      commission: '8.91550000'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: XLMETH
+    orderId: 59966282
+    origQty: '3242.00000000'
+    executedQty: '3242.00000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_f23ca156fc077d4ded920e6af6dd4433
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_010:
+  id: 10
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 1
+  base_currency_id: 20
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: XRPETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.766e4
+  price: !ruby/object:BigDecimal 18:0.323077e-2
+  fee: !ruby/object:BigDecimal 27:0.12972580645e3
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '7660.00000000'
+      price: '0.00323077'
+      tradeId: 2226282
+      commission: '129.72580645'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: XRPETH
+    orderId: 37985537
+    origQty: '7660.00000000'
+    executedQty: '7660.00000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_ecf5017cefc4db5d236ccf0462b6e004
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_011:
+  id: 11
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 2
+  base_currency_id: 4
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: BNBETH
+  category: service
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 27:0.1046814e5
+  price: !ruby/object:BigDecimal 18:0.9538e-4
+  fee: !ruby/object:BigDecimal 27:0.523407e1
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '10468.14000000'
+      price: '0.00009538'
+      tradeId: 4834521
+      commission: '5.23407000'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: BNBETH
+    orderId: 56206789
+    origQty: '10468.14000000'
+    executedQty: '10468.14000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_810095ec2ebcbfee41022ed3cba35215
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_012:
+  id: 12
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 2
+  base_currency_id: 1
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: ADAETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.5403e4
+  price: !ruby/object:BigDecimal 18:0.91692e-3
+  fee: !ruby/object:BigDecimal 27:0.2596925806e2
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '5403.00000000'
+      price: '0.00091692'
+      tradeId: 9805083
+      commission: '25.96925806'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: ADAETH
+    orderId: 49635384
+    origQty: '5403.00000000'
+    executedQty: '5403.00000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_d43ad6541e28abec6d4528d1747647df
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_013:
+  id: 13
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 2
+  base_currency_id: 2
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: BCHETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 27:0.3242e1
+  price: !ruby/object:BigDecimal 27:0.258076923e1
+  fee: !ruby/object:BigDecimal 27:0.4385850806e2
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '3.24200000'
+      price: '2.58076923'
+      tradeId: 6852428
+      commission: '43.85850806'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: BCHETH
+    orderId: 34593677
+    origQty: '3.24200000'
+    executedQty: '3.24200000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_abe1988f376f0b095f9489df35661e43
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_014:
+  id: 14
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 2
+  base_currency_id: 9
+  quote_currency_id: 5
+  fee_currency_id: 4
+  symbol: ETHBTC
+  category: user
+  order_side: SELL
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 27:0.2475e2
+  price: !ruby/object:BigDecimal 18:0.5858495e-1
+  fee: !ruby/object:BigDecimal 27:0.12973790323e3
+  details:
+    side: SELL
+    type: MARKET
+    fills:
+    - qty: '24.75000000'
+      price: '0.05858495'
+      tradeId: 4594372
+      commission: '129.73790323'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: ETHBTC
+    orderId: 84508514
+    origQty: '24.75000000'
+    executedQty: '24.75000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_dc3d45b4e75c5f58a1d2dd24fb8b5a70
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_015:
+  id: 15
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 2
+  base_currency_id: 10
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: LTCETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 27:0.10808e2
+  price: !ruby/object:BigDecimal 18:0.30184615e0
+  fee: !ruby/object:BigDecimal 27:0.1710104516e2
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '10.80800000'
+      price: '0.30184615'
+      tradeId: 657840
+      commission: '17.10104516'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: LTCETH
+    orderId: 49085834
+    origQty: '10.80800000'
+    executedQty: '10.80800000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_e2ee27156f407878b7304b2ef6fe8c3e
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_016:
+  id: 16
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 2
+  base_currency_id: 12
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: MIOTAETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.6e3
+  price: !ruby/object:BigDecimal 18:0.588308e-2
+  fee: !ruby/object:BigDecimal 27:0.1850322581e2
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '600.00000000'
+      price: '0.00588308'
+      tradeId: 8296911
+      commission: '18.50322581'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: MIOTAETH
+    orderId: 61630841
+    origQty: '600.00000000'
+    executedQty: '600.00000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_02bbe2f995385de942778a7aeb451006
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_017:
+  id: 17
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 2
+  base_currency_id: 16
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: TRXETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.14052e5
+  price: !ruby/object:BigDecimal 18:0.21785e-3
+  fee: !ruby/object:BigDecimal 27:0.1604647742e2
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '14052.00000000'
+      price: '0.00021785'
+      tradeId: 7859142
+      commission: '16.04647742'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: TRXETH
+    orderId: 3973418
+    origQty: '14052.00000000'
+    executedQty: '14052.00000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_c27305e3cc4b36b59ba2f58920fb32dc
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_018:
+  id: 18
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 2
+  base_currency_id: 17
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: XEMETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.1945e4
+  price: !ruby/object:BigDecimal 18:0.154154e-2
+  fee: !ruby/object:BigDecimal 27:0.1571685484e2
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '1945.00000000'
+      price: '0.00154154'
+      tradeId: 455840
+      commission: '15.71685484'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: XEMETH
+    orderId: 5682386
+    origQty: '1945.00000000'
+    executedQty: '1945.00000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_55b06ab60b24e5bd33ff4e539bf7a701
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_019:
+  id: 19
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 2
+  base_currency_id: 18
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: XLMETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.3242e4
+  price: !ruby/object:BigDecimal 18:0.52462e-3
+  fee: !ruby/object:BigDecimal 27:0.89155e1
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '3242.00000000'
+      price: '0.00052462'
+      tradeId: 4739236
+      commission: '8.91550000'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: XLMETH
+    orderId: 59966282
+    origQty: '3242.00000000'
+    executedQty: '3242.00000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_77febf59464baf3d8c2ae451bb3dd46e
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_020:
+  id: 20
+  market_id: 1
+  initiator_type: User::Account::Deposit
+  initiator_id: 2
+  base_currency_id: 20
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: XRPETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.766e4
+  price: !ruby/object:BigDecimal 18:0.323077e-2
+  fee: !ruby/object:BigDecimal 27:0.12972580645e3
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '7660.00000000'
+      price: '0.00323077'
+      tradeId: 2226282
+      commission: '129.72580645'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: XRPETH
+    orderId: 37985537
+    origQty: '7660.00000000'
+    executedQty: '7660.00000000'
+    timeInForce: 
+    transactTime: 1515542400000
+    clientOrderId: trd_15fc2135fb08070e8dad2e2d81bec9ef
+  started_at: 2018-01-10 00:00:00.000000000 Z
+  completed_at: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+market/trades_021:
+  id: 21
+  market_id: 1
+  initiator_type: User::Portfolio::Rebalancing
+  initiator_id: 1
+  base_currency_id: 10
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: LTCETH
+  category: user
+  order_side: SELL
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.1e-2
+  price: !ruby/object:BigDecimal 18:0.30178423e0
+  fee: !ruby/object:BigDecimal 18:0.157937e-2
+  details:
+    side: SELL
+    type: MARKET
+    fills:
+    - qty: '0.00100000'
+      price: '0.30178423'
+      tradeId: 657840
+      commission: '0.00157937'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: LTCETH
+    orderId: 49085834
+    origQty: '0.00100000'
+    executedQty: '0.00100000'
+    timeInForce: 
+    transactTime: 1517572800000
+    clientOrderId: trd_28185196c2dacfb0e40e1b50b185f682
+  started_at: 2018-02-02 12:00:00.000000000 Z
+  completed_at: 2018-02-02 12:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+market/trades_022:
+  id: 22
+  market_id: 1
+  initiator_type: User::Portfolio::Rebalancing
+  initiator_id: 1
+  base_currency_id: 16
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: TRXETH
+  category: user
+  order_side: SELL
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.2e1
+  price: !ruby/object:BigDecimal 18:0.21725e-3
+  fee: !ruby/object:BigDecimal 18:0.22739e-2
+  details:
+    side: SELL
+    type: MARKET
+    fills:
+    - qty: '2.00000000'
+      price: '0.00021725'
+      tradeId: 7859142
+      commission: '0.00227390'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: TRXETH
+    orderId: 3973418
+    origQty: '2.00000000'
+    executedQty: '2.00000000'
+    timeInForce: 
+    transactTime: 1517572800000
+    clientOrderId: trd_bbef7761d46c0af2e3c57e5e3a56f6a8
+  started_at: 2018-02-02 12:00:00.000000000 Z
+  completed_at: 2018-02-02 12:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+market/trades_023:
+  id: 23
+  market_id: 1
+  initiator_type: User::Portfolio::Rebalancing
+  initiator_id: 1
+  base_currency_id: 20
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: XRPETH
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.14e2
+  price: !ruby/object:BigDecimal 18:0.322303e-2
+  fee: !ruby/object:BigDecimal 18:0.23614542e0
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '14.00000000'
+      price: '0.00322303'
+      tradeId: 2226282
+      commission: '0.23614542'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: XRPETH
+    orderId: 37985537
+    origQty: '14.00000000'
+    executedQty: '14.00000000'
+    timeInForce: 
+    transactTime: 1517572800000
+    clientOrderId: trd_6e5454336ca42636fa22ee6391dc00e8
+  started_at: 2018-02-02 12:00:00.000000000 Z
+  completed_at: 2018-02-02 12:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+market/trades_024:
+  id: 24
+  market_id: 1
+  initiator_type: User::Portfolio::Rebalancing
+  initiator_id: 1
+  base_currency_id: 9
+  quote_currency_id: 5
+  fee_currency_id: 4
+  symbol: ETHBTC
+  category: user
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 18:0.126e0
+  price: !ruby/object:BigDecimal 18:0.585354e-1
+  fee: !ruby/object:BigDecimal 18:0.6594136e0
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '0.12600000'
+      price: '0.05853540'
+      tradeId: 4594372
+      commission: '0.65941360'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: ETHBTC
+    orderId: 84508514
+    origQty: '0.12600000'
+    executedQty: '0.12600000'
+    timeInForce: 
+    transactTime: 1517572800000
+    clientOrderId: trd_52df3adee40cdfec8abeebbe4e8a58ad
+  started_at: 2018-02-02 12:00:00.000000000 Z
+  completed_at: 2018-02-02 12:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z
+market/trades_025:
+  id: 25
+  market_id: 1
+  initiator_type: User::Portfolio::Rebalancing
+  initiator_id: 1
+  base_currency_id: 4
+  quote_currency_id: 9
+  fee_currency_id: 4
+  symbol: BNBETH
+  category: service
+  order_side: BUY
+  order_type: MARKET
+  amount: !ruby/object:BigDecimal 27:0.103557e4
+  price: !ruby/object:BigDecimal 18:0.9554e-4
+  fee: !ruby/object:BigDecimal 18:0.517785e0
+  details:
+    side: BUY
+    type: MARKET
+    fills:
+    - qty: '1035.57000000'
+      price: '0.00009554'
+      tradeId: 4834521
+      commission: '0.51778500'
+      commissionAsset: BNB
+    price: '0.00000000'
+    status: FILLED
+    symbol: BNBETH
+    orderId: 56206789
+    origQty: '1035.57000000'
+    executedQty: '1035.57000000'
+    timeInForce: 
+    transactTime: 1517572800000
+    clientOrderId: trd_182204c0f4e75056b8e1b0979e39cf71
+  started_at: 2018-02-02 12:00:00.000000000 Z
+  completed_at: 2018-02-02 12:00:00.000000000 Z
+  created_at: 2018-02-02 12:00:00.000000000 Z
+  updated_at: 2018-02-02 12:00:00.000000000 Z

@@ -1,0 +1,53 @@
+#!/usr/bin/env bash
+daemonize() {
+  while true; do sleep 60; done
+}
+
+cd "$(dirname "$0")" || return
+
+ganache_cli_installed() {
+  command -v ganache-cli >/dev/null 2>&1
+}
+
+network=${1:-development}
+network_id=1
+bip39_mnemonic="nominee relief private cruise shoe pudding master spike gospel few creek hungry"
+
+if [[ "$network" == "development" ]]; then
+  port=7545
+  db_path="$(pwd)/../tmp/blockchain/ganache"
+  mkdir -p "$db_path"
+  db_arg="--db=$db_path"
+  block_time_in_seconds=10
+elif [[ "$network" == "test" ]]; then
+  port=7546
+  db_arg=''
+  block_time_in_seconds=999999
+fi
+
+kill_clashing_ganache_instances() {
+  blockchain_pid=$(pgrep -f "[g]anache-cli -p $port .* --networkID $network_id")
+  if [ -n "${blockchain_pid}" ]; then
+    echo "Killed existing ganache-cli instance"
+    kill "$blockchain_pid"
+  fi
+}
+
+accounts_csv_file="../config/data/blockchains/ganache/accounts.csv"
+accounts_descriptions=()
+while IFS=, read -r _ _ private_key value
+do
+  accounts_descriptions+=("--account=0x$private_key,$value")
+done < <(grep -v '^#' $accounts_csv_file | tail -n +2)
+
+if ganache_cli_installed; then
+  echo "Connecting to ganache-cli with --network_id:$network_id..."
+  kill_clashing_ganache_instances
+
+  exec ganache-cli -p $port -m "$bip39_mnemonic" --networkID $network_id \
+    "${db_arg}" --blockTime "$block_time_in_seconds" "${accounts_descriptions[@]}"
+else
+  echo "Warning: ganache-cli not found. Running without blockchain."
+fi
+
+daemonize

@@ -1,0 +1,73 @@
+<footer class="footer">
+  <div class="container">
+    <div class="columns">
+      <div class="column" style="display: flex; justify-content: center;">
+        <div style="text-align: center">
+          <%= image_tag asset_pack_path('images/logos/crypto_index.svg'), class: 'logo', style: 'margin: 1em auto', size: '28x28' %>
+          <small>CryptoIndex</small>
+        </div>
+      </div>
+
+      <div class="column is-hidden-mobile">
+        <nav class="menu">
+          <p class="menu-label">
+            Currencies
+          </p>
+
+          <ul class="menu-list">
+            <li><%= link_to 'View All', '/currencies' %></li>
+            <%
+              Index.market10.currencies.sort_by(&:market_cap_usd).
+                reverse.first(6).sort_by(&:title).map do |currency|
+            %>
+              <li>
+                <%= link_to currency.title, "/currencies/#{currency.name}" %>
+              </li>
+            <% end %>
+          </ul>
+        </nav>
+      </div>
+
+      <div class="column is-hidden-mobile">
+        <nav class="menu">
+          <p class="menu-label">
+            CryptoIndex
+          </p>
+
+          <ul class="menu-list">
+            <li><%= link_to 'FAQ', '/faq' %></li>
+            <li><%= link_to 'About Us', '/about' %></li>
+            <li><%= link_to 'Log In', '/login' %></li>
+          </ul>
+        </nav>
+      </div>
+
+      <div class="column is-hidden-mobile">
+        <nav class="menu">
+          <p class="menu-label">
+            Legal
+          </p>
+
+          <ul class="menu-list">
+            <li><%= link_to 'Terms & Conditions', '/terms' %></li>
+            <li><%= link_to 'Privacy Policy', '/privacy' %></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+
+    <div class="columns" style="margin-top: 1em">
+      <div class="column">
+        <div class="content is-gray is-size-7 has-text-centered">
+          <p>
+            CryptoIndex offers a software service that automatically manages customers' portfolios, executes trades on their behalf, and holds digital assets in individual sub-accounts. It does not provide index or mutual funds, nor is it regulated as such a provider.
+            Nothing on this website is intended to constitute investment advice. Customers are advised to seek the counsel of a qualified, independent financial adviser before forming a decision as to the appropriateness of investing through CryptoIndex.
+            Past performance is not indicative of future performance. Cryptocurrencies are a highly volatile asset class, and customers should have no expectation of attaining similar results to those possible through historical investment with CryptoIndex Furthermore, customers must accept the possibility of total loss.
+            Customer portfolios may diverge from the indexes they track, both in terms of asset allocation and of performance. As such, there is no guarantee that your portfolio's asset allocation will match those of the indexes being tracked, nor is there any guarantee that your performance returns will be as high.
+            Before deciding whether to avail of the services of CryptoIndex customers are required to read, comprehend, and agree to its <%= link_to 'terms and conditions', terms_path, style: 'color: gray; text-decoration: underline;' %>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

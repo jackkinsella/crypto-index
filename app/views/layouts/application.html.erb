@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= Current.title %> - CryptoIndex</title>
+
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <%= render 'layouts/icons' %>
+    <%= render 'layouts/fonts' %>
+
+    <%= javascript_tag nonce: true do %>
+      window.config = {
+        freshchat: {
+          token: '<%= Rails.application.credentials.services.freshchat.token %>'
+        }
+      }
+    <% end %>
+
+    <% if storage.local.present? %>
+      <%= javascript_tag nonce: true do %>
+        <% storage.local.each do |name, value| %>
+          <% raise ArgumentError unless name.to_s.exclude?('"') %>
+          localStorage.setItem(
+            "<%= name %>", JSON.stringify(<%= value.to_json.html_safe %>)
+          )
+        <% end %>
+      <% end %>
+    <% end %>
+
+    <%= javascript_pack_tag 'application' %>
+    <%= stylesheet_pack_tag 'application' %>
+  </head>
+
+  <%= content_tag(:body, class: page) do %>
+    <% flash.each do |name, message| %>
+      <%= content_tag :div, message,
+        class: "notification is-#{name} has-text-centered" %>
+    <% end %>
+    <%= yield %>
+  <% end %>
+</html>

@@ -1,0 +1,24 @@
+.has-text-gray-darker,
+.is-gray-darker {
+  @extend .has-text-grey-darker;
+}
+
+.has-text-gray-dark,
+.is-gray-dark {
+  @extend .has-text-grey-dark;
+}
+
+.has-text-gray,
+.is-gray {
+  @extend .has-text-grey;
+}
+
+.has-text-gray-light,
+.is-gray-light {
+  @extend .has-text-grey-light;
+}
+
+.has-text-gray-lighter,
+.is-gray-lighter {
+  @extend .has-text-grey-lighter;
+}

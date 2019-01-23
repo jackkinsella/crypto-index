@@ -1,0 +1,20 @@
+.financial-chart {
+  min-width: 300px !important;
+  padding-top: 50px;
+  position: relative;
+
+  @include mobile {
+    height: 70vh;
+    padding-top: 0;
+  }
+
+  canvas {
+    height: auto !important;
+    width: 100% !important;
+
+    @include mobile {
+      bottom: 0;
+      position: absolute;
+    }
+  }
+}

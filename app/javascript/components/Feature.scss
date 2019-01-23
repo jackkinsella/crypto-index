@@ -1,0 +1,43 @@
+.feature {
+  .column {
+    img {
+      filter: sepia() hue-rotate(165deg) saturate(120%);
+    }
+
+    .content {
+      @extend .is-size-5;
+
+      margin: $gap-quarter 0;
+    }
+  }
+}
+
+[data-react-class="Feature"] {
+  &:nth-of-type(2n) .feature {
+    .column:first-of-type {
+      @extend .is-offset-1;
+    }
+  }
+
+  &:nth-of-type(2n+1) .feature {
+    .column {
+      &:first-of-type {
+        order: 2;
+      }
+
+      &:nth-of-type(2) {
+        @include tablet {
+          margin-left: 100% / 12 * 1.5;
+        }
+      }
+    }
+  }
+}
+
+:not([data-react-class="Feature"]) + [data-react-class="Feature"] {
+  margin-top: $gap;
+}
+
+[data-react-class="Feature"] + :not([data-react-class="Feature"]) {
+  margin-top: $gap;
+}

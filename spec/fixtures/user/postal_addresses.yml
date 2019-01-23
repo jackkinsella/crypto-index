@@ -1,0 +1,34 @@
+---
+postal_address_for_signed_up:
+  id: 1
+  user_id: 1
+  street_line_1_enc: 9myLH8bpSS5+FUFc6YGvSr9V+r5ZGliIJA==--D+RWpG6Oa/TXM2Yr--g5PRZgXmxsLP0CcKP2NBTg==
+  street_line_2_enc: Ips5--GwQ2mO4E4rYwo7Px--TDeun8CeQR3Nz5aPY1W4rg==
+  zip_code_enc: iEW19BHbNbOLhkPMqRAlgbA=--qri46O8iCHtR/2XP--QsCXeECoFYXs8F4UCbcKAw==
+  city_enc: RgAwc8AdgnyZsc7H3Psphn0=--6smdr01QXSiLE/Wg--Fztka75eMXtF9+bucY8leg==
+  region_enc: HpaXH2hUReDV9+vr9MRrghw=--yf9Z6l9MB+8Zunrz--9o38jJqNvl18YHAZqtTDNQ==
+  country_alpha2_code: CA
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+postal_address_for_deposited:
+  id: 2
+  user_id: 2
+  street_line_1_enc: cl4I528G4+dYjEIMdhdIbVSfz2qPFAxhvQ==--E72hXGLBUT2Vh8HY--mMnJLyCohtFPd0fNxtv6sQ==
+  street_line_2_enc: 4mB4--1alZDAqDHBTHqHyY--QHqJQL55ed0JrZ4NHaPq3g==
+  zip_code_enc: jaL4/8+APhtKqUtPhtXgQA==--iyO/NZb2VjH1vD+/--GErk92qfqHn62bxNXNUSJg==
+  city_enc: nENbEeKB4Mzts3QIbQvhswsaym+UEeD7HLyZ--bIiDTFUuwzDhQ+0S--7b3dFfX0lkWa5BMp3MnBFw==
+  region_enc: 5hEC--sNY/vNOXxi3NS+jS--f2Lkd5muDtla/JxbREqm5g==
+  country_alpha2_code: CZ
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+postal_address_for_rebalanced:
+  id: 3
+  user_id: 3
+  street_line_1_enc: WFu3LLXiEgkcJxIZBYl8qOYShU8qbdIMEw==--UksGj4kSYZMuPRNQ--RXhRPiPj9+yR1Adp8a09rA==
+  street_line_2_enc: cZkB--taZH9qOCFfUoLfNH--qBrDJjl7n7g35sT9VoZ3Ew==
+  zip_code_enc: tV2HqEvaoUrDYfilv2h/I0c=--y8Qrt+YwmPtlElTg--SG2ZLDtpdxGu8aL27ZDOMA==
+  city_enc: YZ+i6beQA4caKUR1IrCBooY=--JrDSThKMkuUtLlbM--cqJxy33PDvpNT2k9pfiPHQ==
+  region_enc: 2QsVJUn8k2tNphQ7Q8BEAbc=--Sq6CeLLad1Jqe9oZ--/pdmnsvBlIEM94ZvCJPpiw==
+  country_alpha2_code: CA
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z

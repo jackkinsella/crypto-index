@@ -1,0 +1,43 @@
+.menu {
+  margin-bottom: $gap;
+  margin-top: 0;
+
+  > .navbar-burger {
+    @extend .is-hidden-tablet;
+
+    float: right;
+  }
+
+  &:not(.is-active) {
+    > :not(.navbar-burger) {
+      @extend .is-hidden-mobile;
+    }
+  }
+
+  .menu-list {
+    li {
+      @extend .is-size-7;
+
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+
+      a {
+        border-left: 3px solid transparent;
+        margin: 0.3em 0;
+
+        &:hover {
+          background-color: $white-transparent-three-quarters;
+        }
+
+        &.is-current {
+          background-color: $white-transparent-three-quarters;
+          border-color: $brand;
+        }
+      }
+    }
+
+    & + .menu-label {
+      padding-top: $gap-quarter;
+    }
+  }
+}

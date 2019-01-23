@@ -1,0 +1,67 @@
+---
+currency/addresses_001:
+  id: 1
+  owner_type: User::Account
+  owner_id: 1
+  currency_id: 9
+  category: deposit
+  value: '0xb6eFbDD4515e63eb2080a83385748170209c1313'
+  key_path: M/60/0
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+  disabled_at: 
+currency/addresses_002:
+  id: 2
+  owner_type: User::Account
+  owner_id: 2
+  currency_id: 9
+  category: deposit
+  value: '0x3C150B5619CeE88E5487b3bc78Fb17E5d9CA175D'
+  key_path: M/60/1
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+  disabled_at: 
+currency/addresses_003:
+  id: 3
+  owner_type: User::Account
+  owner_id: 3
+  currency_id: 9
+  category: deposit
+  value: '0x6657044801ADcf950BcD3c16B4F223aC96cB78e6'
+  key_path: M/60/2
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+  disabled_at: 
+currency/addresses_004:
+  id: 4
+  owner_type: User
+  owner_id: 2
+  currency_id: 9
+  category: user_inbound
+  value: '0x9ac807fd6778db313ea8626cc3d5a9987e27ac5f'
+  key_path: 
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+  disabled_at: 
+currency/addresses_005:
+  id: 5
+  owner_type: Market
+  owner_id: 1
+  currency_id: 9
+  category: market_inbound
+  value: '0xB91c376015960adeD91FB7D9B374E4dE962F12cd'
+  key_path: 
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+  disabled_at: 
+currency/addresses_006:
+  id: 6
+  owner_type: User
+  owner_id: 3
+  currency_id: 9
+  category: user_inbound
+  value: '0xd3b8fd3b5fa7f7316a329cd06eaf202097c16b39'
+  key_path: 
+  created_at: 2018-01-10 00:00:00.000000000 Z
+  updated_at: 2018-01-10 00:00:00.000000000 Z
+  disabled_at: 

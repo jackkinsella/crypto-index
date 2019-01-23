@@ -1,0 +1,189 @@
+require:
+  - ./linters/lint/dangerous_methods.rb
+  - ./linters/lint/method_sequence.rb
+
+AllCops:
+  Exclude:
+    - db/transforms/*
+    - db/migrate/*.rb
+    - db/schema.rb
+    - db/seeds.rb
+    - node_modules/**/*
+    - vendor/**/*
+
+Layout/AlignParameters:
+  Enabled: false
+
+Layout/DotPosition:
+  EnforcedStyle: trailing
+
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: indented
+
+Layout/MultilineOperationIndentation:
+  Enabled: false
+
+Layout/SpaceInsideHashLiteralBraces:
+  EnforcedStyle: no_space
+
+Lint/AmbiguousBlockAssociation:
+  Exclude:
+    - spec/**/*.rb
+
+Lint/AmbiguousOperator:
+  Enabled: false
+
+Lint/HandleExceptions:
+  Enabled: false
+
+Lint/UnneededSplatExpansion:
+  Enabled: false
+
+Lint/UnreachableCode:
+  Enabled: false # FIXME: Re-enable once refactorings are complete
+
+Lint/UnusedMethodArgument:
+  Exclude:
+    - app/jobs/**/*.rb
+    - app/mocks/**/*.rb
+
+Lint/SafeNavigationChain:
+  Enabled: false
+
+Metrics/AbcSize:
+  Max: 40
+
+Metrics/BlockLength:
+  Max: 25
+  Exclude:
+    - app/*/concerns/**/*.rb
+    - config/environments/*.rb
+    - config/routes.rb
+    - spec/**/*.rb
+    - lib/tasks/*.rake
+
+Metrics/ClassLength:
+  Max: 250
+
+Metrics/CyclomaticComplexity:
+  Max: 5
+
+Metrics/MethodLength:
+  Max: 30
+
+Metrics/ModuleLength:
+  Max: 250
+
+Metrics/ParameterLists:
+  Exclude:
+    - app/mocks/**/*.rb
+
+Naming/MemoizedInstanceVariableName:
+  EnforcedStyleForLeadingUnderscores: required
+
+Naming/VariableName:
+  Exclude:
+    - app/mocks/**/*.rb
+
+Naming/VariableNumber:
+  EnforcedStyle: snake_case
+
+Rails:
+  Enabled: true
+  Exclude:
+    - lib/**/*.rb
+
+Rails/ActiveRecordAliases:
+  Enabled: true
+
+Rails/ApplicationRecord:
+  Exclude:
+    - app/models/application_view.rb
+
+Rails/FilePath:
+  Enabled: false
+
+Rails/Date:
+  Enabled: false
+
+Rails/SkipsModelValidations:
+  Enabled: false
+
+Rails/TimeZone:
+  Enabled: false
+
+Rails/UniqBeforePluck:
+  Exclude:
+    - spec/**/*.rb
+
+Style/AsciiComments:
+  Enabled: false
+
+Style/AndOr:
+  EnforcedStyle: conditionals
+
+Style/BlockDelimiters:
+  EnforcedStyle: semantic
+  Exclude:
+    - spec/factories/**/*.rb
+  FunctionalMethods:
+    - after
+    - before
+    - each
+    - expect
+    - find
+    - let
+    - let!
+    - max_by
+    - min_by
+    - perform_enqueued_jobs
+    - subject
+
+Style/ClassAndModuleChildren:
+  EnforcedStyle: nested
+  Exclude:
+    - app/controllers/**/*.rb
+    - app/controllers/concerns/*/*.rb
+    - app/models/**/*.rb
+    - app/models/concerns/*/*.rb
+    - config/initializers/*.rb
+
+Style/Documentation:
+  Enabled: false
+
+Style/EmptyMethod:
+  EnforcedStyle: expanded
+
+Style/FormatString:
+  EnforcedStyle: percent
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/Lambda:
+  EnforcedStyle: literal
+
+Style/MixinUsage:
+  Enabled: false
+
+Style/MultilineBlockChain:
+  Enabled: false
+
+Style/NumericLiterals:
+  MinDigits: 5
+
+Style/PercentLiteralDelimiters:
+  PreferredDelimiters:
+    "%w": "[]"
+
+Style/RegexpLiteral:
+  Enabled: false
+
+Style/RescueModifier:
+  Enabled: false
+
+Style/StringLiterals:
+  EnforcedStyle: single_quotes
+
+Style/SymbolArray:
+  EnforcedStyle: brackets

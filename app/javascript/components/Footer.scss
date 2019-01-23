@@ -1,0 +1,26 @@
+.footer {
+  border-top: 1px solid $gray-dark;
+  color: $white;
+
+  &.has-text-centered {
+    .logo {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
+  .container {
+    padding: $gap 0 $gap-half 0;
+
+    .logo {
+      display: block;
+      margin-bottom: $gap-quarter;
+    }
+
+    .menu li > a {
+      background-color: $footer-background-color;
+      color: $white;
+      padding-left: 0;
+    }
+  }
+}

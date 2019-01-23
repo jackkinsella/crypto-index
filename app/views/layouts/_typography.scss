@@ -1,0 +1,8 @@
+.title,
+.subtitle {
+  @extend .has-text-weight-normal;
+}
+
+hr {
+  margin-bottom: $gap-half;
+}

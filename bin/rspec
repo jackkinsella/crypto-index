@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+echo "Initializing blockchain..."
+fifo=/tmp/blockchain_deployed_notify.$$
+mkfifo "${fifo}"
+./bin/blockchain test >${fifo} &
+blockchain_pid=$!
+
+clean_up() {
+  kill $blockchain_pid
+}
+trap clean_up EXIT
+
+initialized_string="Listening on "
+grep -m 1 "$initialized_string" "${fifo}" >/dev/null
+rm $fifo
+echo "Done"
+
+rspec "$@"
+rspec_exit_code=$?
+
+exit $rspec_exit_code

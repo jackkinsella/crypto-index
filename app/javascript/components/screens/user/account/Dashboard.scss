@@ -1,0 +1,27 @@
+.dashboard {
+  .title {
+    margin-bottom: $gap-half;
+  }
+
+  .section {
+    ul {
+      .icon.is-success > i {
+        color: $success;
+      }
+
+      .icon.is-gray-lighter > i {
+        color: $gray-lighter;
+      }
+
+      li {
+        align-items: center;
+        display: flex;
+      }
+    }
+
+    .financial-chart {
+      margin: 0 $gap-half $gap-half $gap-half !important;
+      padding-top: 0;
+    }
+  }
+}

@@ -1,0 +1,15 @@
+.login {
+  .form {
+    @extend .box;
+
+    background-color: $white-transparent-half;
+  }
+
+  p {
+    margin-top: $gap-quarter;
+  }
+
+  a {
+    color: $link !important;
+  }
+}

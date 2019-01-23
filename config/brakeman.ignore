@@ -1,0 +1,66 @@
+{
+  "ignored_warnings": [
+    {
+      "warning_type": "SQL Injection",
+      "warning_code": 0,
+      "fingerprint": "7b1bf3fbb54f790995e8c51a2f543978e1d2caa0f35952b23299cb1f576ae613",
+      "check_name": "SQL",
+      "message": "Possible SQL injection",
+      "file": "app/models/concerns/timestamped.rb",
+      "line": 27,
+      "link": "https://brakemanscanner.org/docs/warning_types/sql_injection/",
+      "code": "where(\"        timestamp = (\\n          SELECT MAX(timestamp)\\n          FROM #{quoted_table_name} \\\"#{table_name}_for_#{model}\\\"\\n          WHERE #{quoted_table_name}.#{model}_id =\\n            \\\"#{table_name}_for_#{model}\\\".#{model}_id\\n          AND timestamp <= '#{Time.now.round_down.to_s(:db)}'\\n        )\\n\")",
+      "render_path": null,
+      "location": {
+        "type": "method",
+        "class": "Timestamped",
+        "method": null
+      },
+      "user_input": "model",
+      "confidence": "Medium",
+      "note": ""
+    },
+    {
+      "warning_type": "File Access",
+      "warning_code": 16,
+      "fingerprint": "8d3bd0aa88eb155f6a2efa987c8eabc570e86dd0152cc44b4cc73ca63698cd4a",
+      "check_name": "FileAccess",
+      "message": "Parameter value used in file name",
+      "file": "app/controllers/concerns/screen_templates.rb",
+      "line": 14,
+      "link": "https://brakemanscanner.org/docs/warning_types/file_access/",
+      "code": "FileUtils.mkdir_p(\"#{directory}/#{params[:controller]}\")",
+      "render_path": null,
+      "location": {
+        "type": "method",
+        "class": "ScreenTemplates",
+        "method": null
+      },
+      "user_input": "params[:controller]",
+      "confidence": "High",
+      "note": ""
+    },
+    {
+      "warning_type": "Dynamic Render Path",
+      "warning_code": 15,
+      "fingerprint": "9935580ac837609b92d0e8de1b636170b1c210f2a810efbd7782bc411fd863e7",
+      "check_name": "Render",
+      "message": "Render path contains parameter value",
+      "file": "app/controllers/pages_controller.rb",
+      "line": 6,
+      "link": "https://brakemanscanner.org/docs/warning_types/dynamic_render_path/",
+      "code": "render(action => params[:page], {})",
+      "render_path": null,
+      "location": {
+        "type": "method",
+        "class": "PagesController",
+        "method": "show"
+      },
+      "user_input": "params[:page]",
+      "confidence": "High",
+      "note": ""
+    }
+  ],
+  "updated": "2018-07-25 18:26:07 +0200",
+  "brakeman_version": "4.3.0"
+}

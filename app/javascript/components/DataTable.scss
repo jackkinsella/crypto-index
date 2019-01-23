@@ -1,0 +1,11 @@
+.data-table {
+  margin-left: $gap-quarter;
+  margin-right: $gap-quarter;
+  overflow: scroll;
+
+  th,
+  td {
+    font-family: $family-monospace;
+    white-space: pre;
+  }
+}

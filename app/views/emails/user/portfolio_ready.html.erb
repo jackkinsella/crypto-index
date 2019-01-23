@@ -1,0 +1,22 @@
+<p>Your portfolio has been assembled!</p>
+
+<p>
+  It contains the following currency holdings:
+</p>
+
+<%= render 'emails/shared/holdings', holdings: @portfolio.holdings %>
+
+<p>
+ If a rebalancing has occurred since this email was sent, your
+ current holdings may differ. For that reason, an up-to-date
+ <%= link_to 'list of your holdings', portfolio_currencies_url %>
+ can be found in your personalized dashboard.
+</p>
+
+<p>
+  Additionally, you'll probably want to check out the
+  <%= link_to 'performance metrics', account_dashboard_url %>
+  for your portfolio which will be available soon.
+</p>
+
+<%= render 'emails/shared/footer' %>

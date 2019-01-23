@@ -1,0 +1,9 @@
+.deposits {
+  .transactions {
+    .table td {
+      &:nth-of-type(2) {
+        color: $brand;
+      }
+    }
+  }
+}

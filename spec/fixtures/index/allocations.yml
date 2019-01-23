@@ -1,0 +1,372 @@
+---
+allocation_for_market10_at_1483228800:
+  id: 1
+  index_id: 1
+  value: !ruby/object:BigDecimal 18:0.1e3
+  timestamp: 2017-01-01 00:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515538800:
+  id: 2
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272305585128919e3
+  timestamp: 2018-01-09 23:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515542400:
+  id: 3
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272322196550178e3
+  timestamp: 2018-01-10 00:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515546000:
+  id: 4
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272338807971438e3
+  timestamp: 2018-01-10 01:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515549600:
+  id: 5
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272355419392698e3
+  timestamp: 2018-01-10 02:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515553200:
+  id: 6
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272372030813959e3
+  timestamp: 2018-01-10 03:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515556800:
+  id: 7
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272388642235219e3
+  timestamp: 2018-01-10 04:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515560400:
+  id: 8
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.27240525365648e3
+  timestamp: 2018-01-10 05:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515564000:
+  id: 9
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272421865077741e3
+  timestamp: 2018-01-10 06:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515567600:
+  id: 10
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272438476499002e3
+  timestamp: 2018-01-10 07:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515571200:
+  id: 11
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272455087920264e3
+  timestamp: 2018-01-10 08:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515574800:
+  id: 12
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272471699341525e3
+  timestamp: 2018-01-10 09:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515578400:
+  id: 13
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272488310762787e3
+  timestamp: 2018-01-10 10:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515582000:
+  id: 14
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.27250492218405e3
+  timestamp: 2018-01-10 11:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515585600:
+  id: 15
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272521533605312e3
+  timestamp: 2018-01-10 12:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515589200:
+  id: 16
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272538145026575e3
+  timestamp: 2018-01-10 13:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515592800:
+  id: 17
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272554756447838e3
+  timestamp: 2018-01-10 14:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515596400:
+  id: 18
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272571367869101e3
+  timestamp: 2018-01-10 15:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515600000:
+  id: 19
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272587979290364e3
+  timestamp: 2018-01-10 16:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515603600:
+  id: 20
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272604590711628e3
+  timestamp: 2018-01-10 17:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515607200:
+  id: 21
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272621202132892e3
+  timestamp: 2018-01-10 18:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515610800:
+  id: 22
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272637813554156e3
+  timestamp: 2018-01-10 19:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515614400:
+  id: 23
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.27265442497542e3
+  timestamp: 2018-01-10 20:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515618000:
+  id: 24
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272671036396685e3
+  timestamp: 2018-01-10 21:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515621600:
+  id: 25
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272687647817949e3
+  timestamp: 2018-01-10 22:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515625200:
+  id: 26
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272704259239214e3
+  timestamp: 2018-01-10 23:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515628800:
+  id: 27
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.27272087066048e3
+  timestamp: 2018-01-11 00:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515632400:
+  id: 28
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272737482081745e3
+  timestamp: 2018-01-11 01:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515636000:
+  id: 29
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272754093503011e3
+  timestamp: 2018-01-11 02:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515639600:
+  id: 30
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272770704924277e3
+  timestamp: 2018-01-11 03:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515643200:
+  id: 31
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272787316345543e3
+  timestamp: 2018-01-11 04:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515646800:
+  id: 32
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272803927766809e3
+  timestamp: 2018-01-11 05:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515650400:
+  id: 33
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272820539188076e3
+  timestamp: 2018-01-11 06:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515654000:
+  id: 34
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272837150609343e3
+  timestamp: 2018-01-11 07:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515657600:
+  id: 35
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.27285376203061e3
+  timestamp: 2018-01-11 08:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515661200:
+  id: 36
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272870373451878e3
+  timestamp: 2018-01-11 09:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515664800:
+  id: 37
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272886984873145e3
+  timestamp: 2018-01-11 10:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515668400:
+  id: 38
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272903596294413e3
+  timestamp: 2018-01-11 11:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515672000:
+  id: 39
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272920207715681e3
+  timestamp: 2018-01-11 12:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515675600:
+  id: 40
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272936819136949e3
+  timestamp: 2018-01-11 13:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515679200:
+  id: 41
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272953430558218e3
+  timestamp: 2018-01-11 14:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515682800:
+  id: 42
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272970041979487e3
+  timestamp: 2018-01-11 15:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515686400:
+  id: 43
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.272986653400756e3
+  timestamp: 2018-01-11 16:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515690000:
+  id: 44
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.273003264822025e3
+  timestamp: 2018-01-11 17:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515693600:
+  id: 45
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.273019876243295e3
+  timestamp: 2018-01-11 18:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515697200:
+  id: 46
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.273036487664564e3
+  timestamp: 2018-01-11 19:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515700800:
+  id: 47
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.273053099085834e3
+  timestamp: 2018-01-11 20:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515704400:
+  id: 48
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.273069710507105e3
+  timestamp: 2018-01-11 21:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515708000:
+  id: 49
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.273086321928375e3
+  timestamp: 2018-01-11 22:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515711600:
+  id: 50
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.273102933349646e3
+  timestamp: 2018-01-11 23:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1515715200:
+  id: 51
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.273119544770917e3
+  timestamp: 2018-01-12 00:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1517569200:
+  id: 52
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.281674426756689e3
+  timestamp: 2018-02-02 11:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z
+allocation_for_market10_at_1517572800:
+  id: 53
+  index_id: 1
+  value: !ruby/object:BigDecimal 36:0.281691038178081e3
+  timestamp: 2018-02-02 12:00:00.000000000 Z
+  created_at: 2018-02-02 12:30:00.000000000 Z
+  updated_at: 2018-02-02 12:30:00.000000000 Z

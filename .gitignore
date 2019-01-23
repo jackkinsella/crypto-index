@@ -1,0 +1,12 @@
+/*.log
+/.bundle
+/.byebug_history
+/.env
+/config/master.key
+/coverage
+/lambdas/*/build
+/lambdas/*/node_modules
+/log
+/node_modules
+/public/assets*
+/tmp

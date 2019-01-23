@@ -1,0 +1,45 @@
+<% Current.title = @index.title %>
+
+<% cache do %>
+  <%= render_component 'Hero',
+    title: "#{@index.title}",
+    subtitle: number_with_precision(@index.value, delimiter: ',', precision: 2),
+    modifiers: 'is-small is-floating',
+    subtitleModifiers: 'has-text-info',
+    children: {
+      navbar: 'props/navbar/full'
+    }
+  %>
+
+  <%= render_component 'FinancialChart',
+    labels: @data.map { |time, _value| time },
+    values: @data.map { |_time, value| value },
+    settings: {
+      currencySymbol: '',
+      displayScales: false,
+      theme: 'light'
+    }
+  %>
+
+  <%= render_component 'Currencies',
+    title: 'Current allocation',
+    headers: {
+      title: 'Name',
+      marketCapUsd: 'Market capitalization',
+      priceUsd: 'Price',
+      weightPercent: 'Weighting'
+    },
+    items: @currencies,
+    sortColumn: 'marketCapUsd',
+    sortOrder: 'desc',
+    assets: @currencies.each_with_object({icon: {}}) { |currency, assets|
+      assets[:icon][currency.symbol] =
+        "images/icons/currencies/#{currency.symbol.downcase}.svg"
+    },
+    paths: @currencies.each_with_object({show: {}}) { |currency, paths|
+      paths[:show][currency.symbol] = currency_path(currency)
+    }
+  %>
+
+  <%= render 'shared/footer' %>
+<% end %>

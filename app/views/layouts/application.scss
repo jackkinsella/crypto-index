@@ -1,0 +1,230 @@
+@import "variables";
+@import "~animate.css";
+@import "~bulma/bulma";
+@import "modifiers";
+@import "typography";
+@import "../../javascript/components/Currencies";
+@import "../../javascript/components/DataTable";
+@import "../../javascript/components/Dropdown";
+@import "../../javascript/components/Feature";
+@import "../../javascript/components/Features";
+@import "../../javascript/components/FinancialChart";
+@import "../../javascript/components/Footer";
+@import "../../javascript/components/Hero";
+@import "../../javascript/components/Indexes";
+@import "../../javascript/components/Login";
+@import "../../javascript/components/Navbar";
+@import "../../javascript/components/Signup";
+@import "../../javascript/components/Transactions";
+@import "../../javascript/components/elements/Link";
+@import "../../javascript/components/form/Field";
+@import "../../javascript/components/form/Form";
+@import "../../javascript/components/layout/Hero";
+@import "../../javascript/components/screens/user/account/Dashboard";
+@import "../../javascript/components/screens/user/account/Setup";
+@import "../../javascript/components/screens/user/portfolio/CurrencyHoldings";
+@import "../../javascript/components/screens/user/portfolio/TrackedIndexes";
+@import "../../javascript/components/screens/user/settings/Account";
+@import "../../javascript/components/screens/user/settings/Email";
+@import "../../javascript/components/screens/user/settings/Phone";
+@import "../../javascript/components/screens/user/settings/Security";
+@import "../../javascript/components/screens/user/shared/MainMenu";
+@import "../../javascript/components/screens/user/shared/SettingsMenu";
+@import "../../javascript/components/screens/user/transactions/Deposits";
+@import "../../javascript/components/screens/user/transactions/Rebalancings";
+@import "../../javascript/components/screens/user/transactions/Withdrawals";
+@import "../../javascript/components/wrappers/withMainMenu";
+@import "../../javascript/components/wrappers/withSettingsMenu";
+@import "../mixins/circle";
+
+.dashboard,
+.currency-holdings,
+.tracked-indexes,
+.deposits,
+.rebalancings,
+.withdrawals {
+  background-color: $gray-lightest;
+}
+
+.is-preview {
+  padding: 0 !important;
+
+  .currencies {
+    padding: 0 !important;
+
+    th {
+      border-bottom-width: 1px;
+      border-color: $info;
+    }
+
+    td {
+      border: none;
+      padding: 0.5em;
+    }
+
+    tr:first-of-type > td {
+      padding-top: 1em;
+    }
+  }
+}
+
+.circle-container {
+  @extend .is-hidden-mobile;
+
+  height: 800px;
+  left: calc(30% - 750px);
+  margin-top: 50px;
+  position: absolute;
+  width: 800px;
+}
+
+.tile-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tile.is-square {
+  flex: 1 0 calc(25% - 10px);
+
+  &::after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+  }
+}
+
+ul.circle {
+  img {
+    height: 100%;
+    max-width: 4rem;
+    width: 100%;
+  }
+
+  &.is-rotating {
+    animation: circle-rotation 25s linear infinite;
+  }
+
+  @include circle($item-count: 10, $circle-size: 100%, $item-size: 60%);
+
+  @keyframes circle-rotation {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+}
+
+.about {
+  margin: $gap 0;
+}
+
+.about,
+.faq,
+.legal {
+  .content {
+    margin-bottom: $gap;
+
+    h1 {
+      color: $info;
+      margin-bottom: $gap-half;
+      margin-top: $gap;
+    }
+
+    p,
+    li {
+      @extend .is-gray;
+      @extend .is-size-5;
+    }
+  }
+}
+
+.team {
+  h3 {
+    margin: 3em 0 1em;
+  }
+
+  hr {
+    margin: 3em 0;
+  }
+
+  img {
+    border-radius: 50%;
+    float: left;
+    height: 90px;
+    margin-right: 1.5em;
+    width: 90px;
+  }
+}
+
+.blog {
+  background-color: $light;
+  padding: 0 0 2 * $gap 0;
+
+  .card {
+    border-radius: 8px;
+    box-shadow: none;
+    transition: 0.5s ease-out all;
+
+    &:hover {
+      box-shadow: 0 12.5px 25px rgba(60, 66, 68, 0.2);
+      cursor: pointer;
+    }
+
+    .card-content {
+      padding: 2em;
+
+      time {
+        display: block;
+        letter-spacing: 0.1em;
+        margin-bottom: 1.5em;
+        text-transform: uppercase;
+      }
+
+      .content {
+        h2 {
+          line-height: 1.4em;
+        }
+
+        p {
+          @extend .is-gray;
+        }
+      }
+    }
+  }
+
+  &.post .content {
+    padding-top: 2 * $gap;
+
+    h1 {
+      color: $info;
+      margin-bottom: $gap-half;
+      margin-top: $gap;
+    }
+
+    p,
+    li {
+      @extend .is-gray;
+      @extend .is-size-5;
+    }
+  }
+}
+
+body > .notification {
+  border-radius: 0;
+  margin-bottom: 0 !important;
+}
+
+.home {
+  .financial-chart {
+    @include mobile {
+      height: 30vh !important;
+    }
+  }
+
+  .is-preview {
+    margin-left: 10px;
+  }
+
+  .hero.is-dark .title {
+    line-height: 1.6em;
+  }
+}

@@ -1,0 +1,33 @@
+.indexes {
+  margin-left: $gap-quarter;
+  margin-right: $gap-quarter;
+
+  > .title {
+    padding-bottom: $gap-quarter;
+  }
+
+  .item {
+    &:last-of-type {
+      margin-bottom: $gap-quarter;
+    }
+
+    .title {
+      align-items: center;
+      color: $link;
+      display: flex;
+      padding-top: $gap-quarter * 0.5;
+
+      &:hover {
+        color: $link-hover;
+      }
+
+      .icon {
+        margin-right: $gap-quarter;
+      }
+    }
+
+    .description {
+      color: $gray;
+    }
+  }
+}

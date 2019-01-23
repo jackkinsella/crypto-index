@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+while true
+do
+  hours=$(date +%H)
+  minutes=$(date +%M)
+
+  if [ $((${minutes#0} % 10)) -eq 0 ]; then
+    echo "running: rails scheduler:every_10_minutes:all"
+    bundle exec rails scheduler:every_10_minutes:all
+  fi
+
+  if [ $((${minutes#0})) -eq 0 ]; then
+    echo "running: rails scheduler:hourly:all"
+    bundle exec rails scheduler:hourly:all
+
+    if [ $((${hours#0})) -eq 12 ]; then
+      echo "running: rails scheduler:daily:all"
+      bundle exec rails scheduler:daily:all
+    fi
+  fi
+
+  sleep 60
+done

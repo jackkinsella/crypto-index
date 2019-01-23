@@ -1,0 +1,5 @@
+web: bundle exec puma -C config/puma.rb > web.log
+worker: bundle exec sidekiq -C config/sidekiq.yml > worker.log
+webpack: bin/webpack-dev-server > webpack.log
+scheduler: bin/scheduler > scheduler.log
+blockchain: bin/blockchain > blockchain.log

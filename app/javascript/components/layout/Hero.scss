@@ -1,0 +1,94 @@
+.hero {
+  background-position: center;
+  background-size: cover;
+
+  &.is-floating {
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    visibility: hidden;
+    width: 100%;
+    z-index: 1;
+
+    .hero-head {
+      visibility: visible;
+    }
+
+    .hero-body {
+      .title > span,
+      .subtitle > span {
+        background-color: $white-transparent-one-quarter;
+        padding: $gap-quarter;
+        visibility: visible;
+      }
+    }
+  }
+
+  &.is-top {
+    .hero-body {
+      align-items: flex-start !important;
+    }
+  }
+
+  .hero-head + .hero-body {
+    margin-bottom: $gap;
+  }
+
+  .hero-body {
+    .title {
+      & + .subtitle {
+        padding-top: $gap-half;
+      }
+    }
+
+    .subtitle {
+      @extend .is-size-5;
+      @extend .is-size-4-tablet;
+
+      margin: 0 auto;
+      max-width: $tablet - 100px;
+    }
+  }
+
+  .rain {
+    background: white;
+    background: linear-gradient(
+      to bottom, rgba(255, 255, 255, 0) 0%, $white 100%
+    );
+    height: 50px;
+    position: absolute;
+    width: 3px;
+
+    @for $i from 1 through 100 {
+      $top: (random(50) + 50) * 1%;
+      $left: random(100) * 1%;
+      $opacity: (random(30) + 30) * 0.01;
+      $delay: random(20) - 1s;
+
+      &:nth-of-type(#{$i}) {
+        animation-delay: $delay;
+        animation-duration: random(6) + 4s;
+        animation-iteration-count: infinite;
+        animation-name: rain-#{$i};
+        left: $left;
+        margin-top: -50px;
+        opacity: $opacity;
+        top: -$top;
+      }
+
+      @keyframes rain-#{$i} {
+        0% {
+          left: $left;
+          opacity: $opacity;
+          top: -$top;
+        }
+
+        100% {
+          opacity: 0;
+          top: $top;
+        }
+      }
+    }
+  }
+}

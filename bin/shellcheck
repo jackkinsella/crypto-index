@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+set -e
+
+ag -rl '^#!/usr/bin/env bash' . | while read -r file
+do
+  shellcheck -e SC1117 -e SC1090 "$file"
+done

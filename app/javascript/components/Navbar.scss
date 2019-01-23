@@ -1,0 +1,45 @@
+.navbar {
+  box-shadow: none !important;
+  margin: $gap-quarter $gap-quarter 0 $gap-quarter;
+
+  @include tablet {
+    margin: $gap-half $gap-half 0 $gap-half;
+  }
+
+  .navbar-brand {
+    .navbar-item {
+      text-decoration: none;
+    }
+
+    img + h2 {
+      padding-left: $gap-quarter;
+    }
+  }
+
+  .navbar-menu {
+    .navbar-item {
+      border-bottom: 3px solid transparent;
+
+      &.is-current {
+        border-color: $brand;
+      }
+    }
+  }
+}
+
+.hero.has-background-image .navbar {
+  .navbar-item {
+    color: $white;
+
+    &:hover,
+    &.is-active {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+  }
+
+  .navbar-menu {
+    .is-active {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+  }
+}

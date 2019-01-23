@@ -1,0 +1,13 @@
+<p>Welcome to CryptoIndex!</p>
+
+<p>
+  You'll soon be able to invest in cryptocurrencies the smart way:
+  magically simple, fully automatic, and reliably secure.
+</p>
+
+<p>
+  <%= link_to 'Click here to confirm your email address', confirm_email_url(
+    email: @user.email, token: @user.email_confirmation_token) %>
+</p>
+
+<%= render 'emails/shared/footer' %>
